@@ -1,0 +1,3277 @@
+﻿Area_name,State,County,POVALL_2018,POP_ESTIMATE_2018,
+United States,US,"United States, US","41,852,315","327,167,434",0.13
+Alabama,AL,"Alabama, AL","801,758","4,887,871",0.16
+Autauga County,AL,"Autauga County, AL","7,587","55,601",0.14
+Baldwin County,AL,"Baldwin County, AL","21,069","218,022",0.10
+Barbour County,AL,"Barbour County, AL","6,788","24,881",0.27
+Bibb County,AL,"Bibb County, AL","4,400","22,400",0.20
+Blount County,AL,"Blount County, AL","7,527","57,840",0.13
+Bullock County,AL,"Bullock County, AL","3,610","10,138",0.36
+Butler County,AL,"Butler County, AL","4,731","19,680",0.24
+Calhoun County,AL,"Calhoun County, AL","21,719","114,277",0.19
+Chambers County,AL,"Chambers County, AL","6,181","33,615",0.18
+Cherokee County,AL,"Cherokee County, AL","4,180","26,032",0.16
+Chilton County,AL,"Chilton County, AL","7,542","44,153",0.17
+Choctaw County,AL,"Choctaw County, AL","2,806","12,841",0.22
+Clarke County,AL,"Clarke County, AL","5,381","23,920",0.22
+Clay County,AL,"Clay County, AL","2,285","13,275",0.17
+Cleburne County,AL,"Cleburne County, AL","2,356","14,987",0.16
+Coffee County,AL,"Coffee County, AL","7,053","51,909",0.14
+Colbert County,AL,"Colbert County, AL","7,459","54,762",0.14
+Conecuh County,AL,"Conecuh County, AL","2,979","12,277",0.24
+Coosa County,AL,"Coosa County, AL","1,973","10,715",0.18
+Covington County,AL,"Covington County, AL","7,239","36,986",0.20
+Crenshaw County,AL,"Crenshaw County, AL","2,661","13,824",0.19
+Cullman County,AL,"Cullman County, AL","11,925","83,442",0.14
+Dale County,AL,"Dale County, AL","7,743","48,956",0.16
+Dallas County,AL,"Dallas County, AL","11,841","38,310",0.31
+DeKalb County,AL,"DeKalb County, AL","14,975","71,385",0.21
+Elmore County,AL,"Elmore County, AL","8,559","81,887",0.10
+Escambia County,AL,"Escambia County, AL","8,022","36,748",0.22
+Etowah County,AL,"Etowah County, AL","17,509","102,501",0.17
+Fayette County,AL,"Fayette County, AL","3,801","16,433",0.23
+Franklin County,AL,"Franklin County, AL","5,939","31,363",0.19
+Geneva County,AL,"Geneva County, AL","5,537","26,314",0.21
+Greene County,AL,"Greene County, AL","2,459","8,233",0.30
+Hale County,AL,"Hale County, AL","3,705","14,726",0.25
+Henry County,AL,"Henry County, AL","3,037","17,209",0.18
+Houston County,AL,"Houston County, AL","17,032","104,722",0.16
+Jackson County,AL,"Jackson County, AL","10,046","51,736",0.19
+Jefferson County,AL,"Jefferson County, AL","103,604","659,300",0.16
+Lamar County,AL,"Lamar County, AL","2,374","13,844",0.17
+Lauderdale County,AL,"Lauderdale County, AL","12,645","92,387",0.14
+Lawrence County,AL,"Lawrence County, AL","6,297","32,957",0.19
+Lee County,AL,"Lee County, AL","30,075","163,941",0.18
+Limestone County,AL,"Limestone County, AL","10,633","96,174",0.11
+Lowndes County,AL,"Lowndes County, AL","2,474","9,974",0.25
+Macon County,AL,"Macon County, AL","5,031","18,439",0.27
+Madison County,AL,"Madison County, AL","42,667","366,519",0.12
+Marengo County,AL,"Marengo County, AL","4,499","19,066",0.24
+Marion County,AL,"Marion County, AL","5,844","29,763",0.20
+Marshall County,AL,"Marshall County, AL","17,341","96,109",0.18
+Mobile County,AL,"Mobile County, AL","84,539","413,757",0.20
+Monroe County,AL,"Monroe County, AL","4,560","21,067",0.22
+Montgomery County,AL,"Montgomery County, AL","43,567","225,763",0.19
+Morgan County,AL,"Morgan County, AL","15,419","119,089",0.13
+Perry County,AL,"Perry County, AL","2,943","9,140",0.32
+Pickens County,AL,"Pickens County, AL","4,177","19,938",0.21
+Pike County,AL,"Pike County, AL","7,315","33,338",0.22
+Randolph County,AL,"Randolph County, AL","4,375","22,725",0.19
+Russell County,AL,"Russell County, AL","12,384","57,781",0.21
+St. Clair County,AL,"St. Clair County, AL","10,432","88,690",0.12
+Shelby County,AL,"Shelby County, AL","16,916","215,707",0.08
+Sumter County,AL,"Sumter County, AL","4,076","12,691",0.32
+Talladega County,AL,"Talladega County, AL","14,825","79,828",0.19
+Tallapoosa County,AL,"Tallapoosa County, AL","7,839","40,497",0.19
+Tuscaloosa County,AL,"Tuscaloosa County, AL","33,330","208,911",0.16
+Walker County,AL,"Walker County, AL","11,231","63,711",0.18
+Washington County,AL,"Washington County, AL","2,846","16,378",0.17
+Wilcox County,AL,"Wilcox County, AL","3,504","10,627",0.33
+Winston County,AL,"Winston County, AL","4,338","23,660",0.18
+Alaska,AK,"Alaska, AK","80,224","737,438",0.11
+Aleutians East Borough,AK,"Aleutians East Borough, AK",544,"3,515",0.15
+Aleutians West Census Area,AK,"Aleutians West Census Area, AK",550,"5,723",0.10
+Anchorage Borough,AK,"Anchorage Borough, AK","27,075","291,538",0.09
+Bethel Census Area,AK,"Bethel Census Area, AK","5,869","18,216",0.32
+Bristol Bay Borough,AK,"Bristol Bay Borough, AK",96,877,0.11
+Denali Borough,AK,"Denali Borough, AK",135,"2,059",0.07
+Dillingham Census Area,AK,"Dillingham Census Area, AK","1,091","5,000",0.22
+Fairbanks North Star Borough,AK,"Fairbanks North Star Borough, AK","8,104","98,971",0.08
+Haines Borough,AK,"Haines Borough, AK",259,"2,474",0.10
+Hoonah-Angoon Census Area,AK,"Hoonah-Angoon Census Area, AK",370,"2,151",0.17
+Juneau Borough,AK,"Juneau Borough, AK","2,299","32,113",0.07
+Kenai Peninsula Borough,AK,"Kenai Peninsula Borough, AK","7,103","58,533",0.12
+Ketchikan Gateway Borough,AK,"Ketchikan Gateway Borough, AK","1,244","13,918",0.09
+Kodiak Island Borough,AK,"Kodiak Island Borough, AK","1,073","13,345",0.08
+Kusilvak Census Area,AK,"Kusilvak Census Area, AK","2,905","8,303",0.35
+Lake and Peninsula Borough,AK,"Lake and Peninsula Borough, AK",288,"1,587",0.18
+Matanuska-Susitna Borough,AK,"Matanuska-Susitna Borough, AK","10,937","107,610",0.10
+Nome Census Area,AK,"Nome Census Area, AK","2,168","10,008",0.22
+North Slope Borough,AK,"North Slope Borough, AK","1,094","9,872",0.11
+Northwest Arctic Borough,AK,"Northwest Arctic Borough, AK","1,604","7,671",0.21
+Petersburg Borough,AK,"Petersburg Borough, AK",232,"3,221",0.07
+Prince of Wales-Hyder Census Area,AK,"Prince of Wales-Hyder Census Area, AK","1,057","6,422",0.16
+Sitka Borough,AK,"Sitka Borough, AK",656,"8,647",0.08
+Skagway Municipality,AK,"Skagway Municipality, AK",49,"1,148",0.04
+Southeast Fairbanks Census Area,AK,"Southeast Fairbanks Census Area, AK",918,"6,918",0.13
+Valdez-Cordova Census Area,AK,"Valdez-Cordova Census Area, AK",880,"9,164",0.10
+Wrangell City and Borough,AK,"Wrangell City and Borough, AK",287,"2,503",0.11
+Yakutat Borough,AK,"Yakutat Borough, AK",79,604,0.13
+Yukon-Koyukuk Census Area,AK,"Yukon-Koyukuk Census Area, AK","1,259","5,327",0.24
+Arizona,AZ,"Arizona, AZ","990,291","7,171,646",0.14
+Apache County,AZ,"Apache County, AZ","26,435","71,818",0.37
+Cochise County,AZ,"Cochise County, AZ","18,273","126,770",0.14
+Coconino County,AZ,"Coconino County, AZ","20,964","142,854",0.15
+Gila County,AZ,"Gila County, AZ","10,804","53,889",0.20
+Graham County,AZ,"Graham County, AZ","7,118","38,072",0.19
+Greenlee County,AZ,"Greenlee County, AZ",985,"9,483",0.10
+La Paz County,AZ,"La Paz County, AZ","4,921","21,098",0.23
+Maricopa County,AZ,"Maricopa County, AZ","535,183","4,410,824",0.12
+Mohave County,AZ,"Mohave County, AZ","34,411","209,550",0.16
+Navajo County,AZ,"Navajo County, AZ","30,876","110,445",0.28
+Pima County,AZ,"Pima County, AZ","164,927","1,039,073",0.16
+Pinal County,AZ,"Pinal County, AZ","54,399","447,138",0.12
+Santa Cruz County,AZ,"Santa Cruz County, AZ","11,287","46,511",0.24
+Yavapai County,AZ,"Yavapai County, AZ","30,060","231,993",0.13
+Yuma County,AZ,"Yuma County, AZ","39,648","212,128",0.19
+Arkansas,AR,"Arkansas, AR","492,306","3,013,825",0.16
+Arkansas County,AR,"Arkansas County, AR","3,120","17,769",0.18
+Ashley County,AR,"Ashley County, AR","3,876","20,046",0.19
+Baxter County,AR,"Baxter County, AR","6,216","41,619",0.15
+Benton County,AR,"Benton County, AR","23,290","272,608",0.09
+Boone County,AR,"Boone County, AR","5,472","37,480",0.15
+Bradley County,AR,"Bradley County, AR","2,329","10,897",0.21
+Calhoun County,AR,"Calhoun County, AR",800,"5,277",0.15
+Carroll County,AR,"Carroll County, AR","4,499","28,223",0.16
+Chicot County,AR,"Chicot County, AR","3,039","10,438",0.29
+Clark County,AR,"Clark County, AR","3,838","22,061",0.17
+Clay County,AR,"Clay County, AR","3,035","14,847",0.20
+Cleburne County,AR,"Cleburne County, AR","3,573","24,965",0.14
+Cleveland County,AR,"Cleveland County, AR","1,232","8,018",0.15
+Columbia County,AR,"Columbia County, AR","4,799","23,537",0.20
+Conway County,AR,"Conway County, AR","3,693","20,891",0.18
+Craighead County,AR,"Craighead County, AR","18,768","108,558",0.17
+Crawford County,AR,"Crawford County, AR","10,027","63,406",0.16
+Crittenden County,AR,"Crittenden County, AR","9,056","48,342",0.19
+Cross County,AR,"Cross County, AR","2,940","16,676",0.18
+Dallas County,AR,"Dallas County, AR","1,442","7,182",0.20
+Desha County,AR,"Desha County, AR","2,780","11,512",0.24
+Drew County,AR,"Drew County, AR","3,391","18,328",0.19
+Faulkner County,AR,"Faulkner County, AR","18,571","124,806",0.15
+Franklin County,AR,"Franklin County, AR","3,202","17,810",0.18
+Fulton County,AR,"Fulton County, AR","2,481","12,269",0.20
+Garland County,AR,"Garland County, AR","19,844","99,154",0.20
+Grant County,AR,"Grant County, AR","2,353","18,188",0.13
+Greene County,AR,"Greene County, AR","7,361","45,325",0.16
+Hempstead County,AR,"Hempstead County, AR","4,424","21,741",0.20
+Hot Spring County,AR,"Hot Spring County, AR","5,844","33,701",0.17
+Howard County,AR,"Howard County, AR","2,271","13,341",0.17
+Independence County,AR,"Independence County, AR","5,302","37,678",0.14
+Izard County,AR,"Izard County, AR","2,358","13,593",0.17
+Jackson County,AR,"Jackson County, AR","3,732","16,811",0.22
+Jefferson County,AR,"Jefferson County, AR","13,900","68,114",0.20
+Johnson County,AR,"Johnson County, AR","5,761","26,742",0.22
+Lafayette County,AR,"Lafayette County, AR","1,498","6,682",0.22
+Lawrence County,AR,"Lawrence County, AR","2,776","16,434",0.17
+Lee County,AR,"Lee County, AR","3,098","8,985",0.34
+Lincoln County,AR,"Lincoln County, AR","2,647","13,383",0.20
+Little River County,AR,"Little River County, AR","1,942","12,326",0.16
+Logan County,AR,"Logan County, AR","3,950","21,737",0.18
+Lonoke County,AR,"Lonoke County, AR","8,651","73,657",0.12
+Madison County,AR,"Madison County, AR","3,002","16,481",0.18
+Marion County,AR,"Marion County, AR","3,082","16,722",0.18
+Miller County,AR,"Miller County, AR","9,228","43,592",0.21
+Mississippi County,AR,"Mississippi County, AR","10,325","41,239",0.25
+Monroe County,AR,"Monroe County, AR","1,769","6,900",0.26
+Montgomery County,AR,"Montgomery County, AR","1,649","8,924",0.18
+Nevada County,AR,"Nevada County, AR","1,738","8,326",0.21
+Newton County,AR,"Newton County, AR","1,340","7,805",0.17
+Ouachita County,AR,"Ouachita County, AR","5,410","23,606",0.23
+Perry County,AR,"Perry County, AR","1,502","10,352",0.15
+Phillips County,AR,"Phillips County, AR","6,301","18,029",0.35
+Pike County,AR,"Pike County, AR","1,856","10,673",0.17
+Poinsett County,AR,"Poinsett County, AR","5,592","23,974",0.23
+Polk County,AR,"Polk County, AR","3,962","20,049",0.20
+Pope County,AR,"Pope County, AR","9,647","64,000",0.15
+Prairie County,AR,"Prairie County, AR","1,254","8,074",0.16
+Pulaski County,AR,"Pulaski County, AR","64,312","392,680",0.16
+Randolph County,AR,"Randolph County, AR","3,050","17,948",0.17
+St. Francis County,AR,"St. Francis County, AR","7,586","25,439",0.30
+Saline County,AR,"Saline County, AR","11,695","121,421",0.10
+Scott County,AR,"Scott County, AR","2,054","10,319",0.20
+Searcy County,AR,"Searcy County, AR","1,912","7,958",0.24
+Sebastian County,AR,"Sebastian County, AR","19,527","127,753",0.15
+Sevier County,AR,"Sevier County, AR","3,402","17,139",0.20
+Sharp County,AR,"Sharp County, AR","3,541","17,366",0.20
+Stone County,AR,"Stone County, AR","2,497","12,457",0.20
+Union County,AR,"Union County, AR","7,000","39,126",0.18
+Van Buren County,AR,"Van Buren County, AR","2,685","16,603",0.16
+Washington County,AR,"Washington County, AR","34,741","236,961",0.15
+White County,AR,"White County, AR","12,505","78,727",0.16
+Woodruff County,AR,"Woodruff County, AR","1,509","6,490",0.23
+Yell County,AR,"Yell County, AR","3,453","21,535",0.16
+California,CA,"California, CA","4,972,955","39,557,045",0.13
+Alameda County,CA,"Alameda County, CA","147,394","1,666,753",0.09
+Alpine County,CA,"Alpine County, CA",190,"1,101",0.17
+Amador County,CA,"Amador County, CA","4,130","39,383",0.10
+Butte County,CA,"Butte County, CA","42,016","231,256",0.18
+Calaveras County,CA,"Calaveras County, CA","5,454","45,602",0.12
+Colusa County,CA,"Colusa County, CA","2,350","21,627",0.11
+Contra Costa County,CA,"Contra Costa County, CA","88,980","1,150,215",0.08
+Del Norte County,CA,"Del Norte County, CA","5,065","27,828",0.18
+El Dorado County,CA,"El Dorado County, CA","15,401","190,678",0.08
+Fresno County,CA,"Fresno County, CA","208,627","994,400",0.21
+Glenn County,CA,"Glenn County, CA","4,271","28,047",0.15
+Humboldt County,CA,"Humboldt County, CA","27,002","136,373",0.20
+Imperial County,CA,"Imperial County, CA","37,014","181,827",0.20
+Inyo County,CA,"Inyo County, CA","2,172","17,987",0.12
+Kern County,CA,"Kern County, CA","177,021","896,764",0.20
+Kings County,CA,"Kings County, CA","25,481","151,366",0.17
+Lake County,CA,"Lake County, CA","11,689","64,382",0.18
+Lassen County,CA,"Lassen County, CA","3,653","30,802",0.12
+Los Angeles County,CA,"Los Angeles County, CA","1,409,155","10,105,518",0.14
+Madera County,CA,"Madera County, CA","30,201","157,672",0.19
+Marin County,CA,"Marin County, CA","16,742","259,666",0.06
+Mariposa County,CA,"Mariposa County, CA","2,569","17,471",0.15
+Mendocino County,CA,"Mendocino County, CA","15,140","87,606",0.17
+Merced County,CA,"Merced County, CA","56,863","274,765",0.21
+Modoc County,CA,"Modoc County, CA","1,631","8,777",0.19
+Mono County,CA,"Mono County, CA","1,312","14,250",0.09
+Monterey County,CA,"Monterey County, CA","55,614","435,594",0.13
+Napa County,CA,"Napa County, CA","11,829","139,417",0.08
+Nevada County,CA,"Nevada County, CA","10,171","99,696",0.10
+Orange County,CA,"Orange County, CA","330,559","3,185,968",0.10
+Placer County,CA,"Placer County, CA","27,596","393,149",0.07
+Plumas County,CA,"Plumas County, CA","2,317","18,804",0.12
+Riverside County,CA,"Riverside County, CA","307,511","2,450,758",0.13
+Sacramento County,CA,"Sacramento County, CA","217,138","1,540,975",0.14
+San Benito County,CA,"San Benito County, CA","5,294","61,537",0.09
+San Bernardino County,CA,"San Bernardino County, CA","317,514","2,171,603",0.15
+San Diego County,CA,"San Diego County, CA","372,148","3,343,364",0.11
+San Francisco County,CA,"San Francisco County, CA","87,596","883,305",0.10
+San Joaquin County,CA,"San Joaquin County, CA","105,351","752,660",0.14
+San Luis Obispo County,CA,"San Luis Obispo County, CA","34,200","284,010",0.12
+San Mateo County,CA,"San Mateo County, CA","51,830","769,545",0.07
+Santa Barbara County,CA,"Santa Barbara County, CA","54,029","446,527",0.12
+Santa Clara County,CA,"Santa Clara County, CA","139,074","1,937,570",0.07
+Santa Cruz County,CA,"Santa Cruz County, CA","32,027","274,255",0.12
+Shasta County,CA,"Shasta County, CA","26,919","180,040",0.15
+Sierra County,CA,"Sierra County, CA",392,"2,987",0.13
+Siskiyou County,CA,"Siskiyou County, CA","7,396","43,724",0.17
+Solano County,CA,"Solano County, CA","34,281","446,610",0.08
+Sonoma County,CA,"Sonoma County, CA","48,846","499,942",0.10
+Stanislaus County,CA,"Stanislaus County, CA","84,744","549,815",0.15
+Sutter County,CA,"Sutter County, CA","13,011","96,807",0.13
+Tehama County,CA,"Tehama County, CA","10,749","63,916",0.17
+Trinity County,CA,"Trinity County, CA","2,656","12,535",0.21
+Tulare County,CA,"Tulare County, CA","102,451","465,861",0.22
+Tuolumne County,CA,"Tuolumne County, CA","6,417","54,539",0.12
+Ventura County,CA,"Ventura County, CA","76,206","850,967",0.09
+Yolo County,CA,"Yolo County, CA","42,311","220,408",0.19
+Yuba County,CA,"Yuba County, CA","13,256","78,041",0.17
+Colorado,CO,"Colorado, CO","540,579","5,695,564",0.09
+Adams County,CO,"Adams County, CO","46,711","511,868",0.09
+Alamosa County,CO,"Alamosa County, CO","2,954","16,683",0.18
+Arapahoe County,CO,"Arapahoe County, CO","52,474","651,215",0.08
+Archuleta County,CO,"Archuleta County, CO","1,525","13,765",0.11
+Baca County,CO,"Baca County, CO",678,"3,585",0.19
+Bent County,CO,"Bent County, CO","1,353","5,882",0.23
+Boulder County,CO,"Boulder County, CO","30,699","326,078",0.09
+Broomfield County,CO,"Broomfield County, CO","3,364","69,267",0.05
+Chaffee County,CO,"Chaffee County, CO","2,023","20,027",0.10
+Cheyenne County,CO,"Cheyenne County, CO",230,"1,876",0.12
+Clear Creek County,CO,"Clear Creek County, CO",686,"9,605",0.07
+Conejos County,CO,"Conejos County, CO","1,747","8,200",0.21
+Costilla County,CO,"Costilla County, CO",964,"3,828",0.25
+Crowley County,CO,"Crowley County, CO","1,341","5,858",0.23
+Custer County,CO,"Custer County, CO",576,"4,954",0.12
+Delta County,CO,"Delta County, CO","4,429","30,953",0.14
+Denver County,CO,"Denver County, CO","82,104","716,492",0.11
+Dolores County,CO,"Dolores County, CO",265,"2,074",0.13
+Douglas County,CO,"Douglas County, CO","8,975","342,776",0.03
+Eagle County,CO,"Eagle County, CO","3,673","54,993",0.07
+Elbert County,CO,"Elbert County, CO","1,312","26,282",0.05
+El Paso County,CO,"El Paso County, CO","68,538","713,856",0.10
+Fremont County,CO,"Fremont County, CO","6,525","48,021",0.14
+Garfield County,CO,"Garfield County, CO","4,946","59,770",0.08
+Gilpin County,CO,"Gilpin County, CO",410,"6,121",0.07
+Grand County,CO,"Grand County, CO","1,219","15,525",0.08
+Gunnison County,CO,"Gunnison County, CO","1,678","17,246",0.10
+Hinsdale County,CO,"Hinsdale County, CO",69,811,0.09
+Huerfano County,CO,"Huerfano County, CO","1,459","6,889",0.21
+Jackson County,CO,"Jackson County, CO",188,"1,399",0.13
+Jefferson County,CO,"Jefferson County, CO","39,799","580,233",0.07
+Kiowa County,CO,"Kiowa County, CO",188,"1,383",0.14
+Kit Carson County,CO,"Kit Carson County, CO",900,"7,163",0.13
+Lake County,CO,"Lake County, CO",970,"7,824",0.12
+La Plata County,CO,"La Plata County, CO","5,005","56,310",0.09
+Larimer County,CO,"Larimer County, CO","36,054","350,518",0.10
+Las Animas County,CO,"Las Animas County, CO","2,626","14,503",0.18
+Lincoln County,CO,"Lincoln County, CO",744,"5,610",0.13
+Logan County,CO,"Logan County, CO","2,674","21,528",0.12
+Mesa County,CO,"Mesa County, CO","21,463","153,207",0.14
+Mineral County,CO,"Mineral County, CO",72,776,0.09
+Moffat County,CO,"Moffat County, CO","1,614","13,188",0.12
+Montezuma County,CO,"Montezuma County, CO","4,235","26,158",0.16
+Montrose County,CO,"Montrose County, CO","4,854","42,214",0.11
+Morgan County,CO,"Morgan County, CO","3,409","28,558",0.12
+Otero County,CO,"Otero County, CO","3,722","18,432",0.20
+Ouray County,CO,"Ouray County, CO",361,"4,833",0.07
+Park County,CO,"Park County, CO","1,487","18,556",0.08
+Phillips County,CO,"Phillips County, CO",458,"4,286",0.11
+Pitkin County,CO,"Pitkin County, CO","1,222","17,950",0.07
+Prowers County,CO,"Prowers County, CO","2,553","12,164",0.21
+Pueblo County,CO,"Pueblo County, CO","28,127","167,529",0.17
+Rio Blanco County,CO,"Rio Blanco County, CO",653,"6,336",0.10
+Rio Grande County,CO,"Rio Grande County, CO","1,604","11,250",0.14
+Routt County,CO,"Routt County, CO","1,783","25,733",0.07
+Saguache County,CO,"Saguache County, CO","1,679","6,843",0.25
+San Juan County,CO,"San Juan County, CO",109,762,0.14
+San Miguel County,CO,"San Miguel County, CO",702,"8,191",0.09
+Sedgwick County,CO,"Sedgwick County, CO",338,"2,303",0.15
+Summit County,CO,"Summit County, CO","2,056","31,007",0.07
+Teller County,CO,"Teller County, CO","1,851","25,083",0.07
+Washington County,CO,"Washington County, CO",646,"4,909",0.13
+Weld County,CO,"Weld County, CO","32,314","314,305",0.10
+Yuma County,CO,"Yuma County, CO","1,191","10,020",0.12
+Connecticut,CT,"Connecticut, CT","358,519","3,572,665",0.10
+Fairfield County,CT,"Fairfield County, CT","92,971","943,823",0.10
+Hartford County,CT,"Hartford County, CT","96,957","892,697",0.11
+Litchfield County,CT,"Litchfield County, CT","12,441","181,111",0.07
+Middlesex County,CT,"Middlesex County, CT","10,556","162,682",0.06
+New Haven County,CT,"New Haven County, CT","96,563","857,620",0.11
+New London County,CT,"New London County, CT","25,063","266,784",0.09
+Tolland County,CT,"Tolland County, CT","10,835","150,921",0.07
+Windham County,CT,"Windham County, CT","13,135","117,027",0.11
+Delaware,DE,"Delaware, DE","114,691","967,171",0.12
+Kent County,DE,"Kent County, DE","23,966","178,550",0.13
+New Castle County,DE,"New Castle County, DE","62,976","559,335",0.11
+Sussex County,DE,"Sussex County, DE","27,750","229,286",0.12
+District of Columbia,DC,"District of Columbia, DC","107,806","702,455",0.15
+District of Columbia,DC,"District of Columbia, DC","107,806","702,455",0.15
+Florida,FL,"Florida, FL","2,854,438","21,299,325",0.13
+Alachua County,FL,"Alachua County, FL","50,922","269,956",0.19
+Baker County,FL,"Baker County, FL","3,944","28,355",0.14
+Bay County,FL,"Bay County, FL","24,276","185,287",0.13
+Bradford County,FL,"Bradford County, FL","4,618","27,732",0.17
+Brevard County,FL,"Brevard County, FL","64,854","596,849",0.11
+Broward County,FL,"Broward County, FL","244,310","1,951,260",0.13
+Calhoun County,FL,"Calhoun County, FL","2,697","14,587",0.18
+Charlotte County,FL,"Charlotte County, FL","20,243","184,998",0.11
+Citrus County,FL,"Citrus County, FL","22,082","147,929",0.15
+Clay County,FL,"Clay County, FL","18,846","216,072",0.09
+Collier County,FL,"Collier County, FL","39,689","378,488",0.10
+Columbia County,FL,"Columbia County, FL","11,340","70,503",0.16
+DeSoto County,FL,"DeSoto County, FL","9,013","37,489",0.24
+Dixie County,FL,"Dixie County, FL","3,679","16,700",0.22
+Duval County,FL,"Duval County, FL","134,476","950,181",0.14
+Escambia County,FL,"Escambia County, FL","43,832","315,534",0.14
+Flagler County,FL,"Flagler County, FL","11,450","112,067",0.10
+Franklin County,FL,"Franklin County, FL","2,343","11,736",0.20
+Gadsden County,FL,"Gadsden County, FL","10,259","45,894",0.22
+Gilchrist County,FL,"Gilchrist County, FL","2,856","18,256",0.16
+Glades County,FL,"Glades County, FL","2,457","13,724",0.18
+Gulf County,FL,"Gulf County, FL","2,667","16,164",0.16
+Hamilton County,FL,"Hamilton County, FL","3,209","14,310",0.22
+Hardee County,FL,"Hardee County, FL","6,956","27,245",0.26
+Hendry County,FL,"Hendry County, FL","9,850","41,556",0.24
+Hernando County,FL,"Hernando County, FL","26,646","190,865",0.14
+Highlands County,FL,"Highlands County, FL","21,577","105,424",0.20
+Hillsborough County,FL,"Hillsborough County, FL","207,358","1,436,888",0.14
+Holmes County,FL,"Holmes County, FL","4,232","19,477",0.22
+Indian River County,FL,"Indian River County, FL","16,775","157,413",0.11
+Jackson County,FL,"Jackson County, FL","9,492","48,305",0.20
+Jefferson County,FL,"Jefferson County, FL","2,317","14,288",0.16
+Lafayette County,FL,"Lafayette County, FL","1,521","8,732",0.17
+Lake County,FL,"Lake County, FL","40,582","356,495",0.11
+Lee County,FL,"Lee County, FL","90,400","754,610",0.12
+Leon County,FL,"Leon County, FL","57,656","292,502",0.20
+Levy County,FL,"Levy County, FL","6,521","40,770",0.16
+Liberty County,FL,"Liberty County, FL","1,523","8,457",0.18
+Madison County,FL,"Madison County, FL","3,752","18,529",0.20
+Manatee County,FL,"Manatee County, FL","40,662","394,855",0.10
+Marion County,FL,"Marion County, FL","52,818","359,977",0.15
+Martin County,FL,"Martin County, FL","16,824","160,912",0.10
+Miami-Dade County,FL,"Miami-Dade County, FL","436,103","2,761,581",0.16
+Monroe County,FL,"Monroe County, FL","8,859","75,027",0.12
+Nassau County,FL,"Nassau County, FL","8,882","85,832",0.10
+Okaloosa County,FL,"Okaloosa County, FL","25,612","207,269",0.12
+Okeechobee County,FL,"Okeechobee County, FL","8,283","41,537",0.20
+Orange County,FL,"Orange County, FL","211,307","1,380,645",0.15
+Osceola County,FL,"Osceola County, FL","48,711","367,990",0.13
+Palm Beach County,FL,"Palm Beach County, FL","179,359","1,485,941",0.12
+Pasco County,FL,"Pasco County, FL","67,164","539,630",0.12
+Pinellas County,FL,"Pinellas County, FL","112,593","975,280",0.12
+Polk County,FL,"Polk County, FL","109,018","708,009",0.15
+Putnam County,FL,"Putnam County, FL","13,697","74,163",0.18
+St. Johns County,FL,"St. Johns County, FL","16,642","254,261",0.07
+St. Lucie County,FL,"St. Lucie County, FL","38,398","321,128",0.12
+Santa Rosa County,FL,"Santa Rosa County, FL","16,404","179,349",0.09
+Sarasota County,FL,"Sarasota County, FL","43,389","426,718",0.10
+Seminole County,FL,"Seminole County, FL","46,050","467,832",0.10
+Sumter County,FL,"Sumter County, FL","11,183","128,754",0.09
+Suwannee County,FL,"Suwannee County, FL","7,999","44,191",0.18
+Taylor County,FL,"Taylor County, FL","4,130","21,623",0.19
+Union County,FL,"Union County, FL","2,118","14,940",0.14
+Volusia County,FL,"Volusia County, FL","70,499","547,538",0.13
+Wakulla County,FL,"Wakulla County, FL","3,543","32,461",0.11
+Walton County,FL,"Walton County, FL","7,868","71,375",0.11
+Washington County,FL,"Washington County, FL","5,104","24,880",0.21
+Georgia,GA,"Georgia, GA","1,484,439","10,519,475",0.14
+Appling County,GA,"Appling County, GA","3,954","18,507",0.21
+Atkinson County,GA,"Atkinson County, GA","2,156","8,297",0.26
+Bacon County,GA,"Bacon County, GA","2,473","11,185",0.22
+Baker County,GA,"Baker County, GA",704,"3,092",0.23
+Baldwin County,GA,"Baldwin County, GA","9,313","44,823",0.21
+Banks County,GA,"Banks County, GA","2,469","18,988",0.13
+Barrow County,GA,"Barrow County, GA","7,651","80,809",0.09
+Bartow County,GA,"Bartow County, GA","12,768","106,408",0.12
+Ben Hill County,GA,"Ben Hill County, GA","4,305","16,787",0.26
+Berrien County,GA,"Berrien County, GA","4,144","19,252",0.22
+Bibb County,GA,"Bibb County, GA","36,326","153,095",0.24
+Bleckley County,GA,"Bleckley County, GA","2,156","12,838",0.17
+Brantley County,GA,"Brantley County, GA","3,419","18,897",0.18
+Brooks County,GA,"Brooks County, GA","3,768","15,513",0.24
+Bryan County,GA,"Bryan County, GA","3,264","38,109",0.09
+Bulloch County,GA,"Bulloch County, GA","16,439","77,296",0.21
+Burke County,GA,"Burke County, GA","4,853","22,423",0.22
+Butts County,GA,"Butts County, GA","4,228","24,193",0.17
+Calhoun County,GA,"Calhoun County, GA","1,723","6,352",0.27
+Camden County,GA,"Camden County, GA","8,134","53,677",0.15
+Candler County,GA,"Candler County, GA","2,587","10,836",0.24
+Carroll County,GA,"Carroll County, GA","19,187","118,121",0.16
+Catoosa County,GA,"Catoosa County, GA","7,911","67,420",0.12
+Charlton County,GA,"Charlton County, GA","2,753","12,968",0.21
+Chatham County,GA,"Chatham County, GA","39,488","289,195",0.14
+Chattahoochee County,GA,"Chattahoochee County, GA","1,408","10,684",0.13
+Chattooga County,GA,"Chattooga County, GA","4,575","24,790",0.18
+Cherokee County,GA,"Cherokee County, GA","18,576","254,149",0.07
+Clarke County,GA,"Clarke County, GA","31,645","127,330",0.25
+Clay County,GA,"Clay County, GA",841,"2,887",0.29
+Clayton County,GA,"Clayton County, GA","50,072","289,615",0.17
+Clinch County,GA,"Clinch County, GA","1,695","6,648",0.25
+Cobb County,GA,"Cobb County, GA","67,585","756,865",0.09
+Coffee County,GA,"Coffee County, GA","9,505","43,093",0.22
+Colquitt County,GA,"Colquitt County, GA","10,700","45,592",0.23
+Columbia County,GA,"Columbia County, GA","10,858","154,291",0.07
+Cook County,GA,"Cook County, GA","4,156","17,162",0.24
+Coweta County,GA,"Coweta County, GA","14,844","145,864",0.10
+Crawford County,GA,"Crawford County, GA","2,251","12,318",0.18
+Crisp County,GA,"Crisp County, GA","6,063","22,601",0.27
+Dade County,GA,"Dade County, GA","2,067","16,226",0.13
+Dawson County,GA,"Dawson County, GA","2,168","25,083",0.09
+Decatur County,GA,"Decatur County, GA","5,923","26,575",0.22
+DeKalb County,GA,"DeKalb County, GA","106,598","756,558",0.14
+Dodge County,GA,"Dodge County, GA","4,988","20,705",0.24
+Dooly County,GA,"Dooly County, GA","3,420","13,706",0.25
+Dougherty County,GA,"Dougherty County, GA","25,104","91,243",0.28
+Douglas County,GA,"Douglas County, GA","18,113","145,331",0.12
+Early County,GA,"Early County, GA","2,669","10,247",0.26
+Echols County,GA,"Echols County, GA",970,"4,000",0.24
+Effingham County,GA,"Effingham County, GA","5,080","62,190",0.08
+Elbert County,GA,"Elbert County, GA","3,476","19,120",0.18
+Emanuel County,GA,"Emanuel County, GA","5,346","22,612",0.24
+Evans County,GA,"Evans County, GA","2,742","10,721",0.26
+Fannin County,GA,"Fannin County, GA","4,318","25,964",0.17
+Fayette County,GA,"Fayette County, GA","5,689","113,459",0.05
+Floyd County,GA,"Floyd County, GA","19,427","97,927",0.20
+Forsyth County,GA,"Forsyth County, GA","11,808","236,612",0.05
+Franklin County,GA,"Franklin County, GA","3,634","23,023",0.16
+Fulton County,GA,"Fulton County, GA","137,929","1,050,114",0.13
+Gilmer County,GA,"Gilmer County, GA","5,309","30,816",0.17
+Glascock County,GA,"Glascock County, GA",509,"2,995",0.17
+Glynn County,GA,"Glynn County, GA","13,913","85,219",0.16
+Gordon County,GA,"Gordon County, GA","9,526","57,685",0.17
+Grady County,GA,"Grady County, GA","4,889","24,748",0.20
+Greene County,GA,"Greene County, GA","3,365","17,698",0.19
+Gwinnett County,GA,"Gwinnett County, GA","84,763","927,781",0.09
+Habersham County,GA,"Habersham County, GA","6,363","45,388",0.14
+Hall County,GA,"Hall County, GA","26,249","202,148",0.13
+Hancock County,GA,"Hancock County, GA","2,187","8,348",0.26
+Haralson County,GA,"Haralson County, GA","4,626","29,533",0.16
+Harris County,GA,"Harris County, GA","2,958","34,475",0.09
+Hart County,GA,"Hart County, GA","3,796","26,099",0.15
+Heard County,GA,"Heard County, GA","2,004","11,879",0.17
+Henry County,GA,"Henry County, GA","17,086","230,220",0.07
+Houston County,GA,"Houston County, GA","18,519","155,469",0.12
+Irwin County,GA,"Irwin County, GA","2,040","9,398",0.22
+Jackson County,GA,"Jackson County, GA","6,059","70,422",0.09
+Jasper County,GA,"Jasper County, GA","2,138","14,040",0.15
+Jeff Davis County,GA,"Jeff Davis County, GA","3,063","15,029",0.20
+Jefferson County,GA,"Jefferson County, GA","3,328","15,430",0.22
+Jenkins County,GA,"Jenkins County, GA","2,374","8,683",0.27
+Johnson County,GA,"Johnson County, GA","2,415","9,708",0.25
+Jones County,GA,"Jones County, GA","4,098","28,616",0.14
+Lamar County,GA,"Lamar County, GA","3,064","19,000",0.16
+Lanier County,GA,"Lanier County, GA","2,043","10,340",0.20
+Laurens County,GA,"Laurens County, GA","11,375","47,325",0.24
+Lee County,GA,"Lee County, GA","3,579","29,764",0.12
+Liberty County,GA,"Liberty County, GA","9,562","61,497",0.16
+Lincoln County,GA,"Lincoln County, GA","1,346","7,915",0.17
+Long County,GA,"Long County, GA","3,134","18,998",0.16
+Lowndes County,GA,"Lowndes County, GA","28,539","116,321",0.25
+Lumpkin County,GA,"Lumpkin County, GA","4,494","32,955",0.14
+McDuffie County,GA,"McDuffie County, GA","4,223","21,531",0.20
+McIntosh County,GA,"McIntosh County, GA","3,055","14,340",0.21
+Macon County,GA,"Macon County, GA","3,417","13,143",0.26
+Madison County,GA,"Madison County, GA","4,722","29,650",0.16
+Marion County,GA,"Marion County, GA","1,884","8,351",0.23
+Meriwether County,GA,"Meriwether County, GA","5,071","21,068",0.24
+Miller County,GA,"Miller County, GA","1,246","5,686",0.22
+Mitchell County,GA,"Mitchell County, GA","5,849","22,192",0.26
+Monroe County,GA,"Monroe County, GA","3,411","27,520",0.12
+Montgomery County,GA,"Montgomery County, GA","1,847","9,193",0.20
+Morgan County,GA,"Morgan County, GA","2,374","18,853",0.13
+Murray County,GA,"Murray County, GA","5,987","39,921",0.15
+Muscogee County,GA,"Muscogee County, GA","37,759","194,160",0.19
+Newton County,GA,"Newton County, GA","15,946","109,541",0.15
+Oconee County,GA,"Oconee County, GA","2,215","39,272",0.06
+Oglethorpe County,GA,"Oglethorpe County, GA","2,049","15,054",0.14
+Paulding County,GA,"Paulding County, GA","12,654","164,044",0.08
+Peach County,GA,"Peach County, GA","6,240","27,297",0.23
+Pickens County,GA,"Pickens County, GA","3,462","31,980",0.11
+Pierce County,GA,"Pierce County, GA","3,490","19,389",0.18
+Pike County,GA,"Pike County, GA","1,947","18,634",0.10
+Polk County,GA,"Polk County, GA","9,079","42,470",0.21
+Pulaski County,GA,"Pulaski County, GA","2,361","11,069",0.21
+Putnam County,GA,"Putnam County, GA","3,488","21,809",0.16
+Quitman County,GA,"Quitman County, GA",580,"2,279",0.25
+Rabun County,GA,"Rabun County, GA","2,346","16,867",0.14
+Randolph County,GA,"Randolph County, GA","2,008","6,833",0.29
+Richmond County,GA,"Richmond County, GA","41,554","201,554",0.21
+Rockdale County,GA,"Rockdale County, GA","11,803","90,594",0.13
+Schley County,GA,"Schley County, GA",945,"5,236",0.18
+Screven County,GA,"Screven County, GA","3,493","13,938",0.25
+Seminole County,GA,"Seminole County, GA","2,083","8,315",0.25
+Spalding County,GA,"Spalding County, GA","11,184","66,100",0.17
+Stephens County,GA,"Stephens County, GA","4,092","26,035",0.16
+Stewart County,GA,"Stewart County, GA","1,757","6,199",0.28
+Sumter County,GA,"Sumter County, GA","7,208","29,733",0.24
+Talbot County,GA,"Talbot County, GA","1,550","6,272",0.25
+Taliaferro County,GA,"Taliaferro County, GA",395,"1,608",0.25
+Tattnall County,GA,"Tattnall County, GA","5,298","25,391",0.21
+Taylor County,GA,"Taylor County, GA","1,813","8,039",0.23
+Telfair County,GA,"Telfair County, GA","4,042","15,876",0.25
+Terrell County,GA,"Terrell County, GA","2,311","8,611",0.27
+Thomas County,GA,"Thomas County, GA","8,846","44,448",0.20
+Tift County,GA,"Tift County, GA","7,636","40,571",0.19
+Toombs County,GA,"Toombs County, GA","6,615","26,887",0.25
+Towns County,GA,"Towns County, GA","1,704","11,852",0.14
+Treutlen County,GA,"Treutlen County, GA","1,684","6,809",0.25
+Troup County,GA,"Troup County, GA","13,643","70,034",0.19
+Turner County,GA,"Turner County, GA","2,109","7,912",0.27
+Twiggs County,GA,"Twiggs County, GA","1,719","8,188",0.21
+Union County,GA,"Union County, GA","3,268","24,001",0.14
+Upson County,GA,"Upson County, GA","5,566","26,215",0.21
+Walker County,GA,"Walker County, GA","10,542","69,410",0.15
+Walton County,GA,"Walton County, GA","10,993","93,503",0.12
+Ware County,GA,"Ware County, GA","7,827","35,680",0.22
+Warren County,GA,"Warren County, GA","1,330","5,251",0.25
+Washington County,GA,"Washington County, GA","4,787","20,386",0.23
+Wayne County,GA,"Wayne County, GA","5,147","29,808",0.17
+Webster County,GA,"Webster County, GA",592,"2,611",0.23
+Wheeler County,GA,"Wheeler County, GA","2,116","7,879",0.27
+White County,GA,"White County, GA","4,118","29,970",0.14
+Whitfield County,GA,"Whitfield County, GA","14,567","104,062",0.14
+Wilcox County,GA,"Wilcox County, GA","2,101","8,812",0.24
+Wilkes County,GA,"Wilkes County, GA","1,965","9,876",0.20
+Wilkinson County,GA,"Wilkinson County, GA","2,062","9,036",0.23
+Worth County,GA,"Worth County, GA","4,128","20,299",0.20
+Hawaii,HI,"Hawaii, HI","124,400","1,420,491",0.09
+Hawaii County,HI,"Hawaii County, HI","30,903","200,983",0.15
+Honolulu County,HI,"Honolulu County, HI","73,345","980,080",0.07
+Kauai County,HI,"Kauai County, HI","6,021",88,68.42
+Maui County,HI,"Maui County, HI","14,130","72,133",0.20
+Idaho,ID,"Idaho, ID","201,804","167,207",1.21
+Ada County,ID,"Ada County, ID","44,434","1,754,208",0.03
+Adams County,ID,"Adams County, ID",554,"469,966",0.00
+Bannock County,ID,"Bannock County, ID","11,768","4,250",2.77
+Bear Lake County,ID,"Bear Lake County, ID",642,"87,138",0.01
+Benewah County,ID,"Benewah County, ID","1,342","6,050",0.22
+Bingham County,ID,"Bingham County, ID","5,510","9,226",0.60
+Blaine County,ID,"Blaine County, ID","1,575","46,236",0.03
+Boise County,ID,"Boise County, ID",974,"22,601",0.04
+Bonner County,ID,"Bonner County, ID","6,240","7,634",0.82
+Bonneville County,ID,"Bonneville County, ID","12,262","44,727",0.27
+Boundary County,ID,"Boundary County, ID","1,603","116,854",0.01
+Butte County,ID,"Butte County, ID",392,"11,948",0.03
+Camas County,ID,"Camas County, ID",109,"2,611",0.04
+Canyon County,ID,"Canyon County, ID","25,416","1,127",22.55
+Caribou County,ID,"Caribou County, ID",624,"223,499",0.00
+Cassia County,ID,"Cassia County, ID","3,046","7,060",0.43
+Clark County,ID,"Clark County, ID",132,"23,864",0.01
+Clearwater County,ID,"Clearwater County, ID","1,242",852,1.46
+Custer County,ID,"Custer County, ID",625,"8,758",0.07
+Elmore County,ID,"Elmore County, ID","3,435","4,280",0.80
+Franklin County,ID,"Franklin County, ID","1,194","27,259",0.04
+Fremont County,ID,"Fremont County, ID","1,940","13,726",0.14
+Gem County,ID,"Gem County, ID","2,338","13,168",0.18
+Gooding County,ID,"Gooding County, ID","2,071","17,634",0.12
+Idaho County,ID,"Idaho County, ID","2,587","15,196",0.17
+Jefferson County,ID,"Jefferson County, ID","2,657","16,513",0.16
+Jerome County,ID,"Jerome County, ID","2,974","29,439",0.10
+Kootenai County,ID,"Kootenai County, ID","16,417","24,015",0.68
+Latah County,ID,"Latah County, ID","4,737","161,505",0.03
+Lemhi County,ID,"Lemhi County, ID","1,154","40,134",0.03
+Lewis County,ID,"Lewis County, ID",542,"7,961",0.07
+Lincoln County,ID,"Lincoln County, ID",731,"3,861",0.19
+Madison County,ID,"Madison County, ID","9,232","5,360",1.72
+Minidoka County,ID,"Minidoka County, ID","2,577","39,304",0.07
+Nez Perce County,ID,"Nez Perce County, ID","5,223","20,825",0.25
+Oneida County,ID,"Oneida County, ID",502,"40,408",0.01
+Owyhee County,ID,"Owyhee County, ID","1,692","4,488",0.38
+Payette County,ID,"Payette County, ID","2,988","11,693",0.26
+Power County,ID,"Power County, ID","1,056","23,551",0.04
+Shoshone County,ID,"Shoshone County, ID","2,371","7,768",0.31
+Teton County,ID,"Teton County, ID",888,"12,796",0.07
+Twin Falls County,ID,"Twin Falls County, ID","11,547","11,640",0.99
+Valley County,ID,"Valley County, ID",921,"86,081",0.01
+Washington County,ID,"Washington County, ID","1,537","11,041",0.14
+Illinois,IL,"Illinois, IL","1,509,348","10,161",148.54
+Adams County,IL,"Adams County, IL","7,803","12,741,080",0.00
+Alexander County,IL,"Alexander County, IL","1,650","65,691",0.03
+Bond County,IL,"Bond County, IL","2,075","6,060",0.34
+Boone County,IL,"Boone County, IL","4,909","16,630",0.30
+Brown County,IL,"Brown County, IL",674,"53,577",0.01
+Bureau County,IL,"Bureau County, IL","3,751","6,556",0.57
+Calhoun County,IL,"Calhoun County, IL",520,"32,993",0.02
+Carroll County,IL,"Carroll County, IL","1,598","4,802",0.33
+Cass County,IL,"Cass County, IL","1,448","14,312",0.10
+Champaign County,IL,"Champaign County, IL","37,121","12,260",3.03
+Christian County,IL,"Christian County, IL","3,882","209,983",0.02
+Clark County,IL,"Clark County, IL","1,702","32,661",0.05
+Clay County,IL,"Clay County, IL","1,865","15,596",0.12
+Clinton County,IL,"Clinton County, IL","2,924","13,253",0.22
+Coles County,IL,"Coles County, IL","9,554","37,639",0.25
+Cook County,IL,"Cook County, IL","701,869","50,885",13.79
+Crawford County,IL,"Crawford County, IL","2,052","5,180,493",0.00
+Cumberland County,IL,"Cumberland County, IL","1,248","18,807",0.07
+DeKalb County,IL,"DeKalb County, IL","12,877","10,808",1.19
+De Witt County,IL,"De Witt County, IL","1,707","104,143",0.02
+Douglas County,IL,"Douglas County, IL","1,764","15,769",0.11
+DuPage County,IL,"DuPage County, IL","60,169","19,479",3.09
+Edgar County,IL,"Edgar County, IL","2,297","928,589",0.00
+Edwards County,IL,"Edwards County, IL",701,"17,360",0.04
+Effingham County,IL,"Effingham County, IL","3,277","6,392",0.51
+Fayette County,IL,"Fayette County, IL","2,924","34,208",0.09
+Ford County,IL,"Ford County, IL","1,248","21,416",0.06
+Franklin County,IL,"Franklin County, IL","7,358","13,264",0.55
+Fulton County,IL,"Fulton County, IL","4,559","38,701",0.12
+Gallatin County,IL,"Gallatin County, IL","1,029","34,844",0.03
+Greene County,IL,"Greene County, IL","1,772","5,058",0.35
+Grundy County,IL,"Grundy County, IL","2,991","13,044",0.23
+Hamilton County,IL,"Hamilton County, IL",990,"50,972",0.02
+Hancock County,IL,"Hancock County, IL","1,955","8,163",0.24
+Hardin County,IL,"Hardin County, IL",778,"17,844",0.04
+Henderson County,IL,"Henderson County, IL",748,"3,910",0.19
+Henry County,IL,"Henry County, IL","5,558","6,709",0.83
+Iroquois County,IL,"Iroquois County, IL","2,669","49,090",0.05
+Jackson County,IL,"Jackson County, IL","13,868","27,604",0.50
+Jasper County,IL,"Jasper County, IL",972,"57,419",0.02
+Jefferson County,IL,"Jefferson County, IL","5,811","9,611",0.60
+Jersey County,IL,"Jersey County, IL","1,864","37,820",0.05
+Jo Daviess County,IL,"Jo Daviess County, IL","1,656","21,847",0.08
+Johnson County,IL,"Johnson County, IL","1,364","21,366",0.06
+Kane County,IL,"Kane County, IL","45,180","12,456",3.63
+Kankakee County,IL,"Kankakee County, IL","16,873","534,216",0.03
+Kendall County,IL,"Kendall County, IL","5,332","110,024",0.05
+Knox County,IL,"Knox County, IL","7,558","127,915",0.06
+Lake County,IL,"Lake County, IL","54,353","50,112",1.08
+La Salle County,IL,"La Salle County, IL","14,384","700,832",0.02
+Lawrence County,IL,"Lawrence County, IL","2,326","109,430",0.02
+Lee County,IL,"Lee County, IL","3,148","15,765",0.20
+Livingston County,IL,"Livingston County, IL","4,220","34,223",0.12
+Logan County,IL,"Logan County, IL","2,706","35,761",0.08
+McDonough County,IL,"McDonough County, IL","5,821","28,925",0.20
+McHenry County,IL,"McHenry County, IL","18,136","29,955",0.61
+McLean County,IL,"McLean County, IL","23,366","308,570",0.08
+Macon County,IL,"Macon County, IL","17,557","172,828",0.10
+Macoupin County,IL,"Macoupin County, IL","5,740","104,712",0.05
+Madison County,IL,"Madison County, IL","35,925","45,313",0.79
+Marion County,IL,"Marion County, IL","7,154","264,461",0.03
+Marshall County,IL,"Marshall County, IL","1,066","37,620",0.03
+Mason County,IL,"Mason County, IL","1,948","11,534",0.17
+Massac County,IL,"Massac County, IL","2,377","13,565",0.18
+Menard County,IL,"Menard County, IL","1,092","14,080",0.08
+Mercer County,IL,"Mercer County, IL","1,387","12,288",0.11
+Monroe County,IL,"Monroe County, IL","1,446","15,601",0.09
+Montgomery County,IL,"Montgomery County, IL","3,754","34,335",0.11
+Morgan County,IL,"Morgan County, IL","4,694","28,601",0.16
+Moultrie County,IL,"Moultrie County, IL","1,373","33,976",0.04
+Ogle County,IL,"Ogle County, IL","4,223","14,717",0.29
+Peoria County,IL,"Peoria County, IL","29,227","50,923",0.57
+Perry County,IL,"Perry County, IL","3,327","180,621",0.02
+Piatt County,IL,"Piatt County, IL","1,192","21,174",0.06
+Pike County,IL,"Pike County, IL","2,129","16,396",0.13
+Pope County,IL,"Pope County, IL",763,"15,611",0.05
+Pulaski County,IL,"Pulaski County, IL","1,074","4,212",0.25
+Putnam County,IL,"Putnam County, IL",484,"5,463",0.09
+Randolph County,IL,"Randolph County, IL","3,834","5,740",0.67
+Richland County,IL,"Richland County, IL","2,311","32,106",0.07
+Rock Island County,IL,"Rock Island County, IL","19,754","15,763",1.25
+St. Clair County,IL,"St. Clair County, IL","38,065","143,477",0.27
+Saline County,IL,"Saline County, IL","4,692","261,059",0.02
+Sangamon County,IL,"Sangamon County, IL","25,172","23,906",1.05
+Schuyler County,IL,"Schuyler County, IL",778,"195,348",0.00
+Scott County,IL,"Scott County, IL",499,"6,907",0.07
+Shelby County,IL,"Shelby County, IL","2,191","4,926",0.44
+Stark County,IL,"Stark County, IL",594,"21,741",0.03
+Stephenson County,IL,"Stephenson County, IL","5,555","5,427",1.02
+Tazewell County,IL,"Tazewell County, IL","12,465","44,753",0.28
+Union County,IL,"Union County, IL","2,902","132,328",0.02
+Vermilion County,IL,"Vermilion County, IL","14,256","16,841",0.85
+Wabash County,IL,"Wabash County, IL","1,645","76,806",0.02
+Warren County,IL,"Warren County, IL","2,069","11,549",0.18
+Washington County,IL,"Washington County, IL","1,016","17,032",0.06
+Wayne County,IL,"Wayne County, IL","2,234","13,995",0.16
+White County,IL,"White County, IL","1,637","16,332",0.10
+Whiteside County,IL,"Whiteside County, IL","5,732","13,665",0.42
+Will County,IL,"Will County, IL","44,038","55,626",0.79
+Williamson County,IL,"Williamson County, IL","9,356","692,310",0.01
+Winnebago County,IL,"Winnebago County, IL","45,006","67,056",0.67
+Woodford County,IL,"Woodford County, IL","2,662","284,081",0.01
+Indiana,IN,"Indiana, IN","844,165","38,463",21.95
+Adams County,IN,"Adams County, IN","4,056","6,691,878",0.00
+Allen County,IN,"Allen County, IN","49,641","35,636",1.39
+Bartholomew County,IN,"Bartholomew County, IN","8,238","375,351",0.02
+Benton County,IN,"Benton County, IN",985,"82,753",0.01
+Blackford County,IN,"Blackford County, IN","1,651","8,653",0.19
+Boone County,IN,"Boone County, IN","3,585","11,930",0.30
+Brown County,IN,"Brown County, IN","1,519","66,999",0.02
+Carroll County,IN,"Carroll County, IN","1,756","15,234",0.12
+Cass County,IN,"Cass County, IN","5,004","20,127",0.25
+Clark County,IN,"Clark County, IN","12,975","37,955",0.34
+Clay County,IN,"Clay County, IN","3,545","117,360",0.03
+Clinton County,IN,"Clinton County, IN","3,732","26,170",0.14
+Crawford County,IN,"Crawford County, IN","1,654","32,250",0.05
+Daviess County,IN,"Daviess County, IN","3,752","10,558",0.36
+Dearborn County,IN,"Dearborn County, IN","4,577","33,147",0.14
+Decatur County,IN,"Decatur County, IN","3,077","49,568",0.06
+De Kalb County,IN,"De Kalb County, IN","4,309","26,794",0.16
+Delaware County,IN,"Delaware County, IN","23,799","43,226",0.55
+Dubois County,IN,"Dubois County, IN","3,155","114,772",0.03
+Elkhart County,IN,"Elkhart County, IN","23,202","42,565",0.55
+Fayette County,IN,"Fayette County, IN","3,280","205,560",0.02
+Floyd County,IN,"Floyd County, IN","7,231","23,047",0.31
+Fountain County,IN,"Fountain County, IN","1,799","77,781",0.02
+Franklin County,IN,"Franklin County, IN","1,939","16,351",0.12
+Fulton County,IN,"Fulton County, IN","2,684","22,736",0.12
+Gibson County,IN,"Gibson County, IN","3,460","20,092",0.17
+Grant County,IN,"Grant County, IN","12,140","33,452",0.36
+Greene County,IN,"Greene County, IN","4,423","65,936",0.07
+Hamilton County,IN,"Hamilton County, IN","13,797","32,006",0.43
+Hancock County,IN,"Hancock County, IN","4,236","330,086",0.01
+Harrison County,IN,"Harrison County, IN","3,690","76,351",0.05
+Hendricks County,IN,"Hendricks County, IN","9,657","40,350",0.24
+Henry County,IN,"Henry County, IN","6,434","167,009",0.04
+Howard County,IN,"Howard County, IN","9,942","48,271",0.21
+Huntington County,IN,"Huntington County, IN","3,532","82,366",0.04
+Jackson County,IN,"Jackson County, IN","5,183","36,240",0.14
+Jasper County,IN,"Jasper County, IN","3,037","44,111",0.07
+Jay County,IN,"Jay County, IN","2,653","33,370",0.08
+Jefferson County,IN,"Jefferson County, IN","4,663","20,764",0.22
+Jennings County,IN,"Jennings County, IN","4,026","32,208",0.13
+Johnson County,IN,"Johnson County, IN","11,784","27,611",0.43
+Knox County,IN,"Knox County, IN","5,447","156,225",0.03
+Kosciusko County,IN,"Kosciusko County, IN","6,949","36,895",0.19
+Lagrange County,IN,"Lagrange County, IN","3,018","79,344",0.04
+Lake County,IN,"Lake County, IN","74,864","39,330",1.90
+La Porte County,IN,"La Porte County, IN","16,212","484,411",0.03
+Lawrence County,IN,"Lawrence County, IN","5,629","110,007",0.05
+Madison County,IN,"Madison County, IN","20,908","45,668",0.46
+Marion County,IN,"Marion County, IN","160,661","129,641",1.24
+Marshall County,IN,"Marshall County, IN","5,212","954,670",0.01
+Martin County,IN,"Martin County, IN","1,186","46,248",0.03
+Miami County,IN,"Miami County, IN","5,172","10,217",0.51
+Monroe County,IN,"Monroe County, IN","28,177","35,567",0.79
+Montgomery County,IN,"Montgomery County, IN","4,006","146,917",0.03
+Morgan County,IN,"Morgan County, IN","7,339","38,346",0.19
+Newton County,IN,"Newton County, IN","1,418","70,116",0.02
+Noble County,IN,"Noble County, IN","4,224","14,011",0.30
+Ohio County,IN,"Ohio County, IN",560,"47,532",0.01
+Orange County,IN,"Orange County, IN","2,979","5,844",0.51
+Owen County,IN,"Owen County, IN","2,597","19,489",0.13
+Parke County,IN,"Parke County, IN","2,406","20,845",0.12
+Perry County,IN,"Perry County, IN","2,167","16,927",0.13
+Pike County,IN,"Pike County, IN","1,345","19,102",0.07
+Porter County,IN,"Porter County, IN","14,826","12,410",1.19
+Posey County,IN,"Posey County, IN","2,311","169,594",0.01
+Pulaski County,IN,"Pulaski County, IN","1,494","25,540",0.06
+Putnam County,IN,"Putnam County, IN","3,978","12,469",0.32
+Randolph County,IN,"Randolph County, IN","3,322","37,779",0.09
+Ripley County,IN,"Ripley County, IN","3,117","24,851",0.13
+Rush County,IN,"Rush County, IN","1,760","28,523",0.06
+St. Joseph County,IN,"St. Joseph County, IN","35,068","16,663",2.10
+Scott County,IN,"Scott County, IN","3,642","270,771",0.01
+Shelby County,IN,"Shelby County, IN","5,065","23,878",0.21
+Spencer County,IN,"Spencer County, IN","1,839","44,593",0.04
+Starke County,IN,"Starke County, IN","2,512","20,327",0.12
+Steuben County,IN,"Steuben County, IN","3,638","22,935",0.16
+Sullivan County,IN,"Sullivan County, IN","2,513","34,586",0.07
+Switzerland County,IN,"Switzerland County, IN","1,873","20,690",0.09
+Tippecanoe County,IN,"Tippecanoe County, IN","32,114","10,717",3.00
+Tipton County,IN,"Tipton County, IN","1,250","193,048",0.01
+Union County,IN,"Union County, IN",742,"15,128",0.05
+Vanderburgh County,IN,"Vanderburgh County, IN","26,349","7,037",3.74
+Vermillion County,IN,"Vermillion County, IN","2,306","180,974",0.01
+Vigo County,IN,"Vigo County, IN","18,824","15,479",1.22
+Wabash County,IN,"Wabash County, IN","3,631","107,386",0.03
+Warren County,IN,"Warren County, IN",796,"31,280",0.03
+Warrick County,IN,"Warrick County, IN","4,373","8,263",0.53
+Washington County,IN,"Washington County, IN","3,703","62,567",0.06
+Wayne County,IN,"Wayne County, IN","10,094","27,943",0.36
+Wells County,IN,"Wells County, IN","2,344","65,936",0.04
+White County,IN,"White County, IN","2,025","28,206",0.07
+Whitley County,IN,"Whitley County, IN","2,377","24,133",0.10
+Iowa,IA,"Iowa, IA","342,574","34,074",10.05
+Adair County,IA,"Adair County, IA",667,"3,156,145",0.00
+Adams County,IA,"Adams County, IA",460,"7,063",0.07
+Allamakee County,IA,"Allamakee County, IA","1,581","3,645",0.43
+Appanoose County,IA,"Appanoose County, IA","1,864","13,832",0.13
+Audubon County,IA,"Audubon County, IA",589,"12,437",0.05
+Benton County,IA,"Benton County, IA","2,000","5,506",0.36
+Black Hawk County,IA,"Black Hawk County, IA","20,811","25,642",0.81
+Boone County,IA,"Boone County, IA","2,274","132,408",0.02
+Bremer County,IA,"Bremer County, IA","1,547","26,346",0.06
+Buchanan County,IA,"Buchanan County, IA","2,224","24,947",0.09
+Buena Vista County,IA,"Buena Vista County, IA","1,932","21,199",0.09
+Butler County,IA,"Butler County, IA","1,290","19,874",0.06
+Calhoun County,IA,"Calhoun County, IA","1,023","14,539",0.07
+Carroll County,IA,"Carroll County, IA","1,576","9,699",0.16
+Cass County,IA,"Cass County, IA","1,594","20,154",0.08
+Cedar County,IA,"Cedar County, IA","1,391","12,930",0.11
+Cerro Gordo County,IA,"Cerro Gordo County, IA","4,316","18,627",0.23
+Cherokee County,IA,"Cherokee County, IA","1,032","42,647",0.02
+Chickasaw County,IA,"Chickasaw County, IA","1,019","11,321",0.09
+Clarke County,IA,"Clarke County, IA","1,036","11,964",0.09
+Clay County,IA,"Clay County, IA","1,531","9,423",0.16
+Clayton County,IA,"Clayton County, IA","1,627","16,134",0.10
+Clinton County,IA,"Clinton County, IA","5,727","17,556",0.33
+Crawford County,IA,"Crawford County, IA","2,072","46,518",0.04
+Dallas County,IA,"Dallas County, IA","4,687","17,158",0.27
+Davis County,IA,"Davis County, IA","1,130","90,180",0.01
+Decatur County,IA,"Decatur County, IA","1,458","9,017",0.16
+Delaware County,IA,"Delaware County, IA","1,521","7,890",0.19
+Des Moines County,IA,"Des Moines County, IA","4,887","17,069",0.29
+Dickinson County,IA,"Dickinson County, IA","1,330","39,138",0.03
+Dubuque County,IA,"Dubuque County, IA","10,555","17,153",0.62
+Emmet County,IA,"Emmet County, IA",993,"96,854",0.01
+Fayette County,IA,"Fayette County, IA","2,203","9,253",0.24
+Floyd County,IA,"Floyd County, IA","1,762","19,660",0.09
+Franklin County,IA,"Franklin County, IA",984,"15,761",0.06
+Fremont County,IA,"Fremont County, IA",686,"10,124",0.07
+Greene County,IA,"Greene County, IA","1,073","6,993",0.15
+Grundy County,IA,"Grundy County, IA",819,"8,981",0.09
+Guthrie County,IA,"Guthrie County, IA","1,198","12,304",0.10
+Hamilton County,IA,"Hamilton County, IA","1,230","10,720",0.11
+Hancock County,IA,"Hancock County, IA",902,"14,952",0.06
+Hardin County,IA,"Hardin County, IA","1,594","10,712",0.15
+Harrison County,IA,"Harrison County, IA","1,347","16,868",0.08
+Henry County,IA,"Henry County, IA","2,020","14,134",0.14
+Howard County,IA,"Howard County, IA",921,"20,067",0.05
+Humboldt County,IA,"Humboldt County, IA",911,"9,187",0.10
+Ida County,IA,"Ida County, IA",693,"9,547",0.07
+Iowa County,IA,"Iowa County, IA","1,177","6,841",0.17
+Jackson County,IA,"Jackson County, IA","2,123","16,141",0.13
+Jasper County,IA,"Jasper County, IA","3,633","19,432",0.19
+Jefferson County,IA,"Jefferson County, IA","2,740","37,147",0.07
+Johnson County,IA,"Johnson County, IA","22,536","18,381",1.23
+Jones County,IA,"Jones County, IA","2,223","151,260",0.01
+Keokuk County,IA,"Keokuk County, IA","1,258","20,744",0.06
+Kossuth County,IA,"Kossuth County, IA","1,477","10,225",0.14
+Lee County,IA,"Lee County, IA","4,758","14,908",0.32
+Linn County,IA,"Linn County, IA","20,652","34,055",0.61
+Louisa County,IA,"Louisa County, IA","1,183","225,909",0.01
+Lucas County,IA,"Lucas County, IA","1,290","11,169",0.12
+Lyon County,IA,"Lyon County, IA",806,"8,645",0.09
+Madison County,IA,"Madison County, IA","1,127","11,811",0.10
+Mahaska County,IA,"Mahaska County, IA","2,639","16,249",0.16
+Marion County,IA,"Marion County, IA","2,938","22,000",0.13
+Marshall County,IA,"Marshall County, IA","4,340","33,407",0.13
+Mills County,IA,"Mills County, IA","1,257","39,981",0.03
+Mitchell County,IA,"Mitchell County, IA",955,"15,063",0.06
+Monona County,IA,"Monona County, IA","1,171","10,569",0.11
+Monroe County,IA,"Monroe County, IA",885,"8,679",0.10
+Montgomery County,IA,"Montgomery County, IA","1,360","7,790",0.17
+Muscatine County,IA,"Muscatine County, IA","4,973","10,003",0.50
+O'Brien County,IA,"O'Brien County, IA","1,231","42,929",0.03
+Osceola County,IA,"Osceola County, IA",559,"13,840",0.04
+Page County,IA,"Page County, IA","1,858","6,040",0.31
+Palo Alto County,IA,"Palo Alto County, IA",834,"15,249",0.05
+Plymouth County,IA,"Plymouth County, IA","1,999","8,929",0.22
+Pocahontas County,IA,"Pocahontas County, IA",731,"25,095",0.03
+Polk County,IA,"Polk County, IA","47,499","6,740",7.05
+Pottawattamie County,IA,"Pottawattamie County, IA","10,760","487,204",0.02
+Poweshiek County,IA,"Poweshiek County, IA","1,795","93,533",0.02
+Ringgold County,IA,"Ringgold County, IA",684,"18,699",0.04
+Sac County,IA,"Sac County, IA","1,063","4,968",0.21
+Scott County,IA,"Scott County, IA","21,030","9,719",2.16
+Shelby County,IA,"Shelby County, IA",893,"173,283",0.01
+Sioux County,IA,"Sioux County, IA","2,069","11,578",0.18
+Story County,IA,"Story County, IA","16,410","34,909",0.47
+Tama County,IA,"Tama County, IA","1,896","98,105",0.02
+Taylor County,IA,"Taylor County, IA",782,"16,904",0.05
+Union County,IA,"Union County, IA","1,601","6,191",0.26
+Van Buren County,IA,"Van Buren County, IA",917,"12,359",0.07
+Wapello County,IA,"Wapello County, IA","5,032","7,020",0.72
+Warren County,IA,"Warren County, IA","3,502","35,205",0.10
+Washington County,IA,"Washington County, IA","1,905","51,056",0.04
+Wayne County,IA,"Wayne County, IA",817,"22,141",0.04
+Webster County,IA,"Webster County, IA","4,586","6,401",0.72
+Winnebago County,IA,"Winnebago County, IA",912,"36,277",0.03
+Winneshiek County,IA,"Winneshiek County, IA","1,755","10,518",0.17
+Woodbury County,IA,"Woodbury County, IA","13,835","20,029",0.69
+Worth County,IA,"Worth County, IA",717,"102,539",0.01
+Wright County,IA,"Wright County, IA","1,321","7,453",0.18
+Kansas,KS,"Kansas, KS","336,892","12,690",26.55
+Allen County,KS,"Allen County, KS","2,269","2,911,505",0.00
+Anderson County,KS,"Anderson County, KS","1,015","12,444",0.08
+Atchison County,KS,"Atchison County, KS","2,326","7,878",0.30
+Barber County,KS,"Barber County, KS",564,"16,193",0.03
+Barton County,KS,"Barton County, KS","3,673","4,472",0.82
+Bourbon County,KS,"Bourbon County, KS","2,261","26,111",0.09
+Brown County,KS,"Brown County, KS","1,264","14,653",0.09
+Butler County,KS,"Butler County, KS","6,184","9,598",0.64
+Chase County,KS,"Chase County, KS",254,"66,765",0.00
+Chautauqua County,KS,"Chautauqua County, KS",553,"2,629",0.21
+Cherokee County,KS,"Cherokee County, KS","3,246","3,309",0.98
+Cheyenne County,KS,"Cheyenne County, KS",322,"20,015",0.02
+Clark County,KS,"Clark County, KS",254,"2,660",0.10
+Clay County,KS,"Clay County, KS",839,"2,005",0.42
+Cloud County,KS,"Cloud County, KS","1,320","7,997",0.17
+Coffey County,KS,"Coffey County, KS",868,"8,729",0.10
+Comanche County,KS,"Comanche County, KS",186,"8,233",0.02
+Cowley County,KS,"Cowley County, KS","5,109","1,748",2.92
+Crawford County,KS,"Crawford County, KS","6,547","35,218",0.19
+Decatur County,KS,"Decatur County, KS",378,"39,019",0.01
+Dickinson County,KS,"Dickinson County, KS","2,006","2,871",0.70
+Doniphan County,KS,"Doniphan County, KS",955,"18,717",0.05
+Douglas County,KS,"Douglas County, KS","19,181","7,682",2.50
+Edwards County,KS,"Edwards County, KS",317,"121,436",0.00
+Elk County,KS,"Elk County, KS",434,"2,849",0.15
+Ellis County,KS,"Ellis County, KS","3,303","2,508",1.32
+Ellsworth County,KS,"Ellsworth County, KS",622,"28,710",0.02
+Finney County,KS,"Finney County, KS","4,740","6,196",0.77
+Ford County,KS,"Ford County, KS","3,818","36,611",0.10
+Franklin County,KS,"Franklin County, KS","2,337","33,888",0.07
+Geary County,KS,"Geary County, KS","3,263","25,631",0.13
+Gove County,KS,"Gove County, KS",291,"32,594",0.01
+Graham County,KS,"Graham County, KS",307,"2,612",0.12
+Grant County,KS,"Grant County, KS",788,"2,492",0.32
+Gray County,KS,"Gray County, KS",447,"7,336",0.06
+Greeley County,KS,"Greeley County, KS",135,"6,033",0.02
+Greenwood County,KS,"Greenwood County, KS",861,"1,227",0.70
+Hamilton County,KS,"Hamilton County, KS",365,"6,055",0.06
+Harper County,KS,"Harper County, KS",766,"2,607",0.29
+Harvey County,KS,"Harvey County, KS","3,411","5,506",0.62
+Haskell County,KS,"Haskell County, KS",413,"34,210",0.01
+Hodgeman County,KS,"Hodgeman County, KS",210,"3,997",0.05
+Jackson County,KS,"Jackson County, KS","1,375","1,818",0.76
+Jefferson County,KS,"Jefferson County, KS","1,411","13,280",0.11
+Jewell County,KS,"Jewell County, KS",420,"18,975",0.02
+Johnson County,KS,"Johnson County, KS","32,334","2,841",11.38
+Kearny County,KS,"Kearny County, KS",478,"597,555",0.00
+Kingman County,KS,"Kingman County, KS",786,"3,943",0.20
+Kiowa County,KS,"Kiowa County, KS",286,"7,310",0.04
+Labette County,KS,"Labette County, KS","3,129","2,516",1.24
+Lane County,KS,"Lane County, KS",159,"19,964",0.01
+Leavenworth County,KS,"Leavenworth County, KS","7,925","1,560",5.08
+Lincoln County,KS,"Lincoln County, KS",375,"81,352",0.00
+Linn County,KS,"Linn County, KS","1,244","3,023",0.41
+Logan County,KS,"Logan County, KS",253,"9,750",0.03
+Lyon County,KS,"Lyon County, KS","5,142","2,844",1.81
+McPherson County,KS,"McPherson County, KS","2,881","33,406",0.09
+Marion County,KS,"Marion County, KS","1,075","28,537",0.04
+Marshall County,KS,"Marshall County, KS","1,068","11,950",0.09
+Meade County,KS,"Meade County, KS",376,"9,722",0.04
+Miami County,KS,"Miami County, KS","2,603","4,146",0.63
+Mitchell County,KS,"Mitchell County, KS",669,"33,680",0.02
+Montgomery County,KS,"Montgomery County, KS","5,998","6,150",0.98
+Morris County,KS,"Morris County, KS",620,"32,120",0.02
+Morton County,KS,"Morton County, KS",286,"5,521",0.05
+Nemaha County,KS,"Nemaha County, KS",898,"2,667",0.34
+Neosho County,KS,"Neosho County, KS","2,271","10,155",0.22
+Ness County,KS,"Ness County, KS",291,"15,951",0.02
+Norton County,KS,"Norton County, KS",670,"2,840",0.24
+Osage County,KS,"Osage County, KS","1,953","5,430",0.36
+Osborne County,KS,"Osborne County, KS",434,"15,941",0.03
+Ottawa County,KS,"Ottawa County, KS",577,"3,475",0.17
+Pawnee County,KS,"Pawnee County, KS",787,"5,802",0.14
+Phillips County,KS,"Phillips County, KS",646,"6,562",0.10
+Pottawatomie County,KS,"Pottawatomie County, KS","1,907","5,317",0.36
+Pratt County,KS,"Pratt County, KS","1,074","24,277",0.04
+Rawlins County,KS,"Rawlins County, KS",316,"9,378",0.03
+Reno County,KS,"Reno County, KS","7,266","2,508",2.90
+Republic County,KS,"Republic County, KS",502,"62,342",0.01
+Rice County,KS,"Rice County, KS","1,221","4,664",0.26
+Riley County,KS,"Riley County, KS","13,273","9,531",1.39
+Rooks County,KS,"Rooks County, KS",550,"73,703",0.01
+Rush County,KS,"Rush County, KS",417,"5,013",0.08
+Russell County,KS,"Russell County, KS",932,"3,093",0.30
+Saline County,KS,"Saline County, KS","5,812","6,907",0.84
+Scott County,KS,"Scott County, KS",373,"54,401",0.01
+Sedgwick County,KS,"Sedgwick County, KS","67,722","4,897",13.83
+Seward County,KS,"Seward County, KS","3,216","513,607",0.01
+Shawnee County,KS,"Shawnee County, KS","24,062","21,780",1.10
+Sheridan County,KS,"Sheridan County, KS",297,"177,499",0.00
+Sherman County,KS,"Sherman County, KS",790,"2,533",0.31
+Smith County,KS,"Smith County, KS",431,"5,899",0.07
+Stafford County,KS,"Stafford County, KS",549,"3,603",0.15
+Stanton County,KS,"Stanton County, KS",223,"4,178",0.05
+Stevens County,KS,"Stevens County, KS",588,"1,987",0.30
+Sumner County,KS,"Sumner County, KS","3,016","5,559",0.54
+Thomas County,KS,"Thomas County, KS",727,"22,996",0.03
+Trego County,KS,"Trego County, KS",316,"7,711",0.04
+Wabaunsee County,KS,"Wabaunsee County, KS",548,"2,793",0.20
+Wallace County,KS,"Wallace County, KS",194,"6,899",0.03
+Washington County,KS,"Washington County, KS",655,"1,503",0.44
+Wichita County,KS,"Wichita County, KS",247,"5,420",0.05
+Wilson County,KS,"Wilson County, KS","1,307","2,105",0.62
+Woodson County,KS,"Woodson County, KS",502,"8,665",0.06
+Wyandotte County,KS,"Wyandotte County, KS","30,035","3,183",9.44
+Kentucky,KY,"Kentucky, KY","723,053","165,324",4.37
+Adair County,KY,"Adair County, KY","4,269","4,468,402",0.00
+Allen County,KY,"Allen County, KY","3,601","19,215",0.19
+Anderson County,KY,"Anderson County, KY","2,239","21,122",0.11
+Ballard County,KY,"Ballard County, KY","1,197","22,663",0.05
+Barren County,KY,"Barren County, KY","8,284","7,979",1.04
+Bath County,KY,"Bath County, KY","2,495","44,176",0.06
+Bell County,KY,"Bell County, KY","7,998","12,383",0.65
+Boone County,KY,"Boone County, KY","8,371","26,569",0.32
+Bourbon County,KY,"Bourbon County, KY","3,274","131,533",0.02
+Boyd County,KY,"Boyd County, KY","8,229","20,184",0.41
+Boyle County,KY,"Boyle County, KY","3,962","47,240",0.08
+Bracken County,KY,"Bracken County, KY",918,"30,100",0.03
+Breathitt County,KY,"Breathitt County, KY","4,040","8,239",0.49
+Breckinridge County,KY,"Breckinridge County, KY","3,761","12,726",0.30
+Bullitt County,KY,"Bullitt County, KY","7,596","20,388",0.37
+Butler County,KY,"Butler County, KY","2,213","81,069",0.03
+Caldwell County,KY,"Caldwell County, KY","2,254","12,772",0.18
+Calloway County,KY,"Calloway County, KY","7,605","12,715",0.60
+Campbell County,KY,"Campbell County, KY","11,741","39,135",0.30
+Carlisle County,KY,"Carlisle County, KY",808,"93,152",0.01
+Carroll County,KY,"Carroll County, KY","1,620","4,771",0.34
+Carter County,KY,"Carter County, KY","8,154","10,737",0.76
+Casey County,KY,"Casey County, KY","4,001","27,004",0.15
+Christian County,KY,"Christian County, KY","11,906","15,888",0.75
+Clark County,KY,"Clark County, KY","5,712","71,671",0.08
+Clay County,KY,"Clay County, KY","7,015","36,249",0.19
+Clinton County,KY,"Clinton County, KY","2,580","20,105",0.13
+Crittenden County,KY,"Crittenden County, KY","1,540","10,206",0.15
+Cumberland County,KY,"Cumberland County, KY","1,522","8,915",0.17
+Daviess County,KY,"Daviess County, KY","15,026","6,659",2.26
+Edmonson County,KY,"Edmonson County, KY","2,110","101,104",0.02
+Elliott County,KY,"Elliott County, KY","1,621","12,274",0.13
+Estill County,KY,"Estill County, KY","3,541","7,508",0.47
+Fayette County,KY,"Fayette County, KY","45,485","14,198",3.20
+Fleming County,KY,"Fleming County, KY","2,669","323,780",0.01
+Floyd County,KY,"Floyd County, KY","12,084","14,432",0.84
+Franklin County,KY,"Franklin County, KY","6,352","35,845",0.18
+Fulton County,KY,"Fulton County, KY","1,705","50,815",0.03
+Gallatin County,KY,"Gallatin County, KY","1,319","6,120",0.22
+Garrard County,KY,"Garrard County, KY","2,797","8,832",0.32
+Grant County,KY,"Grant County, KY","3,404","17,560",0.19
+Graves County,KY,"Graves County, KY","6,204","25,121",0.25
+Grayson County,KY,"Grayson County, KY","5,431","37,317",0.15
+Green County,KY,"Green County, KY","1,961","26,321",0.07
+Greenup County,KY,"Greenup County, KY","5,747","11,049",0.52
+Hancock County,KY,"Hancock County, KY","1,038","35,268",0.03
+Hardin County,KY,"Hardin County, KY","14,254","8,758",1.63
+Harlan County,KY,"Harlan County, KY","8,638","110,356",0.08
+Harrison County,KY,"Harrison County, KY","2,865","26,409",0.11
+Hart County,KY,"Hart County, KY","4,120","18,778",0.22
+Henderson County,KY,"Henderson County, KY","7,235","18,906",0.38
+Henry County,KY,"Henry County, KY","2,273","45,591",0.05
+Hickman County,KY,"Hickman County, KY",743,"16,106",0.05
+Hopkins County,KY,"Hopkins County, KY","7,908","4,421",1.79
+Jackson County,KY,"Jackson County, KY","3,506","45,068",0.08
+Jefferson County,KY,"Jefferson County, KY","115,810","13,442",8.62
+Jessamine County,KY,"Jessamine County, KY","6,562","770,517",0.01
+Johnson County,KY,"Johnson County, KY","5,455","53,920",0.10
+Kenton County,KY,"Kenton County, KY","16,923","22,386",0.76
+Knott County,KY,"Knott County, KY","4,612","166,051",0.03
+Knox County,KY,"Knox County, KY","9,719","15,126",0.64
+Larue County,KY,"Larue County, KY","2,133","31,304",0.07
+Laurel County,KY,"Laurel County, KY","12,290","14,307",0.86
+Lawrence County,KY,"Lawrence County, KY","3,920","60,669",0.06
+Lee County,KY,"Lee County, KY","2,163","15,571",0.14
+Leslie County,KY,"Leslie County, KY","3,042","7,033",0.43
+Letcher County,KY,"Letcher County, KY","6,717","10,143",0.66
+Lewis County,KY,"Lewis County, KY","3,292","21,899",0.15
+Lincoln County,KY,"Lincoln County, KY","4,995","13,257",0.38
+Livingston County,KY,"Livingston County, KY","1,268","24,644",0.05
+Logan County,KY,"Logan County, KY","4,781","9,242",0.52
+Lyon County,KY,"Lyon County, KY","1,012","26,989",0.04
+McCracken County,KY,"McCracken County, KY","9,423","8,009",1.18
+McCreary County,KY,"McCreary County, KY","5,274","65,346",0.08
+McLean County,KY,"McLean County, KY","1,263","17,408",0.07
+Madison County,KY,"Madison County, KY","14,065","9,252",1.52
+Magoffin County,KY,"Magoffin County, KY","3,463","92,368",0.04
+Marion County,KY,"Marion County, KY","3,229","12,362",0.26
+Marshall County,KY,"Marshall County, KY","3,715","19,404",0.19
+Martin County,KY,"Martin County, KY","3,875","31,191",0.12
+Mason County,KY,"Mason County, KY","3,057","11,323",0.27
+Meade County,KY,"Meade County, KY","3,245","17,150",0.19
+Menifee County,KY,"Menifee County, KY","1,669","28,715",0.06
+Mercer County,KY,"Mercer County, KY","2,759","6,451",0.43
+Metcalfe County,KY,"Metcalfe County, KY","2,298","21,774",0.11
+Monroe County,KY,"Monroe County, KY","2,415","10,030",0.24
+Montgomery County,KY,"Montgomery County, KY","4,232","10,718",0.39
+Morgan County,KY,"Morgan County, KY","3,102","28,203",0.11
+Muhlenberg County,KY,"Muhlenberg County, KY","5,054","13,345",0.38
+Nelson County,KY,"Nelson County, KY","5,530","30,774",0.18
+Nicholas County,KY,"Nicholas County, KY","1,093","45,851",0.02
+Ohio County,KY,"Ohio County, KY","4,054","7,166",0.57
+Oldham County,KY,"Oldham County, KY","3,463","24,087",0.14
+Owen County,KY,"Owen County, KY","1,707","66,470",0.03
+Owsley County,KY,"Owsley County, KY","1,706","10,880",0.16
+Pendleton County,KY,"Pendleton County, KY","2,222","4,472",0.50
+Perry County,KY,"Perry County, KY","7,355","14,529",0.51
+Pike County,KY,"Pike County, KY","13,499","26,092",0.52
+Powell County,KY,"Powell County, KY","2,666","58,402",0.05
+Pulaski County,KY,"Pulaski County, KY","12,392","12,442",1.00
+Robertson County,KY,"Robertson County, KY",396,"64,623",0.01
+Rockcastle County,KY,"Rockcastle County, KY","3,732","2,135",1.75
+Rowan County,KY,"Rowan County, KY","4,882","16,750",0.29
+Russell County,KY,"Russell County, KY","3,792","24,583",0.15
+Scott County,KY,"Scott County, KY","4,557","17,821",0.26
+Shelby County,KY,"Shelby County, KY","4,714","56,031",0.08
+Simpson County,KY,"Simpson County, KY","2,271","48,518",0.05
+Spencer County,KY,"Spencer County, KY","1,363","18,529",0.07
+Taylor County,KY,"Taylor County, KY","4,635","18,794",0.25
+Todd County,KY,"Todd County, KY","2,055","25,549",0.08
+Trigg County,KY,"Trigg County, KY","1,901","12,311",0.15
+Trimble County,KY,"Trimble County, KY","1,393","14,643",0.10
+Union County,KY,"Union County, KY","2,327","8,515",0.27
+Warren County,KY,"Warren County, KY","20,486","14,505",1.41
+Washington County,KY,"Washington County, KY","1,644","131,264",0.01
+Wayne County,KY,"Wayne County, KY","5,629","12,084",0.47
+Webster County,KY,"Webster County, KY","2,329","20,468",0.11
+Whitley County,KY,"Whitley County, KY","8,849","13,111",0.67
+Wolfe County,KY,"Wolfe County, KY","2,202","36,242",0.06
+Woodford County,KY,"Woodford County, KY","2,438","7,177",0.34
+Louisiana,LA,"Louisiana, LA","848,005","26,533",31.96
+Acadia Parish,LA,"Acadia Parish, LA","15,378","4,659,978",0.00
+Allen Parish,LA,"Allen Parish, LA","4,177","62,190",0.07
+Ascension Parish,LA,"Ascension Parish, LA","13,341","25,605",0.52
+Assumption Parish,LA,"Assumption Parish, LA","4,562","124,672",0.04
+Avoyelles Parish,LA,"Avoyelles Parish, LA","10,158","22,300",0.46
+Beauregard Parish,LA,"Beauregard Parish, LA","5,528","40,462",0.14
+Bienville Parish,LA,"Bienville Parish, LA","3,481","37,253",0.09
+Bossier Parish,LA,"Bossier Parish, LA","17,888","13,308",1.34
+Caddo Parish,LA,"Caddo Parish, LA","52,996","127,185",0.42
+Calcasieu Parish,LA,"Calcasieu Parish, LA","29,744","242,922",0.12
+Caldwell Parish,LA,"Caldwell Parish, LA","1,950","203,112",0.01
+Cameron Parish,LA,"Cameron Parish, LA",962,"9,960",0.10
+Catahoula Parish,LA,"Catahoula Parish, LA","2,273","6,968",0.33
+Claiborne Parish,LA,"Claiborne Parish, LA","4,245","9,608",0.44
+Concordia Parish,LA,"Concordia Parish, LA","4,923","15,944",0.31
+De Soto Parish,LA,"De Soto Parish, LA","4,959","19,572",0.25
+East Baton Rouge Parish,LA,"East Baton Rouge Parish, LA","71,761","27,436",2.62
+East Carroll Parish,LA,"East Carroll Parish, LA","2,720","440,956",0.01
+East Feliciana Parish,LA,"East Feliciana Parish, LA","3,319","7,037",0.47
+Evangeline Parish,LA,"Evangeline Parish, LA","8,748","19,305",0.45
+Franklin Parish,LA,"Franklin Parish, LA","5,318","33,443",0.16
+Grant Parish,LA,"Grant Parish, LA","3,891","20,156",0.19
+Iberia Parish,LA,"Iberia Parish, LA","16,816","22,482",0.75
+Iberville Parish,LA,"Iberville Parish, LA","6,880","70,941",0.10
+Jackson Parish,LA,"Jackson Parish, LA","3,206","32,721",0.10
+Jefferson Parish,LA,"Jefferson Parish, LA","67,200","15,902",4.23
+Jefferson Davis Parish,LA,"Jefferson Davis Parish, LA","5,462","434,051",0.01
+Lafayette Parish,LA,"Lafayette Parish, LA","36,301","31,582",1.15
+Lafourche Parish,LA,"Lafourche Parish, LA","15,989","242,782",0.07
+La Salle Parish,LA,"La Salle Parish, LA","2,659","98,115",0.03
+Lincoln Parish,LA,"Lincoln Parish, LA","10,940","14,917",0.73
+Livingston Parish,LA,"Livingston Parish, LA","15,562","47,196",0.33
+Madison Parish,LA,"Madison Parish, LA","4,000","139,567",0.03
+Morehouse Parish,LA,"Morehouse Parish, LA","6,738","11,161",0.60
+Natchitoches Parish,LA,"Natchitoches Parish, LA","11,951","25,398",0.47
+Orleans Parish,LA,"Orleans Parish, LA","90,329","38,659",2.34
+Ouachita Parish,LA,"Ouachita Parish, LA","31,790","391,006",0.08
+Plaquemines Parish,LA,"Plaquemines Parish, LA","3,582","154,475",0.02
+Pointe Coupee Parish,LA,"Pointe Coupee Parish, LA","4,428","23,410",0.19
+Rapides Parish,LA,"Rapides Parish, LA","24,641","21,940",1.12
+Red River Parish,LA,"Red River Parish, LA","1,911","130,562",0.01
+Richland Parish,LA,"Richland Parish, LA","5,051","8,477",0.60
+Sabine Parish,LA,"Sabine Parish, LA","5,430","20,192",0.27
+St. Bernard Parish,LA,"St. Bernard Parish, LA","9,306","24,032",0.39
+St. Charles Parish,LA,"St. Charles Parish, LA","6,652","46,721",0.14
+St. Helena Parish,LA,"St. Helena Parish, LA","1,983","52,879",0.04
+St. James Parish,LA,"St. James Parish, LA","3,492","10,262",0.34
+St. John the Baptist Parish,LA,"St. John the Baptist Parish, LA","7,766","21,037",0.37
+St. Landry Parish,LA,"St. Landry Parish, LA","26,696","43,184",0.62
+St. Martin Parish,LA,"St. Martin Parish, LA","10,179","82,764",0.12
+St. Mary Parish,LA,"St. Mary Parish, LA","10,285","53,621",0.19
+St. Tammany Parish,LA,"St. Tammany Parish, LA","30,253","49,774",0.61
+Tangipahoa Parish,LA,"Tangipahoa Parish, LA","23,304","258,111",0.09
+Tensas Parish,LA,"Tensas Parish, LA","1,404","133,777",0.01
+Terrebonne Parish,LA,"Terrebonne Parish, LA","18,950","4,462",4.25
+Union Parish,LA,"Union Parish, LA","3,924","111,021",0.04
+Vermilion Parish,LA,"Vermilion Parish, LA","10,826","22,330",0.48
+Vernon Parish,LA,"Vernon Parish, LA","7,951","59,830",0.13
+Washington Parish,LA,"Washington Parish, LA","11,028","48,860",0.23
+Webster Parish,LA,"Webster Parish, LA","9,764","46,582",0.21
+West Baton Rouge Parish,LA,"West Baton Rouge Parish, LA","3,299","38,798",0.09
+West Carroll Parish,LA,"West Carroll Parish, LA","2,455","26,427",0.09
+West Feliciana Parish,LA,"West Feliciana Parish, LA","2,470","10,982",0.22
+Winn Parish,LA,"Winn Parish, LA","2,829","15,460",0.18
+Maine,ME,"Maine, ME","151,458","14,134",10.72
+Androscoggin County,ME,"Androscoggin County, ME","12,838","1,338,404",0.01
+Aroostook County,ME,"Aroostook County, ME","9,988","107,679",0.09
+Cumberland County,ME,"Cumberland County, ME","23,332","67,111",0.35
+Franklin County,ME,"Franklin County, ME","4,141","293,557",0.01
+Hancock County,ME,"Hancock County, ME","6,233","29,897",0.21
+Kennebec County,ME,"Kennebec County, ME","13,290","54,811",0.24
+Knox County,ME,"Knox County, ME","4,209","122,083",0.03
+Lincoln County,ME,"Lincoln County, ME","3,751","39,771",0.09
+Oxford County,ME,"Oxford County, ME","9,490","34,342",0.28
+Penobscot County,ME,"Penobscot County, ME","21,154","57,618",0.37
+Piscataquis County,ME,"Piscataquis County, ME","2,883","151,096",0.02
+Sagadahoc County,ME,"Sagadahoc County, ME","3,059","16,800",0.18
+Somerset County,ME,"Somerset County, ME","8,011","35,634",0.22
+Waldo County,ME,"Waldo County, ME","5,333","50,592",0.11
+Washington County,ME,"Washington County, ME","5,613","39,694",0.14
+York County,ME,"York County, ME","18,133","31,490",0.58
+Maryland,MD,"Maryland, MD","538,824","206,229",2.61
+Allegany County,MD,"Allegany County, MD","10,570","6,042,718",0.00
+Anne Arundel County,MD,"Anne Arundel County, MD","39,231","70,975",0.55
+Baltimore County,MD,"Baltimore County, MD","79,482","576,031",0.14
+Calvert County,MD,"Calvert County, MD","4,912","828,431",0.01
+Caroline County,MD,"Caroline County, MD","4,320","92,003",0.05
+Carroll County,MD,"Carroll County, MD","9,828","33,304",0.30
+Cecil County,MD,"Cecil County, MD","8,406","168,429",0.05
+Charles County,MD,"Charles County, MD","10,487","102,826",0.10
+Dorchester County,MD,"Dorchester County, MD","4,851","161,503",0.03
+Frederick County,MD,"Frederick County, MD","15,552","31,998",0.49
+Garrett County,MD,"Garrett County, MD","3,483","255,648",0.01
+Harford County,MD,"Harford County, MD","17,528","29,163",0.60
+Howard County,MD,"Howard County, MD","16,874","253,956",0.07
+Kent County,MD,"Kent County, MD","2,329","323,196",0.01
+Montgomery County,MD,"Montgomery County, MD","72,247","19,383",3.73
+Prince George's County,MD,"Prince George's County, MD","73,777","1,052,567",0.07
+Queen Anne's County,MD,"Queen Anne's County, MD","3,237","909,308",0.00
+St. Mary's County,MD,"St. Mary's County, MD","8,770","50,251",0.17
+Somerset County,MD,"Somerset County, MD","4,758","112,664",0.04
+Talbot County,MD,"Talbot County, MD","3,377","25,675",0.13
+Washington County,MD,"Washington County, MD","15,871","36,968",0.43
+Wicomico County,MD,"Wicomico County, MD","14,327","150,926",0.09
+Worcester County,MD,"Worcester County, MD","5,300","103,195",0.05
+Baltimore city,MD,"Baltimore city, MD","109,306","51,823",2.11
+Massachusetts,MA,"Massachusetts, MA","668,402","602,495",1.11
+Barnstable County,MA,"Barnstable County, MA","16,661","6,902,149",0.00
+Berkshire County,MA,"Berkshire County, MA","13,673","213,413",0.06
+Bristol County,MA,"Bristol County, MA","59,147","126,348",0.47
+Dukes County,MA,"Dukes County, MA","1,316","564,022",0.00
+Essex County,MA,"Essex County, MA","82,387","17,352",4.75
+Franklin County,MA,"Franklin County, MA","7,395","790,638",0.01
+Hampden County,MA,"Hampden County, MA","76,016","70,963",1.07
+Hampshire County,MA,"Hampshire County, MA","15,397","470,406",0.03
+Middlesex County,MA,"Middlesex County, MA","113,717","161,355",0.70
+Nantucket County,MA,"Nantucket County, MA",669,"1,614,714",0.00
+Norfolk County,MA,"Norfolk County, MA","44,959","11,327",3.97
+Plymouth County,MA,"Plymouth County, MA","31,285","705,388",0.04
+Suffolk County,MA,"Suffolk County, MA","133,144","518,132",0.26
+Worcester County,MA,"Worcester County, MA","72,636","807,252",0.09
+Michigan,MI,"Michigan, MI","1,369,235","830,839",1.65
+Alcona County,MI,"Alcona County, MI","1,995","9,995,915",0.00
+Alger County,MI,"Alger County, MI","1,019","10,362",0.10
+Allegan County,MI,"Allegan County, MI","12,429","9,097",1.37
+Alpena County,MI,"Alpena County, MI","4,277","117,327",0.04
+Antrim County,MI,"Antrim County, MI","2,439","28,360",0.09
+Arenac County,MI,"Arenac County, MI","2,360","23,365",0.10
+Baraga County,MI,"Baraga County, MI","1,126","15,041",0.07
+Barry County,MI,"Barry County, MI","5,100","8,320",0.61
+Bay County,MI,"Bay County, MI","16,044","61,157",0.26
+Benzie County,MI,"Benzie County, MI","1,812","103,923",0.02
+Berrien County,MI,"Berrien County, MI","23,151","17,753",1.30
+Branch County,MI,"Branch County, MI","6,034","154,141",0.04
+Calhoun County,MI,"Calhoun County, MI","22,602","43,622",0.52
+Cass County,MI,"Cass County, MI","5,727","134,487",0.04
+Charlevoix County,MI,"Charlevoix County, MI","2,756","51,653",0.05
+Cheboygan County,MI,"Cheboygan County, MI","3,359","26,244",0.13
+Chippewa County,MI,"Chippewa County, MI","5,608","25,413",0.22
+Clare County,MI,"Clare County, MI","6,253","37,517",0.17
+Clinton County,MI,"Clinton County, MI","5,896","30,757",0.19
+Crawford County,MI,"Crawford County, MI","1,862","79,332",0.02
+Delta County,MI,"Delta County, MI","4,380","13,901",0.32
+Dickinson County,MI,"Dickinson County, MI","2,703","35,857",0.08
+Eaton County,MI,"Eaton County, MI","9,987","25,383",0.39
+Emmet County,MI,"Emmet County, MI","2,725","109,826",0.02
+Genesee County,MI,"Genesee County, MI","75,251","33,308",2.26
+Gladwin County,MI,"Gladwin County, MI","3,905","406,892",0.01
+Gogebic County,MI,"Gogebic County, MI","2,404","25,337",0.09
+Grand Traverse County,MI,"Grand Traverse County, MI","8,656","15,096",0.57
+Gratiot County,MI,"Gratiot County, MI","5,679","92,573",0.06
+Hillsdale County,MI,"Hillsdale County, MI","5,958","40,599",0.15
+Houghton County,MI,"Houghton County, MI","6,316","45,749",0.14
+Huron County,MI,"Huron County, MI","3,876","36,219",0.11
+Ingham County,MI,"Ingham County, MI","49,916","31,166",1.60
+Ionia County,MI,"Ionia County, MI","5,822","292,735",0.02
+Iosco County,MI,"Iosco County, MI","3,724","64,210",0.06
+Iron County,MI,"Iron County, MI","1,531","25,081",0.06
+Isabella County,MI,"Isabella County, MI","15,106","11,117",1.36
+Jackson County,MI,"Jackson County, MI","20,553","70,562",0.29
+Kalamazoo County,MI,"Kalamazoo County, MI","36,927","158,823",0.23
+Kalkaska County,MI,"Kalkaska County, MI","2,481","264,870",0.01
+Kent County,MI,"Kent County, MI","72,623","17,824",4.07
+Keweenaw County,MI,"Keweenaw County, MI",253,"653,786",0.00
+Lake County,MI,"Lake County, MI","2,559","2,113",1.21
+Lapeer County,MI,"Lapeer County, MI","8,723","11,881",0.73
+Leelanau County,MI,"Leelanau County, MI","1,519","88,028",0.02
+Lenawee County,MI,"Lenawee County, MI","9,668","21,764",0.44
+Livingston County,MI,"Livingston County, MI","9,560","98,266",0.10
+Luce County,MI,"Luce County, MI","1,063","191,224",0.01
+Mackinac County,MI,"Mackinac County, MI","1,431","6,283",0.23
+Macomb County,MI,"Macomb County, MI","95,731","10,787",8.87
+Manistee County,MI,"Manistee County, MI","3,026","874,759",0.00
+Marquette County,MI,"Marquette County, MI","8,824","24,528",0.36
+Mason County,MI,"Mason County, MI","3,455","66,516",0.05
+Mecosta County,MI,"Mecosta County, MI","7,368","29,100",0.25
+Menominee County,MI,"Menominee County, MI","2,810","43,545",0.06
+Midland County,MI,"Midland County, MI","9,217","22,983",0.40
+Missaukee County,MI,"Missaukee County, MI","1,920","83,209",0.02
+Monroe County,MI,"Monroe County, MI","14,891","15,113",0.99
+Montcalm County,MI,"Montcalm County, MI","8,709","150,439",0.06
+Montmorency County,MI,"Montmorency County, MI","1,659","63,968",0.03
+Muskegon County,MI,"Muskegon County, MI","26,321","9,265",2.84
+Newaygo County,MI,"Newaygo County, MI","7,522","173,588",0.04
+Oakland County,MI,"Oakland County, MI","102,052","48,892",2.09
+Oceana County,MI,"Oceana County, MI","4,070","1,259,201",0.00
+Ogemaw County,MI,"Ogemaw County, MI","3,289","26,625",0.12
+Ontonagon County,MI,"Ontonagon County, MI",810,"20,952",0.04
+Osceola County,MI,"Osceola County, MI","4,032","5,795",0.70
+Oscoda County,MI,"Oscoda County, MI","1,408","23,341",0.06
+Otsego County,MI,"Otsego County, MI","2,771","8,276",0.33
+Ottawa County,MI,"Ottawa County, MI","19,087","24,665",0.77
+Presque Isle County,MI,"Presque Isle County, MI","1,782","290,494",0.01
+Roscommon County,MI,"Roscommon County, MI","4,038","12,738",0.32
+Saginaw County,MI,"Saginaw County, MI","31,323","23,884",1.31
+St. Clair County,MI,"St. Clair County, MI","21,745","190,800",0.11
+St. Joseph County,MI,"St. Joseph County, MI","8,191","159,337",0.05
+Sanilac County,MI,"Sanilac County, MI","6,477","61,043",0.11
+Schoolcraft County,MI,"Schoolcraft County, MI","1,044","41,182",0.03
+Shiawassee County,MI,"Shiawassee County, MI","7,279","8,068",0.90
+Tuscola County,MI,"Tuscola County, MI","6,580","68,192",0.10
+Van Buren County,MI,"Van Buren County, MI","11,432","52,516",0.22
+Washtenaw County,MI,"Washtenaw County, MI","52,258","75,448",0.69
+Wayne County,MI,"Wayne County, MI","376,649","370,963",1.02
+Wexford County,MI,"Wexford County, MI","4,318","1,753,893",0.00
+Minnesota,MN,"Minnesota, MN","527,445","33,466",15.76
+Aitkin County,MN,"Aitkin County, MN","2,145","5,611,179",0.00
+Anoka County,MN,"Anoka County, MN","19,568","15,902",1.23
+Becker County,MN,"Becker County, MN","3,764","353,813",0.01
+Beltrami County,MN,"Beltrami County, MN","8,220","34,371",0.24
+Benton County,MN,"Benton County, MN","4,074","46,847",0.09
+Big Stone County,MN,"Big Stone County, MN",549,"40,545",0.01
+Blue Earth County,MN,"Blue Earth County, MN","9,693","4,989",1.94
+Brown County,MN,"Brown County, MN","2,008","67,427",0.03
+Carlton County,MN,"Carlton County, MN","3,454","25,111",0.14
+Carver County,MN,"Carver County, MN","3,945","35,837",0.11
+Cass County,MN,"Cass County, MN","3,771","103,551",0.04
+Chippewa County,MN,"Chippewa County, MN","1,031","29,519",0.03
+Chisago County,MN,"Chisago County, MN","3,508","11,924",0.29
+Clay County,MN,"Clay County, MN","7,220","55,922",0.13
+Clearwater County,MN,"Clearwater County, MN","1,107","63,955",0.02
+Cook County,MN,"Cook County, MN",511,"8,810",0.06
+Cottonwood County,MN,"Cottonwood County, MN","1,147","5,393",0.21
+Crow Wing County,MN,"Crow Wing County, MN","8,105","11,277",0.72
+Dakota County,MN,"Dakota County, MN","26,434","64,889",0.41
+Dodge County,MN,"Dodge County, MN","1,266","425,423",0.00
+Douglas County,MN,"Douglas County, MN","3,304","20,822",0.16
+Faribault County,MN,"Faribault County, MN","1,569","37,964",0.04
+Fillmore County,MN,"Fillmore County, MN","2,049","13,758",0.15
+Freeborn County,MN,"Freeborn County, MN","2,948","21,058",0.14
+Goodhue County,MN,"Goodhue County, MN","3,250","30,444",0.11
+Grant County,MN,"Grant County, MN",583,"46,403",0.01
+Hennepin County,MN,"Hennepin County, MN","127,826","6,021",21.23
+Houston County,MN,"Houston County, MN","1,560","1,259,428",0.00
+Hubbard County,MN,"Hubbard County, MN","2,535","18,578",0.14
+Isanti County,MN,"Isanti County, MN","2,987","21,332",0.14
+Itasca County,MN,"Itasca County, MN","5,206","39,966",0.13
+Jackson County,MN,"Jackson County, MN",864,"45,108",0.02
+Kanabec County,MN,"Kanabec County, MN","1,800","9,911",0.18
+Kandiyohi County,MN,"Kandiyohi County, MN","4,854","16,207",0.30
+Kittson County,MN,"Kittson County, MN",415,"42,855",0.01
+Koochiching County,MN,"Koochiching County, MN","1,811","4,248",0.43
+Lac qui Parle County,MN,"Lac qui Parle County, MN",619,"12,440",0.05
+Lake County,MN,"Lake County, MN",900,"6,658",0.14
+Lake of the Woods County,MN,"Lake of the Woods County, MN",383,"10,658",0.04
+Le Sueur County,MN,"Le Sueur County, MN","2,191","3,758",0.58
+Lincoln County,MN,"Lincoln County, MN",562,"28,494",0.02
+Lyon County,MN,"Lyon County, MN","3,009","5,673",0.53
+McLeod County,MN,"McLeod County, MN","2,520","25,629",0.10
+Mahnomen County,MN,"Mahnomen County, MN","1,135","35,873",0.03
+Marshall County,MN,"Marshall County, MN",764,"5,519",0.14
+Martin County,MN,"Martin County, MN","2,677","9,390",0.29
+Meeker County,MN,"Meeker County, MN","1,715","19,785",0.09
+Mille Lacs County,MN,"Mille Lacs County, MN","3,163","23,141",0.14
+Morrison County,MN,"Morrison County, MN","3,307","26,139",0.13
+Mower County,MN,"Mower County, MN","4,567","33,169",0.14
+Murray County,MN,"Murray County, MN",667,"40,011",0.02
+Nicollet County,MN,"Nicollet County, MN","2,759","8,276",0.33
+Nobles County,MN,"Nobles County, MN","2,335","34,220",0.07
+Norman County,MN,"Norman County, MN",691,"21,924",0.03
+Olmsted County,MN,"Olmsted County, MN","10,908","6,475",1.68
+Otter Tail County,MN,"Otter Tail County, MN","5,940","156,277",0.04
+Pennington County,MN,"Pennington County, MN","1,278","58,812",0.02
+Pine County,MN,"Pine County, MN","3,319","14,178",0.23
+Pipestone County,MN,"Pipestone County, MN",917,"29,483",0.03
+Polk County,MN,"Polk County, MN","3,654","9,047",0.40
+Pope County,MN,"Pope County, MN",919,"31,529",0.03
+Ramsey County,MN,"Ramsey County, MN","78,160","11,097",7.04
+Red Lake County,MN,"Red Lake County, MN",423,"550,210",0.00
+Redwood County,MN,"Redwood County, MN","1,409","3,999",0.35
+Renville County,MN,"Renville County, MN","1,505","15,249",0.10
+Rice County,MN,"Rice County, MN","5,718","14,612",0.39
+Rock County,MN,"Rock County, MN",815,"66,523",0.01
+Roseau County,MN,"Roseau County, MN","1,261","9,414",0.13
+St. Louis County,MN,"St. Louis County, MN","28,232","15,150",1.86
+Scott County,MN,"Scott County, MN","7,563","199,754",0.04
+Sherburne County,MN,"Sherburne County, MN","6,098","147,381",0.04
+Sibley County,MN,"Sibley County, MN","1,052","96,036",0.01
+Stearns County,MN,"Stearns County, MN","18,879","15,028",1.26
+Steele County,MN,"Steele County, MN","3,491","159,256",0.02
+Stevens County,MN,"Stevens County, MN",986,"36,803",0.03
+Swift County,MN,"Swift County, MN",936,"9,753",0.10
+Todd County,MN,"Todd County, MN","3,017","9,345",0.32
+Traverse County,MN,"Traverse County, MN",418,"24,582",0.02
+Wabasha County,MN,"Wabasha County, MN","1,578","3,308",0.48
+Wadena County,MN,"Wadena County, MN","1,924","21,645",0.09
+Waseca County,MN,"Waseca County, MN","1,633","13,773",0.12
+Washington County,MN,"Washington County, MN","10,755","18,691",0.58
+Watonwan County,MN,"Watonwan County, MN","1,152","259,201",0.00
+Wilkin County,MN,"Wilkin County, MN",572,"10,980",0.05
+Winona County,MN,"Winona County, MN","6,126","6,254",0.98
+Wright County,MN,"Wright County, MN","6,639","50,825",0.13
+Yellow Medicine County,MN,"Yellow Medicine County, MN","1,124","136,349",0.01
+Mississippi,MS,"Mississippi, MS","571,402","9,795",58.34
+Adams County,MS,"Adams County, MS","8,478","2,986,530",0.00
+Alcorn County,MS,"Alcorn County, MS","6,559","31,192",0.21
+Amite County,MS,"Amite County, MS","2,706","36,925",0.07
+Attala County,MS,"Attala County, MS","4,272","12,326",0.35
+Benton County,MS,"Benton County, MS","1,807","18,365",0.10
+Bolivar County,MS,"Bolivar County, MS","8,715","8,271",1.05
+Calhoun County,MS,"Calhoun County, MS","3,026","31,333",0.10
+Carroll County,MS,"Carroll County, MS","1,710","14,436",0.12
+Chickasaw County,MS,"Chickasaw County, MS","3,383","9,911",0.34
+Choctaw County,MS,"Choctaw County, MS","1,668","17,171",0.10
+Claiborne County,MS,"Claiborne County, MS","2,827","8,278",0.34
+Clarke County,MS,"Clarke County, MS","3,351","9,002",0.37
+Clay County,MS,"Clay County, MS","4,170","15,604",0.27
+Coahoma County,MS,"Coahoma County, MS","7,893","19,386",0.41
+Copiah County,MS,"Copiah County, MS","7,364","22,628",0.33
+Covington County,MS,"Covington County, MS","4,910","28,543",0.17
+DeSoto County,MS,"DeSoto County, MS","16,255","18,853",0.86
+Forrest County,MS,"Forrest County, MS","17,341","182,001",0.10
+Franklin County,MS,"Franklin County, MS","1,551","75,036",0.02
+George County,MS,"George County, MS","3,802","7,788",0.49
+Greene County,MS,"Greene County, MS","2,485","24,250",0.10
+Grenada County,MS,"Grenada County, MS","4,621","13,586",0.34
+Hancock County,MS,"Hancock County, MS","8,181","21,055",0.39
+Harrison County,MS,"Harrison County, MS","40,288","47,334",0.85
+Hinds County,MS,"Hinds County, MS","44,204","206,650",0.21
+Holmes County,MS,"Holmes County, MS","5,515","237,085",0.02
+Humphreys County,MS,"Humphreys County, MS","3,015","17,622",0.17
+Issaquena County,MS,"Issaquena County, MS",409,"8,257",0.05
+Itawamba County,MS,"Itawamba County, MS","3,066","1,308",2.34
+Jackson County,MS,"Jackson County, MS","25,348","23,517",1.08
+Jasper County,MS,"Jasper County, MS","3,098","143,277",0.02
+Jefferson County,MS,"Jefferson County, MS","2,388","16,428",0.15
+Jefferson Davis County,MS,"Jefferson Davis County, MS","2,885","7,106",0.41
+Jones County,MS,"Jones County, MS","13,223","11,234",1.18
+Kemper County,MS,"Kemper County, MS","2,427","68,461",0.04
+Lafayette County,MS,"Lafayette County, MS","8,801","10,027",0.88
+Lamar County,MS,"Lamar County, MS","8,666","54,793",0.16
+Lauderdale County,MS,"Lauderdale County, MS","18,243","62,447",0.29
+Lawrence County,MS,"Lawrence County, MS","2,329","75,317",0.03
+Leake County,MS,"Leake County, MS","5,335","12,455",0.43
+Lee County,MS,"Lee County, MS","10,977","22,763",0.48
+Leflore County,MS,"Leflore County, MS","9,655","85,202",0.11
+Lincoln County,MS,"Lincoln County, MS","6,422","28,919",0.22
+Lowndes County,MS,"Lowndes County, MS","13,276","34,205",0.39
+Madison County,MS,"Madison County, MS","9,750","58,930",0.17
+Marion County,MS,"Marion County, MS","6,500","105,630",0.06
+Marshall County,MS,"Marshall County, MS","7,019","24,715",0.28
+Monroe County,MS,"Monroe County, MS","5,750","35,451",0.16
+Montgomery County,MS,"Montgomery County, MS","2,265","35,564",0.06
+Neshoba County,MS,"Neshoba County, MS","7,701","10,023",0.77
+Newton County,MS,"Newton County, MS","4,399","29,125",0.15
+Noxubee County,MS,"Noxubee County, MS","3,001","21,443",0.14
+Oktibbeha County,MS,"Oktibbeha County, MS","12,296","10,535",1.17
+Panola County,MS,"Panola County, MS","7,391","49,599",0.15
+Pearl River County,MS,"Pearl River County, MS","9,761","34,178",0.29
+Perry County,MS,"Perry County, MS","2,597","55,387",0.05
+Pike County,MS,"Pike County, MS","11,814","11,931",0.99
+Pontotoc County,MS,"Pontotoc County, MS","5,185","39,563",0.13
+Prentiss County,MS,"Prentiss County, MS","4,808","31,833",0.15
+Quitman County,MS,"Quitman County, MS","2,604","25,315",0.10
+Rankin County,MS,"Rankin County, MS","14,162","7,051",2.01
+Scott County,MS,"Scott County, MS","7,135","153,902",0.05
+Sharkey County,MS,"Sharkey County, MS","1,444","28,287",0.05
+Simpson County,MS,"Simpson County, MS","5,200","4,377",1.19
+Smith County,MS,"Smith County, MS","2,660","26,758",0.10
+Stone County,MS,"Stone County, MS","3,378","16,002",0.21
+Sunflower County,MS,"Sunflower County, MS","7,041","18,717",0.38
+Tallahatchie County,MS,"Tallahatchie County, MS","3,852","25,735",0.15
+Tate County,MS,"Tate County, MS","4,827","13,987",0.35
+Tippah County,MS,"Tippah County, MS","3,652","28,759",0.13
+Tishomingo County,MS,"Tishomingo County, MS","2,912","21,995",0.13
+Tunica County,MS,"Tunica County, MS","2,599","19,454",0.13
+Union County,MS,"Union County, MS","3,779","9,944",0.38
+Walthall County,MS,"Walthall County, MS","3,350","28,606",0.12
+Warren County,MS,"Warren County, MS","8,766","14,465",0.61
+Washington County,MS,"Washington County, MS","14,414","46,176",0.31
+Wayne County,MS,"Wayne County, MS","4,318","45,063",0.10
+Webster County,MS,"Webster County, MS","1,764","20,298",0.09
+Wilkinson County,MS,"Wilkinson County, MS","2,325","9,788",0.24
+Winston County,MS,"Winston County, MS","3,717","8,792",0.42
+Yalobusha County,MS,"Yalobusha County, MS","2,208","18,165",0.12
+Yazoo County,MS,"Yazoo County, MS","8,417","12,392",0.68
+Missouri,MO,"Missouri, MO","785,343","28,248",27.80
+Adair County,MO,"Adair County, MO","5,356","6,126,452",0.00
+Andrew County,MO,"Andrew County, MO","1,429","25,339",0.06
+Atchison County,MO,"Atchison County, MO",600,"17,607",0.03
+Audrain County,MO,"Audrain County, MO","3,883","5,171",0.75
+Barry County,MO,"Barry County, MO","6,658","25,473",0.26
+Barton County,MO,"Barton County, MO","2,057","35,886",0.06
+Bates County,MO,"Bates County, MO","2,267","11,798",0.19
+Benton County,MO,"Benton County, MO","3,834","16,320",0.23
+Bollinger County,MO,"Bollinger County, MO","1,871","19,278",0.10
+Boone County,MO,"Boone County, MO","28,584","12,169",2.35
+Buchanan County,MO,"Buchanan County, MO","13,117","180,005",0.07
+Butler County,MO,"Butler County, MO","8,567","88,571",0.10
+Caldwell County,MO,"Caldwell County, MO","1,281","42,639",0.03
+Callaway County,MO,"Callaway County, MO","4,795","9,108",0.53
+Camden County,MO,"Camden County, MO","5,712","44,889",0.13
+Cape Girardeau County,MO,"Cape Girardeau County, MO","10,334","45,815",0.23
+Carroll County,MO,"Carroll County, MO","1,060","78,753",0.01
+Carter County,MO,"Carter County, MO","1,355","8,743",0.15
+Cass County,MO,"Cass County, MO","8,427","6,054",1.39
+Cedar County,MO,"Cedar County, MO","2,502","104,954",0.02
+Chariton County,MO,"Chariton County, MO",967,"14,165",0.07
+Christian County,MO,"Christian County, MO","7,388","7,451",0.99
+Clark County,MO,"Clark County, MO","1,001","86,983",0.01
+Clay County,MO,"Clay County, MO","17,153","6,842",2.51
+Clinton County,MO,"Clinton County, MO","1,793","246,365",0.01
+Cole County,MO,"Cole County, MO","6,362","20,470",0.31
+Cooper County,MO,"Cooper County, MO","2,242","76,796",0.03
+Crawford County,MO,"Crawford County, MO","3,741","17,603",0.21
+Dade County,MO,"Dade County, MO","1,245","23,957",0.05
+Dallas County,MO,"Dallas County, MO","2,750","7,569",0.36
+Daviess County,MO,"Daviess County, MO","1,212","16,762",0.07
+DeKalb County,MO,"DeKalb County, MO","1,470","8,313",0.18
+Dent County,MO,"Dent County, MO","3,082","12,630",0.24
+Douglas County,MO,"Douglas County, MO","2,593","15,441",0.17
+Dunklin County,MO,"Dunklin County, MO","7,462","13,373",0.56
+Franklin County,MO,"Franklin County, MO","9,383","29,423",0.32
+Gasconade County,MO,"Gasconade County, MO","1,697","103,670",0.02
+Gentry County,MO,"Gentry County, MO","1,007","14,705",0.07
+Greene County,MO,"Greene County, MO","43,423","6,628",6.55
+Grundy County,MO,"Grundy County, MO","1,583","291,923",0.01
+Harrison County,MO,"Harrison County, MO","1,277","9,914",0.13
+Henry County,MO,"Henry County, MO","3,606","8,414",0.43
+Hickory County,MO,"Hickory County, MO","1,677","21,792",0.08
+Holt County,MO,"Holt County, MO",572,"9,509",0.06
+Howard County,MO,"Howard County, MO","1,233","4,404",0.28
+Howell County,MO,"Howell County, MO","8,371","10,137",0.83
+Iron County,MO,"Iron County, MO","1,966","40,076",0.05
+Jackson County,MO,"Jackson County, MO","89,787","10,177",8.82
+Jasper County,MO,"Jasper County, MO","19,498","700,307",0.03
+Jefferson County,MO,"Jefferson County, MO","19,327","120,636",0.16
+Johnson County,MO,"Johnson County, MO","7,032","224,347",0.03
+Knox County,MO,"Knox County, MO",640,"53,652",0.01
+Laclede County,MO,"Laclede County, MO","5,403","3,947",1.37
+Lafayette County,MO,"Lafayette County, MO","3,516","35,713",0.10
+Lawrence County,MO,"Lawrence County, MO","5,831","32,598",0.18
+Lewis County,MO,"Lewis County, MO","1,405","38,359",0.04
+Lincoln County,MO,"Lincoln County, MO","6,055","9,855",0.61
+Linn County,MO,"Linn County, MO","1,976","57,686",0.03
+Livingston County,MO,"Livingston County, MO","2,045","12,037",0.17
+McDonald County,MO,"McDonald County, MO","4,083","15,146",0.27
+Macon County,MO,"Macon County, MO","2,064","23,078",0.09
+Madison County,MO,"Madison County, MO","1,982","15,153",0.13
+Maries County,MO,"Maries County, MO","1,205","12,188",0.10
+Marion County,MO,"Marion County, MO","3,686","8,769",0.42
+Mercer County,MO,"Mercer County, MO",439,"28,592",0.02
+Miller County,MO,"Miller County, MO","4,204","3,641",1.15
+Mississippi County,MO,"Mississippi County, MO","3,069","25,336",0.12
+Moniteau County,MO,"Moniteau County, MO","1,723","13,336",0.13
+Monroe County,MO,"Monroe County, MO","1,158","16,121",0.07
+Montgomery County,MO,"Montgomery County, MO","1,591","8,664",0.18
+Morgan County,MO,"Morgan County, MO","3,250","11,534",0.28
+New Madrid County,MO,"New Madrid County, MO","3,089","20,358",0.15
+Newton County,MO,"Newton County, MO","9,144","17,296",0.53
+Nodaway County,MO,"Nodaway County, MO","3,715","58,266",0.06
+Oregon County,MO,"Oregon County, MO","2,468","22,304",0.11
+Osage County,MO,"Osage County, MO","1,222","10,541",0.12
+Ozark County,MO,"Ozark County, MO","1,962","13,714",0.14
+Pemiscot County,MO,"Pemiscot County, MO","4,664","9,017",0.52
+Perry County,MO,"Perry County, MO","2,040","16,272",0.13
+Pettis County,MO,"Pettis County, MO","6,885","19,150",0.36
+Phelps County,MO,"Phelps County, MO","7,517","42,542",0.18
+Pike County,MO,"Pike County, MO","2,557","44,732",0.06
+Platte County,MO,"Platte County, MO","5,925","18,504",0.32
+Polk County,MO,"Polk County, MO","4,965","102,985",0.05
+Pulaski County,MO,"Pulaski County, MO","6,350","32,201",0.20
+Putnam County,MO,"Putnam County, MO",675,"52,014",0.01
+Ralls County,MO,"Ralls County, MO",923,"4,757",0.19
+Randolph County,MO,"Randolph County, MO","3,960","10,212",0.39
+Ray County,MO,"Ray County, MO","2,220","24,763",0.09
+Reynolds County,MO,"Reynolds County, MO","1,240","22,883",0.05
+Ripley County,MO,"Ripley County, MO","3,116","6,254",0.50
+St. Charles County,MO,"St. Charles County, MO","22,272","13,401",1.66
+St. Clair County,MO,"St. Clair County, MO","1,669","399,182",0.00
+Ste. Genevieve County,MO,"Ste. Genevieve County, MO","1,720","9,395",0.18
+St. Francois County,MO,"St. Francois County, MO","11,341","17,888",0.63
+St. Louis County,MO,"St. Louis County, MO","102,720","66,692",1.54
+Saline County,MO,"Saline County, MO","3,188","996,945",0.00
+Schuyler County,MO,"Schuyler County, MO",764,"22,895",0.03
+Scotland County,MO,"Scotland County, MO",685,"4,599",0.15
+Scott County,MO,"Scott County, MO","7,210","4,966",1.45
+Shannon County,MO,"Shannon County, MO","1,829","38,458",0.05
+Shelby County,MO,"Shelby County, MO",834,"8,189",0.10
+Stoddard County,MO,"Stoddard County, MO","4,238","6,050",0.70
+Stone County,MO,"Stone County, MO","4,204","29,206",0.14
+Sullivan County,MO,"Sullivan County, MO",935,"31,749",0.03
+Taney County,MO,"Taney County, MO","8,367","6,221",1.34
+Texas County,MO,"Texas County, MO","5,806","55,852",0.10
+Vernon County,MO,"Vernon County, MO","3,387","25,571",0.13
+Warren County,MO,"Warren County, MO","3,606","20,528",0.18
+Washington County,MO,"Washington County, MO","5,145","34,711",0.15
+Wayne County,MO,"Wayne County, MO","3,018","24,943",0.12
+Webster County,MO,"Webster County, MO","5,384","13,122",0.41
+Worth County,MO,"Worth County, MO",279,"39,109",0.01
+Wright County,MO,"Wright County, MO","4,330","2,040",2.12
+St. Louis city,MO,"St. Louis city, MO","66,858","18,378",3.64
+Montana,MT,"Montana, MT","134,185","302,838",0.44
+Beaverhead County,MT,"Beaverhead County, MT","1,236","1,062,305",0.00
+Big Horn County,MT,"Big Horn County, MT","3,375","9,404",0.36
+Blaine County,MT,"Blaine County, MT","1,393","13,338",0.10
+Broadwater County,MT,"Broadwater County, MT",617,"6,807",0.09
+Carbon County,MT,"Carbon County, MT","1,247","6,085",0.20
+Carter County,MT,"Carter County, MT",167,"10,714",0.02
+Cascade County,MT,"Cascade County, MT","10,607","1,238",8.57
+Chouteau County,MT,"Chouteau County, MT","1,060","81,643",0.01
+Custer County,MT,"Custer County, MT","1,398","5,745",0.24
+Daniels County,MT,"Daniels County, MT",171,"11,586",0.01
+Dawson County,MT,"Dawson County, MT",934,"1,747",0.53
+Deer Lodge County,MT,"Deer Lodge County, MT","1,346","8,680",0.16
+Fallon County,MT,"Fallon County, MT",266,"9,131",0.03
+Fergus County,MT,"Fergus County, MT","1,313","2,920",0.45
+Flathead County,MT,"Flathead County, MT","11,288","11,113",1.02
+Gallatin County,MT,"Gallatin County, MT","9,721","102,106",0.10
+Garfield County,MT,"Garfield County, MT",207,"111,876",0.00
+Glacier County,MT,"Glacier County, MT","3,629","1,268",2.86
+Golden Valley County,MT,"Golden Valley County, MT",150,"13,747",0.01
+Granite County,MT,"Granite County, MT",449,826,0.54
+Hill County,MT,"Hill County, MT","2,151","3,378",0.64
+Jefferson County,MT,"Jefferson County, MT",922,"16,347",0.06
+Judith Basin County,MT,"Judith Basin County, MT",260,"12,097",0.02
+Lake County,MT,"Lake County, MT","5,442","1,952",2.79
+Lewis and Clark County,MT,"Lewis and Clark County, MT","7,061","30,250",0.23
+Liberty County,MT,"Liberty County, MT",443,"68,700",0.01
+Lincoln County,MT,"Lincoln County, MT","3,964","2,430",1.63
+McCone County,MT,"McCone County, MT",235,"19,794",0.01
+Madison County,MT,"Madison County, MT",801,"1,675",0.48
+Meagher County,MT,"Meagher County, MT",285,"8,768",0.03
+Mineral County,MT,"Mineral County, MT",601,"1,866",0.32
+Missoula County,MT,"Missoula County, MT","14,719","4,316",3.41
+Musselshell County,MT,"Musselshell County, MT",691,"118,791",0.01
+Park County,MT,"Park County, MT","1,744","4,651",0.37
+Petroleum County,MT,"Petroleum County, MT",83,"16,736",0.00
+Phillips County,MT,"Phillips County, MT",608,513,1.19
+Pondera County,MT,"Pondera County, MT","1,028","4,074",0.25
+Powder River County,MT,"Powder River County, MT",205,"5,972",0.03
+Powell County,MT,"Powell County, MT",950,"1,716",0.55
+Prairie County,MT,"Prairie County, MT",144,"6,968",0.02
+Ravalli County,MT,"Ravalli County, MT","6,628","1,087",6.10
+Richland County,MT,"Richland County, MT",950,"43,172",0.02
+Roosevelt County,MT,"Roosevelt County, MT","2,763","10,913",0.25
+Rosebud County,MT,"Rosebud County, MT","1,523","11,059",0.14
+Sanders County,MT,"Sanders County, MT","1,871","9,063",0.21
+Sheridan County,MT,"Sheridan County, MT",366,"11,844",0.03
+Silver Bow County,MT,"Silver Bow County, MT","5,697","3,424",1.66
+Stillwater County,MT,"Stillwater County, MT",766,"34,993",0.02
+Sweet Grass County,MT,"Sweet Grass County, MT",364,"9,534",0.04
+Teton County,MT,"Teton County, MT",941,"3,710",0.25
+Toole County,MT,"Toole County, MT",640,"6,162",0.10
+Treasure County,MT,"Treasure County, MT",77,"4,853",0.02
+Valley County,MT,"Valley County, MT","1,007",679,1.48
+Wheatland County,MT,"Wheatland County, MT",411,"7,437",0.06
+Wibaux County,MT,"Wibaux County, MT",121,"2,236",0.05
+Yellowstone County,MT,"Yellowstone County, MT","17,150","1,034",16.59
+Nebraska,NE,"Nebraska, NE","205,393","160,137",1.28
+Adams County,NE,"Adams County, NE","3,558","1,929,268",0.00
+Antelope County,NE,"Antelope County, NE",788,"31,511",0.03
+Arthur County,NE,"Arthur County, NE",60,"6,336",0.01
+Banner County,NE,"Banner County, NE",91,465,0.20
+Blaine County,NE,"Blaine County, NE",77,730,0.11
+Boone County,NE,"Boone County, NE",470,476,0.99
+Box Butte County,NE,"Box Butte County, NE","1,454","5,239",0.28
+Boyd County,NE,"Boyd County, NE",264,"10,772",0.02
+Brown County,NE,"Brown County, NE",369,"1,955",0.19
+Buffalo County,NE,"Buffalo County, NE","5,068","2,973",1.70
+Burt County,NE,"Burt County, NE",688,"49,615",0.01
+Butler County,NE,"Butler County, NE",717,"6,488",0.11
+Cass County,NE,"Cass County, NE","1,898","8,058",0.24
+Cedar County,NE,"Cedar County, NE",720,"26,159",0.03
+Chase County,NE,"Chase County, NE",370,"8,446",0.04
+Cherry County,NE,"Cherry County, NE",693,"3,977",0.17
+Cheyenne County,NE,"Cheyenne County, NE","1,035","5,761",0.18
+Clay County,NE,"Clay County, NE",671,"9,310",0.07
+Colfax County,NE,"Colfax County, NE","1,120","6,214",0.18
+Cuming County,NE,"Cuming County, NE",778,"10,881",0.07
+Custer County,NE,"Custer County, NE","1,274","8,940",0.14
+Dakota County,NE,"Dakota County, NE","2,455","10,840",0.23
+Dawes County,NE,"Dawes County, NE","1,360","20,083",0.07
+Dawson County,NE,"Dawson County, NE","2,824","8,716",0.32
+Deuel County,NE,"Deuel County, NE",214,"23,709",0.01
+Dixon County,NE,"Dixon County, NE",544,"1,825",0.30
+Dodge County,NE,"Dodge County, NE","3,484","5,709",0.61
+Douglas County,NE,"Douglas County, NE","64,276","36,791",1.75
+Dundy County,NE,"Dundy County, NE",245,"566,880",0.00
+Fillmore County,NE,"Fillmore County, NE",474,"1,770",0.27
+Franklin County,NE,"Franklin County, NE",398,"5,527",0.07
+Frontier County,NE,"Frontier County, NE",351,"3,023",0.12
+Furnas County,NE,"Furnas County, NE",579,"2,608",0.22
+Gage County,NE,"Gage County, NE","2,364","4,715",0.50
+Garden County,NE,"Garden County, NE",283,"21,493",0.01
+Garfield County,NE,"Garfield County, NE",253,"1,897",0.13
+Gosper County,NE,"Gosper County, NE",178,"1,987",0.09
+Grant County,NE,"Grant County, NE",70,"1,996",0.04
+Greeley County,NE,"Greeley County, NE",294,660,0.45
+Hall County,NE,"Hall County, NE","7,839","2,356",3.33
+Hamilton County,NE,"Hamilton County, NE",593,"61,607",0.01
+Harlan County,NE,"Harlan County, NE",371,"9,280",0.04
+Hayes County,NE,"Hayes County, NE",148,"3,401",0.04
+Hitchcock County,NE,"Hitchcock County, NE",424,916,0.46
+Holt County,NE,"Holt County, NE","1,210","2,806",0.43
+Hooker County,NE,"Hooker County, NE",55,"10,178",0.01
+Howard County,NE,"Howard County, NE",650,682,0.95
+Jefferson County,NE,"Jefferson County, NE",821,"6,468",0.13
+Johnson County,NE,"Johnson County, NE",563,"7,097",0.08
+Kearney County,NE,"Kearney County, NE",591,"5,134",0.12
+Keith County,NE,"Keith County, NE",949,"6,544",0.15
+Keya Paha County,NE,"Keya Paha County, NE",148,"8,021",0.02
+Kimball County,NE,"Kimball County, NE",443,810,0.55
+Knox County,NE,"Knox County, NE","1,098","3,618",0.30
+Lancaster County,NE,"Lancaster County, NE","37,583","8,419",4.46
+Lincoln County,NE,"Lincoln County, NE","3,472","317,272",0.01
+Logan County,NE,"Logan County, NE",69,"35,185",0.00
+Loup County,NE,"Loup County, NE",105,749,0.14
+McPherson County,NE,"McPherson County, NE",57,618,0.09
+Madison County,NE,"Madison County, NE","3,992",492,8.11
+Merrick County,NE,"Merrick County, NE",811,"35,392",0.02
+Morrill County,NE,"Morrill County, NE",669,"7,733",0.09
+Nance County,NE,"Nance County, NE",401,"4,686",0.09
+Nemaha County,NE,"Nemaha County, NE",824,"3,532",0.23
+Nuckolls County,NE,"Nuckolls County, NE",455,"6,958",0.07
+Otoe County,NE,"Otoe County, NE","1,464","4,195",0.35
+Pawnee County,NE,"Pawnee County, NE",357,"15,985",0.02
+Perkins County,NE,"Perkins County, NE",297,"2,632",0.11
+Phelps County,NE,"Phelps County, NE",828,"2,929",0.28
+Pierce County,NE,"Pierce County, NE",690,"8,996",0.08
+Platte County,NE,"Platte County, NE","2,789","7,142",0.39
+Polk County,NE,"Polk County, NE",441,"33,363",0.01
+Red Willow County,NE,"Red Willow County, NE","1,135","5,278",0.22
+Richardson County,NE,"Richardson County, NE","1,004","10,726",0.09
+Rock County,NE,"Rock County, NE",194,"7,937",0.02
+Saline County,NE,"Saline County, NE","1,649","1,360",1.21
+Sarpy County,NE,"Sarpy County, NE","10,399","14,350",0.72
+Saunders County,NE,"Saunders County, NE","1,637","184,459",0.01
+Scotts Bluff County,NE,"Scotts Bluff County, NE","5,021","21,303",0.24
+Seward County,NE,"Seward County, NE","1,155","35,989",0.03
+Sheridan County,NE,"Sheridan County, NE",834,"17,318",0.05
+Sherman County,NE,"Sherman County, NE",417,"5,190",0.08
+Sioux County,NE,"Sioux County, NE",198,"3,038",0.07
+Stanton County,NE,"Stanton County, NE",446,"1,187",0.38
+Thayer County,NE,"Thayer County, NE",528,"5,970",0.09
+Thomas County,NE,"Thomas County, NE",107,"5,039",0.02
+Thurston County,NE,"Thurston County, NE","1,725",720,2.40
+Valley County,NE,"Valley County, NE",511,"7,303",0.07
+Washington County,NE,"Washington County, NE","1,423","4,190",0.34
+Wayne County,NE,"Wayne County, NE","1,177","20,667",0.06
+Webster County,NE,"Webster County, NE",450,"9,403",0.05
+Wheeler County,NE,"Wheeler County, NE",112,"3,533",0.03
+York County,NE,"York County, NE","1,255",805,1.56
+Nevada,NV,"Nevada, NV","391,347","13,772",28.42
+Churchill County,NV,"Churchill County, NV","2,756","3,034,392",0.00
+Clark County,NV,"Clark County, NV","307,977","24,440",12.60
+Douglas County,NV,"Douglas County, NV","3,457","2,231,647",0.00
+Elko County,NV,"Elko County, NV","4,276","48,467",0.09
+Esmeralda County,NV,"Esmeralda County, NV",119,"52,460",0.00
+Eureka County,NV,"Eureka County, NV",189,826,0.23
+Humboldt County,NV,"Humboldt County, NV","1,977","2,003",0.99
+Lander County,NV,"Lander County, NV",616,"16,786",0.04
+Lincoln County,NV,"Lincoln County, NV",655,"5,575",0.12
+Lyon County,NV,"Lyon County, NV","5,803","5,201",1.12
+Mineral County,NV,"Mineral County, NV",941,"55,808",0.02
+Nye County,NV,"Nye County, NV","6,725","4,514",1.49
+Pershing County,NV,"Pershing County, NV",889,"45,346",0.02
+Storey County,NV,"Storey County, NV",306,"6,666",0.05
+Washoe County,NV,"Washoe County, NV","47,627","4,029",11.82
+White Pine County,NV,"White Pine County, NV","1,082","465,735",0.00
+Carson City,NV,"Carson City, NV","5,952","9,475",0.63
+New Hampshire,NH,"New Hampshire, NH","100,076","55,414",1.81
+Belknap County,NH,"Belknap County, NH","4,149","1,356,458",0.00
+Carroll County,NH,"Carroll County, NH","4,358","61,022",0.07
+Cheshire County,NH,"Cheshire County, NH","7,307","48,779",0.15
+Coos County,NH,"Coos County, NH","3,828","76,493",0.05
+Grafton County,NH,"Grafton County, NH","7,427","31,589",0.24
+Hillsborough County,NH,"Hillsborough County, NH","30,147","89,786",0.34
+Merrimack County,NH,"Merrimack County, NH","10,149","415,247",0.02
+Rockingham County,NH,"Rockingham County, NH","16,270","151,132",0.11
+Strafford County,NH,"Strafford County, NH","11,673","309,176",0.04
+Sullivan County,NH,"Sullivan County, NH","4,768","130,090",0.04
+New Jersey,NJ,"New Jersey, NJ","831,386","43,144",19.27
+Atlantic County,NJ,"Atlantic County, NJ","33,167","8,908,520",0.00
+Bergen County,NJ,"Bergen County, NJ","63,403","265,429",0.24
+Burlington County,NJ,"Burlington County, NJ","26,786","936,692",0.03
+Camden County,NJ,"Camden County, NJ","64,417","445,384",0.14
+Cape May County,NJ,"Cape May County, NJ","9,325","507,078",0.02
+Cumberland County,NJ,"Cumberland County, NJ","21,430","92,560",0.23
+Essex County,NJ,"Essex County, NJ","116,246","150,972",0.77
+Gloucester County,NJ,"Gloucester County, NJ","21,869","799,767",0.03
+Hudson County,NJ,"Hudson County, NJ","95,704","291,408",0.33
+Hunterdon County,NJ,"Hunterdon County, NJ","5,317","676,061",0.01
+Mercer County,NJ,"Mercer County, NJ","38,279","124,714",0.31
+Middlesex County,NJ,"Middlesex County, NJ","65,823","369,811",0.18
+Monmouth County,NJ,"Monmouth County, NJ","41,380","829,685",0.05
+Morris County,NJ,"Morris County, NJ","22,980","621,354",0.04
+Ocean County,NJ,"Ocean County, NJ","57,366","494,228",0.12
+Passaic County,NJ,"Passaic County, NJ","67,374","601,651",0.11
+Salem County,NJ,"Salem County, NJ","6,891","503,310",0.01
+Somerset County,NJ,"Somerset County, NJ","16,112","62,607",0.26
+Sussex County,NJ,"Sussex County, NJ","7,233","331,164",0.02
+Union County,NJ,"Union County, NJ","43,279","140,799",0.31
+Warren County,NJ,"Warren County, NJ","7,006","558,067",0.01
+New Mexico,NM,"New Mexico, NM","386,739","105,779",3.66
+Bernalillo County,NM,"Bernalillo County, NM","109,959","2,095,428",0.05
+Catron County,NM,"Catron County, NM",827,"678,701",0.00
+Chaves County,NM,"Chaves County, NM","11,872","3,578",3.32
+Cibola County,NM,"Cibola County, NM","6,910","64,689",0.11
+Colfax County,NM,"Colfax County, NM","2,315","26,746",0.09
+Curry County,NM,"Curry County, NM","8,239","12,110",0.68
+DeBaca County,NM,"DeBaca County, NM",361,"49,437",0.01
+Dona Ana County,NM,"Dona Ana County, NM","52,914","1,781",29.71
+Eddy County,NM,"Eddy County, NM","8,981","217,522",0.04
+Grant County,NM,"Grant County, NM","5,535","57,900",0.10
+Guadalupe County,NM,"Guadalupe County, NM",915,"27,346",0.03
+Harding County,NM,"Harding County, NM",109,"4,341",0.03
+Hidalgo County,NM,"Hidalgo County, NM","1,070",655,1.63
+Lea County,NM,"Lea County, NM","10,813","4,240",2.55
+Lincoln County,NM,"Lincoln County, NM","3,166","69,611",0.05
+Los Alamos County,NM,"Los Alamos County, NM",733,"19,556",0.04
+Luna County,NM,"Luna County, NM","6,364","19,101",0.33
+McKinley County,NM,"McKinley County, NM","23,092","23,963",0.96
+Mora County,NM,"Mora County, NM","1,053","72,290",0.01
+Otero County,NM,"Otero County, NM","13,074","4,506",2.90
+Quay County,NM,"Quay County, NM","1,975","66,781",0.03
+Rio Arriba County,NM,"Rio Arriba County, NM","8,498","8,253",1.03
+Roosevelt County,NM,"Roosevelt County, NM","3,979","39,006",0.10
+Sandoval County,NM,"Sandoval County, NM","18,215","18,743",0.97
+San Juan County,NM,"San Juan County, NM","28,486","145,179",0.20
+San Miguel County,NM,"San Miguel County, NM","7,479","125,043",0.06
+Santa Fe County,NM,"Santa Fe County, NM","17,972","27,591",0.65
+Sierra County,NM,"Sierra County, NM","2,739","150,056",0.02
+Socorro County,NM,"Socorro County, NM","4,767","10,968",0.43
+Taos County,NM,"Taos County, NM","6,955","16,735",0.42
+Torrance County,NM,"Torrance County, NM","3,763","32,835",0.11
+Union County,NM,"Union County, NM",701,"15,591",0.04
+Valencia County,NM,"Valencia County, NM","12,908","4,118",3.13
+New York,NY,"New York, NY","2,603,303","76,456",34.05
+Albany County,NY,"Albany County, NY","32,888","19,542,209",0.00
+Allegany County,NY,"Allegany County, NY","7,161","307,117",0.02
+Bronx County,NY,"Bronx County, NY","380,470","46,430",8.19
+Broome County,NY,"Broome County, NY","31,406","1,432,132",0.02
+Cattaraugus County,NY,"Cattaraugus County, NY","12,711","191,659",0.07
+Cayuga County,NY,"Cayuga County, NY","9,509","76,840",0.12
+Chautauqua County,NY,"Chautauqua County, NY","22,426","77,145",0.29
+Chemung County,NY,"Chemung County, NY","10,856","127,939",0.08
+Chenango County,NY,"Chenango County, NY","7,023","84,254",0.08
+Clinton County,NY,"Clinton County, NY","9,779","47,536",0.21
+Columbia County,NY,"Columbia County, NY","6,828","80,695",0.08
+Cortland County,NY,"Cortland County, NY","7,426","59,916",0.12
+Delaware County,NY,"Delaware County, NY","6,746","47,823",0.14
+Dutchess County,NY,"Dutchess County, NY","25,387","44,527",0.57
+Erie County,NY,"Erie County, NY","122,204","293,718",0.42
+Essex County,NY,"Essex County, NY","4,150","919,719",0.00
+Franklin County,NY,"Franklin County, NY","7,404","37,300",0.20
+Fulton County,NY,"Fulton County, NY","6,830","50,293",0.14
+Genesee County,NY,"Genesee County, NY","5,494","53,591",0.10
+Greene County,NY,"Greene County, NY","5,789","57,511",0.10
+Hamilton County,NY,"Hamilton County, NY",404,"47,491",0.01
+Herkimer County,NY,"Herkimer County, NY","8,176","4,434",1.84
+Jefferson County,NY,"Jefferson County, NY","12,996","61,833",0.21
+Kings County,NY,"Kings County, NY","483,632","111,755",4.33
+Lewis County,NY,"Lewis County, NY","3,177","2,582,830",0.00
+Livingston County,NY,"Livingston County, NY","7,173","26,447",0.27
+Madison County,NY,"Madison County, NY","7,121","63,227",0.11
+Monroe County,NY,"Monroe County, NY","103,620","70,795",1.46
+Montgomery County,NY,"Montgomery County, NY","7,694","742,474",0.01
+Nassau County,NY,"Nassau County, NY","77,883","49,455",1.57
+New York County,NY,"New York County, NY","245,347","1,358,343",0.18
+Niagara County,NY,"Niagara County, NY","26,833","1,628,701",0.02
+Oneida County,NY,"Oneida County, NY","32,150","210,433",0.15
+Onondaga County,NY,"Onondaga County, NY","61,143","229,577",0.27
+Ontario County,NY,"Ontario County, NY","9,077","461,809",0.02
+Orange County,NY,"Orange County, NY","42,664","109,864",0.39
+Orleans County,NY,"Orleans County, NY","4,819","381,951",0.01
+Oswego County,NY,"Oswego County, NY","18,209","40,612",0.45
+Otsego County,NY,"Otsego County, NY","6,881","117,898",0.06
+Putnam County,NY,"Putnam County, NY","5,863","59,749",0.10
+Queens County,NY,"Queens County, NY","261,819","98,892",2.65
+Rensselaer County,NY,"Rensselaer County, NY","17,059","2,278,906",0.01
+Richmond County,NY,"Richmond County, NY","55,217","159,442",0.35
+Rockland County,NY,"Rockland County, NY","44,728","476,179",0.09
+St. Lawrence County,NY,"St. Lawrence County, NY","14,677","325,695",0.05
+Saratoga County,NY,"Saratoga County, NY","14,319","108,047",0.13
+Schenectady County,NY,"Schenectady County, NY","17,062","230,163",0.07
+Schoharie County,NY,"Schoharie County, NY","3,532","155,350",0.02
+Schuyler County,NY,"Schuyler County, NY","2,392","31,097",0.08
+Seneca County,NY,"Seneca County, NY","4,000","17,912",0.22
+Steuben County,NY,"Steuben County, NY","12,069","34,300",0.35
+Suffolk County,NY,"Suffolk County, NY","105,578","95,796",1.10
+Sullivan County,NY,"Sullivan County, NY","11,834","1,481,093",0.01
+Tioga County,NY,"Tioga County, NY","4,912","75,498",0.07
+Tompkins County,NY,"Tompkins County, NY","15,146","48,560",0.31
+Ulster County,NY,"Ulster County, NY","24,389","102,793",0.24
+Warren County,NY,"Warren County, NY","6,859","178,599",0.04
+Washington County,NY,"Washington County, NY","6,637","64,265",0.10
+Wayne County,NY,"Wayne County, NY","8,511","61,197",0.14
+Westchester County,NY,"Westchester County, NY","78,572","90,064",0.87
+Wyoming County,NY,"Wyoming County, NY","3,627","967,612",0.00
+Yates County,NY,"Yates County, NY","3,014","40,085",0.08
+North Carolina,NC,"North Carolina, NC","1,422,154","24,841",57.25
+Alamance County,NC,"Alamance County, NC","21,661","10,383,620",0.00
+Alexander County,NC,"Alexander County, NC","4,653","166,436",0.03
+Alleghany County,NC,"Alleghany County, NC","2,060","37,353",0.06
+Anson County,NC,"Anson County, NC","4,680","11,161",0.42
+Ashe County,NC,"Ashe County, NC","4,542","24,877",0.18
+Avery County,NC,"Avery County, NC","2,542","27,109",0.09
+Beaufort County,NC,"Beaufort County, NC","8,429","17,505",0.48
+Bertie County,NC,"Bertie County, NC","4,172","47,079",0.09
+Bladen County,NC,"Bladen County, NC","9,542","19,026",0.50
+Brunswick County,NC,"Brunswick County, NC","14,203","33,190",0.43
+Buncombe County,NC,"Buncombe County, NC","28,859","136,744",0.21
+Burke County,NC,"Burke County, NC","12,278","259,103",0.05
+Cabarrus County,NC,"Cabarrus County, NC","18,839","90,382",0.21
+Caldwell County,NC,"Caldwell County, NC","12,830","211,342",0.06
+Camden County,NC,"Camden County, NC",884,"82,029",0.01
+Carteret County,NC,"Carteret County, NC","6,717","10,710",0.63
+Caswell County,NC,"Caswell County, NC","3,642","69,524",0.05
+Catawba County,NC,"Catawba County, NC","20,321","22,698",0.90
+Chatham County,NC,"Chatham County, NC","6,709","158,652",0.04
+Cherokee County,NC,"Cherokee County, NC","5,253","73,139",0.07
+Chowan County,NC,"Chowan County, NC","2,370","28,383",0.08
+Clay County,NC,"Clay County, NC","1,602","14,029",0.11
+Cleveland County,NC,"Cleveland County, NC","18,301","11,139",1.64
+Columbus County,NC,"Columbus County, NC","13,279","97,645",0.14
+Craven County,NC,"Craven County, NC","14,513","55,655",0.26
+Cumberland County,NC,"Cumberland County, NC","53,788","102,912",0.52
+Currituck County,NC,"Currituck County, NC","2,602","332,330",0.01
+Dare County,NC,"Dare County, NC","2,992","27,072",0.11
+Davidson County,NC,"Davidson County, NC","24,694","36,501",0.68
+Davie County,NC,"Davie County, NC","4,555","166,614",0.03
+Duplin County,NC,"Duplin County, NC","11,877","42,733",0.28
+Durham County,NC,"Durham County, NC","41,063","58,856",0.70
+Edgecombe County,NC,"Edgecombe County, NC","11,705","316,739",0.04
+Forsyth County,NC,"Forsyth County, NC","60,361","52,005",1.16
+Franklin County,NC,"Franklin County, NC","8,394","379,099",0.02
+Gaston County,NC,"Gaston County, NC","31,172","67,560",0.46
+Gates County,NC,"Gates County, NC","1,747","222,846",0.01
+Graham County,NC,"Graham County, NC","1,575","11,573",0.14
+Granville County,NC,"Granville County, NC","7,331","8,484",0.86
+Greene County,NC,"Greene County, NC","4,319","60,115",0.07
+Guilford County,NC,"Guilford County, NC","79,267","21,012",3.77
+Halifax County,NC,"Halifax County, NC","10,800","533,670",0.02
+Harnett County,NC,"Harnett County, NC","18,802","50,574",0.37
+Haywood County,NC,"Haywood County, NC","8,071","134,214",0.06
+Henderson County,NC,"Henderson County, NC","11,212","61,971",0.18
+Hertford County,NC,"Hertford County, NC","4,909","116,748",0.04
+Hoke County,NC,"Hoke County, NC","9,621","23,659",0.41
+Hyde County,NC,"Hyde County, NC","1,014","54,764",0.02
+Iredell County,NC,"Iredell County, NC","16,746","5,230",3.20
+Jackson County,NC,"Jackson County, NC","6,570","178,435",0.04
+Johnston County,NC,"Johnston County, NC","23,374","43,327",0.54
+Jones County,NC,"Jones County, NC","1,542","202,675",0.01
+Lee County,NC,"Lee County, NC","9,459","9,637",0.98
+Lenoir County,NC,"Lenoir County, NC","12,193","61,452",0.20
+Lincoln County,NC,"Lincoln County, NC","8,555","55,976",0.15
+McDowell County,NC,"McDowell County, NC","6,802","83,770",0.08
+Macon County,NC,"Macon County, NC","5,700","45,507",0.13
+Madison County,NC,"Madison County, NC","3,502","35,285",0.10
+Martin County,NC,"Martin County, NC","4,571","21,763",0.21
+Mecklenburg County,NC,"Mecklenburg County, NC","126,098","22,671",5.56
+Mitchell County,NC,"Mitchell County, NC","2,383","1,093,901",0.00
+Montgomery County,NC,"Montgomery County, NC","4,379","15,000",0.29
+Moore County,NC,"Moore County, NC","10,263","27,271",0.38
+Nash County,NC,"Nash County, NC","13,024","98,682",0.13
+New Hanover County,NC,"New Hanover County, NC","34,250","94,016",0.36
+Northampton County,NC,"Northampton County, NC","4,043","232,274",0.02
+Onslow County,NC,"Onslow County, NC","26,562","19,676",1.35
+Orange County,NC,"Orange County, NC","17,045","197,683",0.09
+Pamlico County,NC,"Pamlico County, NC","1,983","146,027",0.01
+Pasquotank County,NC,"Pasquotank County, NC","6,854","12,670",0.54
+Pender County,NC,"Pender County, NC","9,207","39,639",0.23
+Perquimans County,NC,"Perquimans County, NC","2,108","62,162",0.03
+Person County,NC,"Person County, NC","5,773","13,422",0.43
+Pitt County,NC,"Pitt County, NC","40,201","39,507",1.02
+Polk County,NC,"Polk County, NC","2,389","179,914",0.01
+Randolph County,NC,"Randolph County, NC","19,631","20,611",0.95
+Richmond County,NC,"Richmond County, NC","8,698","143,351",0.06
+Robeson County,NC,"Robeson County, NC","31,143","44,887",0.69
+Rockingham County,NC,"Rockingham County, NC","16,003","131,831",0.12
+Rowan County,NC,"Rowan County, NC","22,298","90,690",0.25
+Rutherford County,NC,"Rutherford County, NC","12,538","141,262",0.09
+Sampson County,NC,"Sampson County, NC","14,243","66,826",0.21
+Scotland County,NC,"Scotland County, NC","8,637","63,626",0.14
+Stanly County,NC,"Stanly County, NC","7,924","34,810",0.23
+Stokes County,NC,"Stokes County, NC","5,455","62,075",0.09
+Surry County,NC,"Surry County, NC","11,351","45,467",0.25
+Swain County,NC,"Swain County, NC","2,124","71,948",0.03
+Transylvania County,NC,"Transylvania County, NC","4,277","14,245",0.30
+Tyrrell County,NC,"Tyrrell County, NC",880,"34,215",0.03
+Union County,NC,"Union County, NC","16,361","4,131",3.96
+Vance County,NC,"Vance County, NC","11,585","235,908",0.05
+Wake County,NC,"Wake County, NC","89,819","44,582",2.01
+Warren County,NC,"Warren County, NC","3,750","1,092,305",0.00
+Washington County,NC,"Washington County, NC","2,470","19,807",0.12
+Watauga County,NC,"Watauga County, NC","10,608","11,859",0.89
+Wayne County,NC,"Wayne County, NC","24,470","55,945",0.44
+Wilkes County,NC,"Wilkes County, NC","12,712","123,248",0.10
+Wilson County,NC,"Wilson County, NC","16,868","68,557",0.25
+Yadkin County,NC,"Yadkin County, NC","4,829","81,455",0.06
+Yancey County,NC,"Yancey County, NC","3,153","37,543",0.08
+North Dakota,ND,"North Dakota, ND","77,959","17,903",4.35
+Adams County,ND,"Adams County, ND",234,"760,077",0.00
+Barnes County,ND,"Barnes County, ND","1,231","2,294",0.54
+Benson County,ND,"Benson County, ND","2,129","10,542",0.20
+Billings County,ND,"Billings County, ND",82,"6,962",0.01
+Bottineau County,ND,"Bottineau County, ND",715,919,0.78
+Bowman County,ND,"Bowman County, ND",264,"6,411",0.04
+Burke County,ND,"Burke County, ND",195,"3,076",0.06
+Burleigh County,ND,"Burleigh County, ND","6,798","2,100",3.24
+Cass County,ND,"Cass County, ND","18,270","95,273",0.19
+Cavalier County,ND,"Cavalier County, ND",398,"181,516",0.00
+Dickey County,ND,"Dickey County, ND",520,"3,829",0.14
+Divide County,ND,"Divide County, ND",222,"4,903",0.05
+Dunn County,ND,"Dunn County, ND",443,"2,283",0.19
+Eddy County,ND,"Eddy County, ND",237,"4,332",0.05
+Emmons County,ND,"Emmons County, ND",431,"2,313",0.19
+Foster County,ND,"Foster County, ND",274,"3,295",0.08
+Golden Valley County,ND,"Golden Valley County, ND",192,"3,216",0.06
+Grand Forks County,ND,"Grand Forks County, ND","8,681","1,769",4.91
+Grant County,ND,"Grant County, ND",341,"70,770",0.00
+Griggs County,ND,"Griggs County, ND",202,"2,374",0.09
+Hettinger County,ND,"Hettinger County, ND",291,"2,232",0.13
+Kidder County,ND,"Kidder County, ND",355,"2,514",0.14
+LaMoure County,ND,"LaMoure County, ND",456,"2,450",0.19
+Logan County,ND,"Logan County, ND",239,"4,062",0.06
+McHenry County,ND,"McHenry County, ND",685,"1,903",0.36
+McIntosh County,ND,"McIntosh County, ND",339,"5,816",0.06
+McKenzie County,ND,"McKenzie County, ND","1,240","2,585",0.48
+McLean County,ND,"McLean County, ND",867,"13,632",0.06
+Mercer County,ND,"Mercer County, ND",585,"9,541",0.06
+Morton County,ND,"Morton County, ND","2,468","8,267",0.30
+Mountrail County,ND,"Mountrail County, ND","1,055","31,095",0.03
+Nelson County,ND,"Nelson County, ND",301,"10,218",0.03
+Oliver County,ND,"Oliver County, ND",198,"2,869",0.07
+Pembina County,ND,"Pembina County, ND",697,"1,952",0.36
+Pierce County,ND,"Pierce County, ND",447,"6,947",0.06
+Ramsey County,ND,"Ramsey County, ND","1,361","4,081",0.33
+Ransom County,ND,"Ransom County, ND",440,"11,481",0.04
+Renville County,ND,"Renville County, ND",191,"5,237",0.04
+Richland County,ND,"Richland County, ND","1,781","2,374",0.75
+Rolette County,ND,"Rolette County, ND","3,504","16,239",0.22
+Sargent County,ND,"Sargent County, ND",296,"14,301",0.02
+Sheridan County,ND,"Sheridan County, ND",223,"3,870",0.06
+Sioux County,ND,"Sioux County, ND","1,408","1,349",1.04
+Slope County,ND,"Slope County, ND",97,"4,358",0.02
+Stark County,ND,"Stark County, ND","2,486",763,3.26
+Steele County,ND,"Steele County, ND",148,"30,997",0.00
+Stutsman County,ND,"Stutsman County, ND","2,203","1,903",1.16
+Towner County,ND,"Towner County, ND",200,"20,917",0.01
+Traill County,ND,"Traill County, ND",630,"2,192",0.29
+Walsh County,ND,"Walsh County, ND","1,147","8,037",0.14
+Ward County,ND,"Ward County, ND","7,057","10,667",0.66
+Wells County,ND,"Wells County, ND",442,"67,744",0.01
+Williams County,ND,"Williams County, ND","2,265","3,957",0.57
+Ohio,OH,"Ohio, OH","1,568,586","35,350",44.37
+Adams County,OH,"Adams County, OH","5,382","11,689,442",0.00
+Allen County,OH,"Allen County, OH","13,901","27,724",0.50
+Ashland County,OH,"Ashland County, OH","5,308","102,663",0.05
+Ashtabula County,OH,"Ashtabula County, OH","16,353","53,745",0.30
+Athens County,OH,"Athens County, OH","17,237","97,493",0.18
+Auglaize County,OH,"Auglaize County, OH","3,132","65,818",0.05
+Belmont County,OH,"Belmont County, OH","8,272","45,804",0.18
+Brown County,OH,"Brown County, OH","5,064","67,505",0.08
+Butler County,OH,"Butler County, OH","45,821","43,602",1.05
+Carroll County,OH,"Carroll County, OH","3,431","382,378",0.01
+Champaign County,OH,"Champaign County, OH","3,809","27,081",0.14
+Clark County,OH,"Clark County, OH","19,467","38,754",0.50
+Clermont County,OH,"Clermont County, OH","16,745","134,585",0.12
+Clinton County,OH,"Clinton County, OH","4,802","205,466",0.02
+Columbiana County,OH,"Columbiana County, OH","14,938","42,057",0.36
+Coshocton County,OH,"Coshocton County, OH","5,559","102,665",0.05
+Crawford County,OH,"Crawford County, OH","5,688","36,629",0.16
+Cuyahoga County,OH,"Cuyahoga County, OH","217,166","41,550",5.23
+Darke County,OH,"Darke County, OH","4,800","1,243,857",0.00
+Defiance County,OH,"Defiance County, OH","3,372","51,323",0.07
+Delaware County,OH,"Delaware County, OH","8,271","38,165",0.22
+Erie County,OH,"Erie County, OH","7,769","204,826",0.04
+Fairfield County,OH,"Fairfield County, OH","14,172","74,615",0.19
+Fayette County,OH,"Fayette County, OH","4,227","155,782",0.03
+Franklin County,OH,"Franklin County, OH","198,207","28,666",6.91
+Fulton County,OH,"Fulton County, OH","3,303","1,310,300",0.00
+Gallia County,OH,"Gallia County, OH","6,407","42,276",0.15
+Geauga County,OH,"Geauga County, OH","5,341","29,979",0.18
+Greene County,OH,"Greene County, OH","18,567","94,031",0.20
+Guernsey County,OH,"Guernsey County, OH","7,232","167,995",0.04
+Hamilton County,OH,"Hamilton County, OH","122,843","39,022",3.15
+Hancock County,OH,"Hancock County, OH","7,370","816,684",0.01
+Hardin County,OH,"Hardin County, OH","4,327","75,930",0.06
+Harrison County,OH,"Harrison County, OH","2,285","31,480",0.07
+Henry County,OH,"Henry County, OH","2,865","15,174",0.19
+Highland County,OH,"Highland County, OH","6,550","27,086",0.24
+Hocking County,OH,"Hocking County, OH","3,944","43,058",0.09
+Holmes County,OH,"Holmes County, OH","4,054","28,385",0.14
+Huron County,OH,"Huron County, OH","6,376","43,892",0.15
+Jackson County,OH,"Jackson County, OH","5,350","58,504",0.09
+Jefferson County,OH,"Jefferson County, OH","12,052","32,384",0.37
+Knox County,OH,"Knox County, OH","8,039","65,767",0.12
+Lake County,OH,"Lake County, OH","16,970","61,893",0.27
+Lawrence County,OH,"Lawrence County, OH","11,093","230,514",0.05
+Licking County,OH,"Licking County, OH","15,591","59,866",0.26
+Logan County,OH,"Logan County, OH","5,095","175,769",0.03
+Lorain County,OH,"Lorain County, OH","42,562","45,358",0.94
+Lucas County,OH,"Lucas County, OH","78,398","309,461",0.25
+Madison County,OH,"Madison County, OH","4,215","429,899",0.01
+Mahoning County,OH,"Mahoning County, OH","36,520","44,413",0.82
+Marion County,OH,"Marion County, OH","9,772","229,642",0.04
+Medina County,OH,"Medina County, OH","11,474","65,256",0.18
+Meigs County,OH,"Meigs County, OH","4,064","179,146",0.02
+Mercer County,OH,"Mercer County, OH","3,066","23,106",0.13
+Miami County,OH,"Miami County, OH","8,329","40,959",0.20
+Monroe County,OH,"Monroe County, OH","1,917","106,222",0.02
+Montgomery County,OH,"Montgomery County, OH","87,187","13,790",6.32
+Morgan County,OH,"Morgan County, OH","2,443","532,331",0.00
+Morrow County,OH,"Morrow County, OH","4,106","14,604",0.28
+Muskingum County,OH,"Muskingum County, OH","13,996","35,112",0.40
+Noble County,OH,"Noble County, OH","2,109","86,183",0.02
+Ottawa County,OH,"Ottawa County, OH","3,807","14,354",0.27
+Paulding County,OH,"Paulding County, OH","1,922","40,769",0.05
+Perry County,OH,"Perry County, OH","5,846","18,760",0.31
+Pickaway County,OH,"Pickaway County, OH","6,413","36,033",0.18
+Pike County,OH,"Pike County, OH","5,648","58,086",0.10
+Portage County,OH,"Portage County, OH","17,564","28,067",0.63
+Preble County,OH,"Preble County, OH","3,936","162,927",0.02
+Putnam County,OH,"Putnam County, OH","1,835","40,997",0.04
+Richland County,OH,"Richland County, OH","16,416","33,780",0.49
+Ross County,OH,"Ross County, OH","13,099","121,099",0.11
+Sandusky County,OH,"Sandusky County, OH","5,769","76,931",0.07
+Scioto County,OH,"Scioto County, OH","16,288","58,799",0.28
+Seneca County,OH,"Seneca County, OH","6,372","75,502",0.08
+Shelby County,OH,"Shelby County, OH","4,293","55,207",0.08
+Stark County,OH,"Stark County, OH","52,330","48,627",1.08
+Summit County,OH,"Summit County, OH","63,889","371,574",0.17
+Trumbull County,OH,"Trumbull County, OH","34,413","541,918",0.06
+Tuscarawas County,OH,"Tuscarawas County, OH","11,107","198,627",0.06
+Union County,OH,"Union County, OH","2,724","92,176",0.03
+Van Wert County,OH,"Van Wert County, OH","2,344","57,835",0.04
+Vinton County,OH,"Vinton County, OH","2,474","28,281",0.09
+Warren County,OH,"Warren County, OH","11,709","13,139",0.89
+Washington County,OH,"Washington County, OH","9,251","232,173",0.04
+Wayne County,OH,"Wayne County, OH","10,496","60,155",0.17
+Williams County,OH,"Williams County, OH","3,482","115,967",0.03
+Wood County,OH,"Wood County, OH","14,733","36,804",0.40
+Wyandot County,OH,"Wyandot County, OH","1,723","130,696",0.01
+Oklahoma,OK,"Oklahoma, OK","593,936","21,935",27.08
+Adair County,OK,"Adair County, OK","5,372","3,943,079",0.00
+Alfalfa County,OK,"Alfalfa County, OK",714,"22,082",0.03
+Atoka County,OK,"Atoka County, OK","2,707","5,754",0.47
+Beaver County,OK,"Beaver County, OK",588,"13,838",0.04
+Beckham County,OK,"Beckham County, OK","3,202","5,319",0.60
+Blaine County,OK,"Blaine County, OK","1,493","21,709",0.07
+Bryan County,OK,"Bryan County, OK","7,604","9,485",0.80
+Caddo County,OK,"Caddo County, OK","5,239","47,192",0.11
+Canadian County,OK,"Canadian County, OK","10,336","28,977",0.36
+Carter County,OK,"Carter County, OK","8,335","144,447",0.06
+Cherokee County,OK,"Cherokee County, OK","9,862","48,177",0.20
+Choctaw County,OK,"Choctaw County, OK","3,312","48,675",0.07
+Cimarron County,OK,"Cimarron County, OK",352,"14,668",0.02
+Cleveland County,OK,"Cleveland County, OK","32,077","2,153",14.90
+Coal County,OK,"Coal County, OK","1,229","281,669",0.00
+Comanche County,OK,"Comanche County, OK","18,303","5,520",3.32
+Cotton County,OK,"Cotton County, OK",926,"120,422",0.01
+Craig County,OK,"Craig County, OK","2,631","5,776",0.46
+Creek County,OK,"Creek County, OK","9,874","14,306",0.69
+Custer County,OK,"Custer County, OK","5,001","71,604",0.07
+Delaware County,OK,"Delaware County, OK","8,756","29,036",0.30
+Dewey County,OK,"Dewey County, OK",580,"42,733",0.01
+Ellis County,OK,"Ellis County, OK",494,"4,894",0.10
+Garfield County,OK,"Garfield County, OK","9,001","3,952",2.28
+Garvin County,OK,"Garvin County, OK","4,139","60,913",0.07
+Grady County,OK,"Grady County, OK","5,507","27,811",0.20
+Grant County,OK,"Grant County, OK",538,"55,551",0.01
+Greer County,OK,"Greer County, OK","1,218","4,326",0.28
+Harmon County,OK,"Harmon County, OK",612,"5,821",0.11
+Harper County,OK,"Harper County, OK",413,"2,664",0.16
+Haskell County,OK,"Haskell County, OK","2,929","3,797",0.77
+Hughes County,OK,"Hughes County, OK","2,902","12,668",0.23
+Jackson County,OK,"Jackson County, OK","3,704","13,335",0.28
+Jefferson County,OK,"Jefferson County, OK","1,473","24,949",0.06
+Johnston County,OK,"Johnston County, OK","2,068","6,123",0.34
+Kay County,OK,"Kay County, OK","8,751","10,949",0.80
+Kingfisher County,OK,"Kingfisher County, OK","1,554","44,161",0.04
+Kiowa County,OK,"Kiowa County, OK","1,448","15,816",0.09
+Latimer County,OK,"Latimer County, OK","1,721","8,729",0.20
+Le Flore County,OK,"Le Flore County, OK","10,903","10,231",1.07
+Lincoln County,OK,"Lincoln County, OK","5,069","49,980",0.10
+Logan County,OK,"Logan County, OK","4,745","34,920",0.14
+Love County,OK,"Love County, OK","1,466","47,291",0.03
+McClain County,OK,"McClain County, OK","3,592","10,134",0.35
+McCurtain County,OK,"McCurtain County, OK","6,796","39,985",0.17
+McIntosh County,OK,"McIntosh County, OK","4,649","32,703",0.14
+Major County,OK,"Major County, OK",816,"19,815",0.04
+Marshall County,OK,"Marshall County, OK","2,961","7,644",0.39
+Mayes County,OK,"Mayes County, OK","6,271","16,806",0.37
+Murray County,OK,"Murray County, OK","2,029","41,107",0.05
+Muskogee County,OK,"Muskogee County, OK","10,094","13,953",0.72
+Noble County,OK,"Noble County, OK","1,431","68,362",0.02
+Nowata County,OK,"Nowata County, OK","1,650","11,289",0.15
+Okfuskee County,OK,"Okfuskee County, OK","2,890","10,218",0.28
+Oklahoma County,OK,"Oklahoma County, OK","131,185","12,098",10.84
+Okmulgee County,OK,"Okmulgee County, OK","7,916","792,582",0.01
+Osage County,OK,"Osage County, OK","6,864","38,335",0.18
+Ottawa County,OK,"Ottawa County, OK","6,210","47,014",0.13
+Pawnee County,OK,"Pawnee County, OK","2,368","31,175",0.08
+Payne County,OK,"Payne County, OK","16,909","16,390",1.03
+Pittsburg County,OK,"Pittsburg County, OK","8,160","82,040",0.10
+Pontotoc County,OK,"Pontotoc County, OK","5,600","43,877",0.13
+Pottawatomie County,OK,"Pottawatomie County, OK","12,181","38,247",0.32
+Pushmataha County,OK,"Pushmataha County, OK","2,169","72,679",0.03
+Roger Mills County,OK,"Roger Mills County, OK",505,"11,179",0.05
+Rogers County,OK,"Rogers County, OK","8,855","3,656",2.42
+Seminole County,OK,"Seminole County, OK","4,458","91,984",0.05
+Sequoyah County,OK,"Sequoyah County, OK","7,636","24,578",0.31
+Stephens County,OK,"Stephens County, OK","6,408","41,179",0.16
+Texas County,OK,"Texas County, OK","2,530","43,265",0.06
+Tillman County,OK,"Tillman County, OK","1,491","20,455",0.07
+Tulsa County,OK,"Tulsa County, OK","89,706","7,348",12.21
+Wagoner County,OK,"Wagoner County, OK","7,912","648,360",0.01
+Washington County,OK,"Washington County, OK","6,607","80,110",0.08
+Washita County,OK,"Washita County, OK","1,929","51,843",0.04
+Woods County,OK,"Woods County, OK","1,194","11,127",0.11
+Woodward County,OK,"Woodward County, OK","2,816","8,897",0.32
+Oregon,OR,"Oregon, OR","516,014","20,222",25.52
+Baker County,OR,"Baker County, OR","2,405","4,190,713",0.00
+Benton County,OR,"Benton County, OR","13,739","16,006",0.86
+Clackamas County,OR,"Clackamas County, OR","30,022","92,101",0.33
+Clatsop County,OR,"Clatsop County, OR","4,317","416,075",0.01
+Columbia County,OR,"Columbia County, OR","5,302","39,764",0.13
+Coos County,OR,"Coos County, OR","10,005","52,377",0.19
+Crook County,OR,"Crook County, OR","3,049","64,389",0.05
+Curry County,OR,"Curry County, OR","3,381","23,867",0.14
+Deschutes County,OR,"Deschutes County, OR","17,918","22,813",0.79
+Douglas County,OR,"Douglas County, OR","16,387","191,996",0.09
+Gilliam County,OR,"Gilliam County, OR",212,"110,283",0.00
+Grant County,OR,"Grant County, OR","1,164","1,894",0.61
+Harney County,OR,"Harney County, OR","1,089","7,176",0.15
+Hood River County,OR,"Hood River County, OR","2,512","7,329",0.34
+Jackson County,OR,"Jackson County, OR","32,137","23,428",1.37
+Jefferson County,OR,"Jefferson County, OR","3,704","219,564",0.02
+Josephine County,OR,"Josephine County, OR","14,655","24,192",0.61
+Klamath County,OR,"Klamath County, OR","12,310","87,393",0.14
+Lake County,OR,"Lake County, OR","1,360","67,653",0.02
+Lane County,OR,"Lane County, OR","67,217","7,879",8.53
+Lincoln County,OR,"Lincoln County, OR","6,639","379,611",0.02
+Linn County,OR,"Linn County, OR","15,989","49,388",0.32
+Malheur County,OR,"Malheur County, OR","5,774","127,335",0.05
+Marion County,OR,"Marion County, OR","48,997","30,725",1.59
+Morrow County,OR,"Morrow County, OR","1,744","346,868",0.01
+Multnomah County,OR,"Multnomah County, OR","95,543","11,372",8.40
+Polk County,OR,"Polk County, OR","10,622","811,880",0.01
+Sherman County,OR,"Sherman County, OR",237,"85,234",0.00
+Tillamook County,OR,"Tillamook County, OR","3,470","1,708",2.03
+Umatilla County,OR,"Umatilla County, OR","11,557","26,787",0.43
+Union County,OR,"Union County, OR","3,598","77,516",0.05
+Wallowa County,OR,"Wallowa County, OR","1,013","26,461",0.04
+Wasco County,OR,"Wasco County, OR","3,467","7,081",0.49
+Washington County,OR,"Washington County, OR","51,789","26,505",1.95
+Wheeler County,OR,"Wheeler County, OR",258,"597,695",0.00
+Yamhill County,OR,"Yamhill County, OR","12,433","1,366",9.10
+Pennsylvania,PA,"Pennsylvania, PA","1,517,936","107,002",14.19
+Adams County,PA,"Adams County, PA","7,919","12,807,060",0.00
+Allegheny County,PA,"Allegheny County, PA","138,397","102,811",1.35
+Armstrong County,PA,"Armstrong County, PA","5,917","1,218,452",0.00
+Beaver County,PA,"Beaver County, PA","18,061","65,263",0.28
+Bedford County,PA,"Bedford County, PA","5,007","164,742",0.03
+Berks County,PA,"Berks County, PA","46,762","48,176",0.97
+Blair County,PA,"Blair County, PA","17,156","420,152",0.04
+Bradford County,PA,"Bradford County, PA","7,495","122,492",0.06
+Bucks County,PA,"Bucks County, PA","35,350","60,833",0.58
+Butler County,PA,"Butler County, PA","15,883","628,195",0.03
+Cambria County,PA,"Cambria County, PA","18,520","187,888",0.10
+Cameron County,PA,"Cameron County, PA",614,"131,730",0.00
+Carbon County,PA,"Carbon County, PA","7,522","4,492",1.67
+Centre County,PA,"Centre County, PA","25,901","64,227",0.40
+Chester County,PA,"Chester County, PA","34,311","162,805",0.21
+Clarion County,PA,"Clarion County, PA","5,646","522,046",0.01
+Clearfield County,PA,"Clearfield County, PA","11,323","38,779",0.29
+Clinton County,PA,"Clinton County, PA","4,506","79,388",0.06
+Columbia County,PA,"Columbia County, PA","7,553","38,684",0.20
+Crawford County,PA,"Crawford County, PA","10,880","65,456",0.17
+Cumberland County,PA,"Cumberland County, PA","17,469","85,063",0.21
+Dauphin County,PA,"Dauphin County, PA","35,730","251,423",0.14
+Delaware County,PA,"Delaware County, PA","47,800","277,097",0.17
+Elk County,PA,"Elk County, PA","2,742","564,751",0.00
+Erie County,PA,"Erie County, PA","39,839","30,169",1.32
+Fayette County,PA,"Fayette County, PA","18,475","272,061",0.07
+Forest County,PA,"Forest County, PA","1,113","130,441",0.01
+Franklin County,PA,"Franklin County, PA","16,759","7,279",2.30
+Fulton County,PA,"Fulton County, PA","1,645","154,835",0.01
+Greene County,PA,"Greene County, PA","5,334","14,523",0.37
+Huntingdon County,PA,"Huntingdon County, PA","5,498","36,506",0.15
+Indiana County,PA,"Indiana County, PA","12,356","45,168",0.27
+Jefferson County,PA,"Jefferson County, PA","6,166","84,501",0.07
+Juniata County,PA,"Juniata County, PA","2,277","43,641",0.05
+Lackawanna County,PA,"Lackawanna County, PA","28,929","24,704",1.17
+Lancaster County,PA,"Lancaster County, PA","42,131","210,793",0.20
+Lawrence County,PA,"Lawrence County, PA","13,319","543,557",0.02
+Lebanon County,PA,"Lebanon County, PA","13,802","86,184",0.16
+Lehigh County,PA,"Lehigh County, PA","42,991","141,314",0.30
+Luzerne County,PA,"Luzerne County, PA","43,839","368,100",0.12
+Lycoming County,PA,"Lycoming County, PA","14,054","317,646",0.04
+Mc Kean County,PA,"Mc Kean County, PA","6,374","113,664",0.06
+Mercer County,PA,"Mercer County, PA","15,985","40,968",0.39
+Mifflin County,PA,"Mifflin County, PA","6,867","110,683",0.06
+Monroe County,PA,"Monroe County, PA","20,202","46,222",0.44
+Montgomery County,PA,"Montgomery County, PA","47,317","169,507",0.28
+Montour County,PA,"Montour County, PA","1,771","828,604",0.00
+Northampton County,PA,"Northampton County, PA","29,917","18,240",1.64
+Northumberland County,PA,"Northumberland County, PA","11,552","304,807",0.04
+Perry County,PA,"Perry County, PA","4,438","91,083",0.05
+Philadelphia County,PA,"Philadelphia County, PA","372,322","46,139",8.07
+Pike County,PA,"Pike County, PA","5,690","1,584,138",0.00
+Potter County,PA,"Potter County, PA","2,413","55,933",0.04
+Schuylkill County,PA,"Schuylkill County, PA","17,574","16,622",1.06
+Snyder County,PA,"Snyder County, PA","4,052","142,067",0.03
+Somerset County,PA,"Somerset County, PA","8,289","40,540",0.20
+Sullivan County,PA,"Sullivan County, PA",847,"73,952",0.01
+Susquehanna County,PA,"Susquehanna County, PA","5,128","6,071",0.84
+Tioga County,PA,"Tioga County, PA","5,894","40,589",0.15
+Union County,PA,"Union County, PA","4,575","40,763",0.11
+Venango County,PA,"Venango County, PA","7,537","44,785",0.17
+Warren County,PA,"Warren County, PA","4,316","51,266",0.08
+Washington County,PA,"Washington County, PA","18,274","39,498",0.46
+Wayne County,PA,"Wayne County, PA","6,163","207,346",0.03
+Westmoreland County,PA,"Westmoreland County, PA","31,749","51,276",0.62
+Wyoming County,PA,"Wyoming County, PA","3,116","350,611",0.01
+York County,PA,"York County, PA","38,582","27,046",1.43
+Rhode Island,RI,"Rhode Island, RI","130,538","448,273",0.29
+Bristol County,RI,"Bristol County, RI","3,557","1,057,315",0.00
+Kent County,RI,"Kent County, RI","12,620","48,649",0.26
+Newport County,RI,"Newport County, RI","6,423","163,861",0.04
+Providence County,RI,"Providence County, RI","98,431","82,542",1.19
+Washington County,RI,"Washington County, RI","9,507","636,084",0.01
+South Carolina,SC,"South Carolina, SC","750,582","126,179",5.95
+Abbeville County,SC,"Abbeville County, SC","4,545","5,084,127",0.00
+Aiken County,SC,"Aiken County, SC","25,095","24,541",1.02
+Allendale County,SC,"Allendale County, SC","2,901","169,401",0.02
+Anderson County,SC,"Anderson County, SC","28,843","8,903",3.24
+Bamberg County,SC,"Bamberg County, SC","3,605","200,482",0.02
+Barnwell County,SC,"Barnwell County, SC","4,661","14,275",0.33
+Beaufort County,SC,"Beaufort County, SC","19,881","21,112",0.94
+Berkeley County,SC,"Berkeley County, SC","27,687","188,715",0.15
+Calhoun County,SC,"Calhoun County, SC","2,647","221,091",0.01
+Charleston County,SC,"Charleston County, SC","55,971","14,520",3.85
+Cherokee County,SC,"Cherokee County, SC","9,394","405,905",0.02
+Chester County,SC,"Chester County, SC","5,830","57,078",0.10
+Chesterfield County,SC,"Chesterfield County, SC","9,453","32,251",0.29
+Clarendon County,SC,"Clarendon County, SC","8,520","45,754",0.19
+Colleton County,SC,"Colleton County, SC","7,440","33,700",0.22
+Darlington County,SC,"Darlington County, SC","15,356","37,660",0.41
+Dillon County,SC,"Dillon County, SC","9,648","66,802",0.14
+Dorchester County,SC,"Dorchester County, SC","17,466","30,599",0.57
+Edgefield County,SC,"Edgefield County, SC","4,489","160,647",0.03
+Fairfield County,SC,"Fairfield County, SC","5,219","27,052",0.19
+Florence County,SC,"Florence County, SC","24,375","22,402",1.09
+Georgetown County,SC,"Georgetown County, SC","12,064","138,159",0.09
+Greenville County,SC,"Greenville County, SC","55,837","62,249",0.90
+Greenwood County,SC,"Greenwood County, SC","12,455","514,213",0.02
+Hampton County,SC,"Hampton County, SC","4,637","70,741",0.07
+Horry County,SC,"Horry County, SC","48,595","19,351",2.51
+Jasper County,SC,"Jasper County, SC","5,263","344,147",0.02
+Kershaw County,SC,"Kershaw County, SC","9,431","28,971",0.33
+Lancaster County,SC,"Lancaster County, SC","12,446","65,592",0.19
+Laurens County,SC,"Laurens County, SC","12,768","95,380",0.13
+Lee County,SC,"Lee County, SC","4,376","66,994",0.07
+Lexington County,SC,"Lexington County, SC","36,432","17,142",2.13
+McCormick County,SC,"McCormick County, SC","1,564","295,032",0.01
+Marion County,SC,"Marion County, SC","7,841","9,410",0.83
+Marlboro County,SC,"Marlboro County, SC","7,104","31,039",0.23
+Newberry County,SC,"Newberry County, SC","6,362","26,398",0.24
+Oconee County,SC,"Oconee County, SC","11,159","38,520",0.29
+Orangeburg County,SC,"Orangeburg County, SC","21,733","78,374",0.28
+Pickens County,SC,"Pickens County, SC","19,471","86,934",0.22
+Richland County,SC,"Richland County, SC","64,210","124,937",0.51
+Saluda County,SC,"Saluda County, SC","3,017","414,576",0.01
+Spartanburg County,SC,"Spartanburg County, SC","41,706","20,544",2.03
+Sumter County,SC,"Sumter County, SC","19,418","313,888",0.06
+Union County,SC,"Union County, SC","5,485","106,512",0.05
+Williamsburg County,SC,"Williamsburg County, SC","7,726","27,410",0.28
+York County,SC,"York County, SC","26,453","30,606",0.86
+South Dakota,SD,"South Dakota, SD","109,814","274,118",0.40
+Aurora County,SD,"Aurora County, SD",276,"882,235",0.00
+Beadle County,SD,"Beadle County, SD","2,387","2,801",0.85
+Bennett County,SD,"Bennett County, SD","1,115","18,883",0.06
+Bon Homme County,SD,"Bon Homme County, SD",866,"3,468",0.25
+Brookings County,SD,"Brookings County, SD","3,744","6,980",0.54
+Brown County,SD,"Brown County, SD","4,195","35,232",0.12
+Brule County,SD,"Brule County, SD",807,"39,316",0.02
+Buffalo County,SD,"Buffalo County, SD",925,"5,229",0.18
+Butte County,SD,"Butte County, SD","1,442","2,036",0.71
+Campbell County,SD,"Campbell County, SD",149,"10,222",0.01
+Charles Mix County,SD,"Charles Mix County, SD","1,857","1,377",1.35
+Clark County,SD,"Clark County, SD",440,"9,338",0.05
+Clay County,SD,"Clay County, SD","2,314","3,739",0.62
+Codington County,SD,"Codington County, SD","3,115","14,041",0.22
+Corson County,SD,"Corson County, SD","1,394","28,015",0.05
+Custer County,SD,"Custer County, SD",853,"4,165",0.20
+Davison County,SD,"Davison County, SD","2,290","8,726",0.26
+Day County,SD,"Day County, SD",820,"19,790",0.04
+Deuel County,SD,"Deuel County, SD",390,"5,505",0.07
+Dewey County,SD,"Dewey County, SD","1,514","4,337",0.35
+Douglas County,SD,"Douglas County, SD",340,"5,904",0.06
+Edmunds County,SD,"Edmunds County, SD",421,"2,935",0.14
+Fall River County,SD,"Fall River County, SD",850,"3,875",0.22
+Faulk County,SD,"Faulk County, SD",332,"6,758",0.05
+Grant County,SD,"Grant County, SD",707,"2,330",0.30
+Gregory County,SD,"Gregory County, SD",686,"7,147",0.10
+Haakon County,SD,"Haakon County, SD",208,"4,212",0.05
+Hamlin County,SD,"Hamlin County, SD",549,"1,918",0.29
+Hand County,SD,"Hand County, SD",314,"6,111",0.05
+Hanson County,SD,"Hanson County, SD",280,"3,262",0.09
+Harding County,SD,"Harding County, SD",131,"3,376",0.04
+Hughes County,SD,"Hughes County, SD","1,590","1,249",1.27
+Hutchinson County,SD,"Hutchinson County, SD",784,"17,650",0.04
+Hyde County,SD,"Hyde County, SD",128,"7,380",0.02
+Jackson County,SD,"Jackson County, SD","1,070","1,282",0.83
+Jerauld County,SD,"Jerauld County, SD",280,"3,307",0.08
+Jones County,SD,"Jones County, SD",122,"2,043",0.06
+Kingsbury County,SD,"Kingsbury County, SD",432,928,0.47
+Lake County,SD,"Lake County, SD","1,258","4,919",0.26
+Lawrence County,SD,"Lawrence County, SD","3,155","13,057",0.24
+Lincoln County,SD,"Lincoln County, SD","2,585","25,741",0.10
+Lyman County,SD,"Lyman County, SD",794,"58,807",0.01
+McCook County,SD,"McCook County, SD",514,"3,821",0.13
+McPherson County,SD,"McPherson County, SD",379,"5,546",0.07
+Marshall County,SD,"Marshall County, SD",587,"2,407",0.24
+Meade County,SD,"Meade County, SD","2,309","5,112",0.45
+Mellette County,SD,"Mellette County, SD",699,"28,294",0.02
+Miner County,SD,"Miner County, SD",247,"2,042",0.12
+Minnehaha County,SD,"Minnehaha County, SD","18,035","2,213",8.15
+Moody County,SD,"Moody County, SD",644,"192,876",0.00
+Oglala Lakota County,SD,"Oglala Lakota County, SD","7,688","6,579",1.17
+Pennington County,SD,"Pennington County, SD","14,567","14,309",1.02
+Perkins County,SD,"Perkins County, SD",394,"111,729",0.00
+Potter County,SD,"Potter County, SD",217,"2,922",0.07
+Roberts County,SD,"Roberts County, SD","2,173","2,207",0.98
+Sanborn County,SD,"Sanborn County, SD",299,"10,447",0.03
+Spink County,SD,"Spink County, SD",781,"2,429",0.32
+Stanley County,SD,"Stanley County, SD",235,"6,495",0.04
+Sully County,SD,"Sully County, SD",123,"3,022",0.04
+Todd County,SD,"Todd County, SD","4,955","1,392",3.56
+Tripp County,SD,"Tripp County, SD","1,061","10,283",0.10
+Turner County,SD,"Turner County, SD",775,"5,478",0.14
+Union County,SD,"Union County, SD",915,"8,424",0.11
+Walworth County,SD,"Walworth County, SD",812,"15,619",0.05
+Yankton County,SD,"Yankton County, SD","2,296","5,587",0.41
+Ziebach County,SD,"Ziebach County, SD","1,201","22,869",0.05
+Tennessee,TN,"Tennessee, TN","1,003,055","2,742",365.81
+Anderson County,TN,"Anderson County, TN","12,433","6,770,010",0.00
+Bedford County,TN,"Bedford County, TN","6,955","76,482",0.09
+Benton County,TN,"Benton County, TN","3,068","49,038",0.06
+Bledsoe County,TN,"Bledsoe County, TN","3,235","16,184",0.20
+Blount County,TN,"Blount County, TN","12,816","14,755",0.87
+Bradley County,TN,"Bradley County, TN","15,216","131,349",0.12
+Campbell County,TN,"Campbell County, TN","8,392","106,727",0.08
+Cannon County,TN,"Cannon County, TN","2,022","39,583",0.05
+Carroll County,TN,"Carroll County, TN","4,963","14,462",0.34
+Carter County,TN,"Carter County, TN","10,530","28,020",0.38
+Cheatham County,TN,"Cheatham County, TN","4,122","56,351",0.07
+Chester County,TN,"Chester County, TN","2,555","40,439",0.06
+Claiborne County,TN,"Claiborne County, TN","7,129","17,276",0.41
+Clay County,TN,"Clay County, TN","1,601","31,756",0.05
+Cocke County,TN,"Cocke County, TN","7,981","7,717",1.03
+Coffee County,TN,"Coffee County, TN","8,745","35,774",0.24
+Crockett County,TN,"Crockett County, TN","2,736","55,700",0.05
+Cumberland County,TN,"Cumberland County, TN","8,494","14,328",0.59
+Davidson County,TN,"Davidson County, TN","102,623","59,673",1.72
+Decatur County,TN,"Decatur County, TN","2,083","692,587",0.00
+DeKalb County,TN,"DeKalb County, TN","3,435","11,706",0.29
+Dickson County,TN,"Dickson County, TN","7,259","20,138",0.36
+Dyer County,TN,"Dyer County, TN","6,735","53,446",0.13
+Fayette County,TN,"Fayette County, TN","5,227","37,320",0.14
+Fentress County,TN,"Fentress County, TN","3,701","40,507",0.09
+Franklin County,TN,"Franklin County, TN","6,335","18,217",0.35
+Gibson County,TN,"Gibson County, TN","7,904","41,890",0.19
+Giles County,TN,"Giles County, TN","4,160","49,045",0.08
+Grainger County,TN,"Grainger County, TN","4,211","29,503",0.14
+Greene County,TN,"Greene County, TN","10,146","23,145",0.44
+Grundy County,TN,"Grundy County, TN","2,787","69,087",0.04
+Hamblen County,TN,"Hamblen County, TN","10,883","13,346",0.82
+Hamilton County,TN,"Hamilton County, TN","46,021","64,569",0.71
+Hancock County,TN,"Hancock County, TN","1,912","364,286",0.01
+Hardeman County,TN,"Hardeman County, TN","5,025","6,549",0.77
+Hardin County,TN,"Hardin County, TN","5,149","25,220",0.20
+Hawkins County,TN,"Hawkins County, TN","10,252","25,776",0.40
+Haywood County,TN,"Haywood County, TN","3,513","56,530",0.06
+Henderson County,TN,"Henderson County, TN","4,957","17,335",0.29
+Henry County,TN,"Henry County, TN","5,982","27,847",0.21
+Hickman County,TN,"Hickman County, TN","3,827","32,358",0.12
+Houston County,TN,"Houston County, TN","1,349","25,063",0.05
+Humphreys County,TN,"Humphreys County, TN","2,477","8,263",0.30
+Jackson County,TN,"Jackson County, TN","2,286","18,486",0.12
+Jefferson County,TN,"Jefferson County, TN","7,241","11,758",0.62
+Johnson County,TN,"Johnson County, TN","3,308","54,012",0.06
+Knox County,TN,"Knox County, TN","59,817","17,778",3.36
+Lake County,TN,"Lake County, TN","1,795","465,289",0.00
+Lauderdale County,TN,"Lauderdale County, TN","5,907","7,411",0.80
+Lawrence County,TN,"Lawrence County, TN","7,643","25,825",0.30
+Lewis County,TN,"Lewis County, TN","2,074","43,734",0.05
+Lincoln County,TN,"Lincoln County, TN","4,853","12,086",0.40
+Loudon County,TN,"Loudon County, TN","4,754","34,117",0.14
+McMinn County,TN,"McMinn County, TN","8,307","53,054",0.16
+McNairy County,TN,"McNairy County, TN","4,408","53,285",0.08
+Macon County,TN,"Macon County, TN","4,309","25,832",0.17
+Madison County,TN,"Madison County, TN","16,631","24,265",0.69
+Marion County,TN,"Marion County, TN","4,337","97,605",0.04
+Marshall County,TN,"Marshall County, TN","4,702","28,575",0.16
+Maury County,TN,"Maury County, TN","10,032","33,683",0.30
+Meigs County,TN,"Meigs County, TN","2,153","94,340",0.02
+Monroe County,TN,"Monroe County, TN","7,151","12,306",0.58
+Montgomery County,TN,"Montgomery County, TN","24,251","46,357",0.52
+Moore County,TN,"Moore County, TN",575,"205,950",0.00
+Morgan County,TN,"Morgan County, TN","3,919","6,411",0.61
+Obion County,TN,"Obion County, TN","5,267","21,579",0.24
+Overton County,TN,"Overton County, TN","3,251","30,267",0.11
+Perry County,TN,"Perry County, TN","1,390","22,068",0.06
+Pickett County,TN,"Pickett County, TN",797,"8,064",0.10
+Polk County,TN,"Polk County, TN","2,623","5,082",0.52
+Putnam County,TN,"Putnam County, TN","10,996","16,898",0.65
+Rhea County,TN,"Rhea County, TN","5,886","78,843",0.07
+Roane County,TN,"Roane County, TN","7,779","33,044",0.24
+Robertson County,TN,"Robertson County, TN","7,414","53,140",0.14
+Rutherford County,TN,"Rutherford County, TN","33,172","71,012",0.47
+Scott County,TN,"Scott County, TN","4,591","324,890",0.01
+Sequatchie County,TN,"Sequatchie County, TN","2,339","22,039",0.11
+Sevier County,TN,"Sevier County, TN","13,466","14,876",0.91
+Shelby County,TN,"Shelby County, TN","198,554","97,892",2.03
+Smith County,TN,"Smith County, TN","2,739","935,764",0.00
+Stewart County,TN,"Stewart County, TN","1,867","19,942",0.09
+Sullivan County,TN,"Sullivan County, TN","25,549","13,561",1.88
+Sumner County,TN,"Sumner County, TN","16,426","157,668",0.10
+Tipton County,TN,"Tipton County, TN","7,240","187,149",0.04
+Trousdale County,TN,"Trousdale County, TN","1,570","61,581",0.03
+Unicoi County,TN,"Unicoi County, TN","2,797","11,012",0.25
+Union County,TN,"Union County, TN","3,858","17,761",0.22
+Van Buren County,TN,"Van Buren County, TN",918,"19,688",0.05
+Warren County,TN,"Warren County, TN","9,025","5,765",1.57
+Washington County,TN,"Washington County, TN","18,528","40,878",0.45
+Wayne County,TN,"Wayne County, TN","3,066","128,607",0.02
+Weakley County,TN,"Weakley County, TN","6,252","16,558",0.38
+White County,TN,"White County, TN","4,612","33,415",0.14
+Williamson County,TN,"Williamson County, TN","8,794","27,107",0.32
+Wilson County,TN,"Wilson County, TN","10,888","231,729",0.05
+Texas,TX,"Texas, TX","4,181,623","140,625",29.74
+Anderson County,TX,"Anderson County, TX","8,778","28,701,845",0.00
+Andrews County,TX,"Andrews County, TX","1,922","58,057",0.03
+Angelina County,TX,"Angelina County, TX","15,052","18,128",0.83
+Aransas County,TX,"Aransas County, TX","4,642","87,092",0.05
+Archer County,TX,"Archer County, TX",922,"23,792",0.04
+Armstrong County,TX,"Armstrong County, TX",197,"8,786",0.02
+Atascosa County,TX,"Atascosa County, TX","7,803","1,892",4.12
+Austin County,TX,"Austin County, TX","3,031","50,310",0.06
+Bailey County,TX,"Bailey County, TX","1,087","29,989",0.04
+Bandera County,TX,"Bandera County, TX","3,016","7,027",0.43
+Bastrop County,TX,"Bastrop County, TX","10,673","22,824",0.47
+Baylor County,TX,"Baylor County, TX",563,"86,976",0.01
+Bee County,TX,"Bee County, TX","6,607","3,582",1.84
+Bell County,TX,"Bell County, TX","44,865","32,587",1.38
+Bexar County,TX,"Bexar County, TX","334,215","355,642",0.94
+Blanco County,TX,"Blanco County, TX","1,176","1,986,049",0.00
+Borden County,TX,"Borden County, TX",65,"11,702",0.01
+Bosque County,TX,"Bosque County, TX","2,721",648,4.20
+Bowie County,TX,"Bowie County, TX","16,794","18,691",0.90
+Brazoria County,TX,"Brazoria County, TX","36,342","94,324",0.39
+Brazos County,TX,"Brazos County, TX","49,310","370,200",0.13
+Brewster County,TX,"Brewster County, TX","1,475","226,758",0.01
+Briscoe County,TX,"Briscoe County, TX",245,"9,267",0.03
+Brooks County,TX,"Brooks County, TX","2,183","1,516",1.44
+Brown County,TX,"Brown County, TX","4,778","7,114",0.67
+Burleson County,TX,"Burleson County, TX","2,686","37,924",0.07
+Burnet County,TX,"Burnet County, TX","5,099","18,389",0.28
+Caldwell County,TX,"Caldwell County, TX","5,850","47,542",0.12
+Calhoun County,TX,"Calhoun County, TX","3,036","43,247",0.07
+Callahan County,TX,"Callahan County, TX","1,661","21,561",0.08
+Cameron County,TX,"Cameron County, TX","117,193","13,994",8.37
+Camp County,TX,"Camp County, TX","2,431","423,908",0.01
+Carson County,TX,"Carson County, TX",536,"13,033",0.04
+Cass County,TX,"Cass County, TX","6,059","6,005",1.01
+Castro County,TX,"Castro County, TX","1,328","30,119",0.04
+Chambers County,TX,"Chambers County, TX","3,593","7,665",0.47
+Cherokee County,TX,"Cherokee County, TX","8,623","42,454",0.20
+Childress County,TX,"Childress County, TX","1,180","52,592",0.02
+Clay County,TX,"Clay County, TX","1,125","7,291",0.15
+Cochran County,TX,"Cochran County, TX",609,"10,456",0.06
+Coke County,TX,"Coke County, TX",469,"2,836",0.17
+Coleman County,TX,"Coleman County, TX","1,604","3,370",0.48
+Collin County,TX,"Collin County, TX","64,180","8,397",7.64
+Collingsworth County,TX,"Collingsworth County, TX",502,"1,005,146",0.00
+Colorado County,TX,"Colorado County, TX","2,845","2,962",0.96
+Comal County,TX,"Comal County, TX","10,498","21,217",0.49
+Comanche County,TX,"Comanche County, TX","2,180","148,373",0.01
+Concho County,TX,"Concho County, TX",702,"13,534",0.05
+Cooke County,TX,"Cooke County, TX","5,914","4,276",1.38
+Coryell County,TX,"Coryell County, TX","9,407","40,574",0.23
+Cottle County,TX,"Cottle County, TX",293,"74,808",0.00
+Crane County,TX,"Crane County, TX",475,"1,389",0.34
+Crockett County,TX,"Crockett County, TX",529,"4,794",0.11
+Crosby County,TX,"Crosby County, TX","1,349","3,499",0.39
+Culberson County,TX,"Culberson County, TX",444,"5,779",0.08
+Dallam County,TX,"Dallam County, TX",867,"2,204",0.39
+Dallas County,TX,"Dallas County, TX","368,310","7,200",51.15
+Dawson County,TX,"Dawson County, TX","2,575","2,637,772",0.00
+Deaf Smith County,TX,"Deaf Smith County, TX","3,232","12,619",0.26
+Delta County,TX,"Delta County, TX",908,"18,760",0.05
+Denton County,TX,"Denton County, TX","62,151","5,349",11.62
+DeWitt County,TX,"DeWitt County, TX","3,370","859,064",0.00
+Dickens County,TX,"Dickens County, TX",390,"20,187",0.02
+Dimmit County,TX,"Dimmit County, TX","2,508","2,249",1.12
+Donley County,TX,"Donley County, TX",574,"10,308",0.06
+Duval County,TX,"Duval County, TX","2,684","3,319",0.81
+Eastland County,TX,"Eastland County, TX","3,269","11,212",0.29
+Ector County,TX,"Ector County, TX","20,485","18,322",1.12
+Edwards County,TX,"Edwards County, TX",425,"162,124",0.00
+Ellis County,TX,"Ellis County, TX","15,609","1,928",8.10
+El Paso County,TX,"El Paso County, TX","169,120","179,436",0.94
+Erath County,TX,"Erath County, TX","6,988","840,758",0.01
+Falls County,TX,"Falls County, TX","3,331","42,446",0.08
+Fannin County,TX,"Fannin County, TX","4,466","17,335",0.26
+Fayette County,TX,"Fayette County, TX","3,322","35,286",0.09
+Fisher County,TX,"Fisher County, TX",592,"25,349",0.02
+Floyd County,TX,"Floyd County, TX","1,218","3,839",0.32
+Foard County,TX,"Foard County, TX",210,"5,837",0.04
+Fort Bend County,TX,"Fort Bend County, TX","61,455","1,200",51.21
+Franklin County,TX,"Franklin County, TX","1,615","787,858",0.00
+Freestone County,TX,"Freestone County, TX","2,493","10,766",0.23
+Frio County,TX,"Frio County, TX","4,511","19,808",0.23
+Gaines County,TX,"Gaines County, TX","3,198","19,816",0.16
+Galveston County,TX,"Galveston County, TX","40,109","20,901",1.92
+Garza County,TX,"Garza County, TX","1,096","337,890",0.00
+Gillespie County,TX,"Gillespie County, TX","2,527","6,578",0.38
+Glasscock County,TX,"Glasscock County, TX",134,"26,804",0.00
+Goliad County,TX,"Goliad County, TX","1,077","1,388",0.78
+Gonzales County,TX,"Gonzales County, TX","3,465","7,584",0.46
+Gray County,TX,"Gray County, TX","3,352","20,826",0.16
+Grayson County,TX,"Grayson County, TX","16,116","21,895",0.74
+Gregg County,TX,"Gregg County, TX","18,108","133,991",0.14
+Grimes County,TX,"Grimes County, TX","4,444","123,707",0.04
+Guadalupe County,TX,"Guadalupe County, TX","13,716","28,360",0.48
+Hale County,TX,"Hale County, TX","5,715","163,694",0.03
+Hall County,TX,"Hall County, TX",718,"33,830",0.02
+Hamilton County,TX,"Hamilton County, TX","1,221","3,028",0.40
+Hansford County,TX,"Hansford County, TX",626,"8,484",0.07
+Hardeman County,TX,"Hardeman County, TX",680,"5,463",0.12
+Hardin County,TX,"Hardin County, TX","7,035","3,922",1.79
+Harris County,TX,"Harris County, TX","767,367","57,207",13.41
+Harrison County,TX,"Harrison County, TX","9,584","4,698,619",0.00
+Hartley County,TX,"Hartley County, TX",429,"66,726",0.01
+Haskell County,TX,"Haskell County, TX","1,220","5,619",0.22
+Hays County,TX,"Hays County, TX","28,293","5,813",4.87
+Hemphill County,TX,"Hemphill County, TX",366,"222,631",0.00
+Henderson County,TX,"Henderson County, TX","15,718","3,825",4.11
+Hidalgo County,TX,"Hidalgo County, TX","256,985","82,299",3.12
+Hill County,TX,"Hill County, TX","4,460","865,939",0.01
+Hockley County,TX,"Hockley County, TX","4,300","36,354",0.12
+Hood County,TX,"Hood County, TX","6,108","22,980",0.27
+Hopkins County,TX,"Hopkins County, TX","5,320","60,537",0.09
+Houston County,TX,"Houston County, TX","5,323","36,810",0.14
+Howard County,TX,"Howard County, TX","6,263","23,169",0.27
+Hudspeth County,TX,"Hudspeth County, TX",838,"36,459",0.02
+Hunt County,TX,"Hunt County, TX","12,715","4,795",2.65
+Hutchinson County,TX,"Hutchinson County, TX","2,708","96,493",0.03
+Irion County,TX,"Irion County, TX",123,"21,198",0.01
+Jack County,TX,"Jack County, TX","1,359","1,522",0.89
+Jackson County,TX,"Jackson County, TX","1,885","8,843",0.21
+Jasper County,TX,"Jasper County, TX","6,682","14,874",0.45
+Jeff Davis County,TX,"Jeff Davis County, TX",284,"35,872",0.01
+Jefferson County,TX,"Jefferson County, TX","44,682","2,252",19.84
+Jim Hogg County,TX,"Jim Hogg County, TX","1,318","255,001",0.01
+Jim Wells County,TX,"Jim Wells County, TX","8,552","5,248",1.63
+Johnson County,TX,"Johnson County, TX","17,965","40,822",0.44
+Jones County,TX,"Jones County, TX","3,232","171,361",0.02
+Karnes County,TX,"Karnes County, TX","2,751","19,817",0.14
+Kaufman County,TX,"Kaufman County, TX","14,539","15,650",0.93
+Kendall County,TX,"Kendall County, TX","3,361","128,622",0.03
+Kenedy County,TX,"Kenedy County, TX",63,"45,641",0.00
+Kent County,TX,"Kent County, TX",89,442,0.20
+Kerr County,TX,"Kerr County, TX","7,023",726,9.67
+Kimble County,TX,"Kimble County, TX",760,"52,405",0.01
+King County,TX,"King County, TX",38,"4,362",0.01
+Kinney County,TX,"Kinney County, TX",724,277,2.61
+Kleberg County,TX,"Kleberg County, TX","7,369","3,767",1.96
+Knox County,TX,"Knox County, TX",723,"31,129",0.02
+Lamar County,TX,"Lamar County, TX","7,066","3,653",1.93
+Lamb County,TX,"Lamb County, TX","2,587","49,728",0.05
+Lampasas County,TX,"Lampasas County, TX","2,713","13,158",0.21
+La Salle County,TX,"La Salle County, TX","1,737","21,229",0.08
+Lavaca County,TX,"Lavaca County, TX","2,644","7,531",0.35
+Lee County,TX,"Lee County, TX","2,049","20,110",0.10
+Leon County,TX,"Leon County, TX","2,679","17,144",0.16
+Liberty County,TX,"Liberty County, TX","12,252","17,270",0.71
+Limestone County,TX,"Limestone County, TX","4,860","86,323",0.06
+Lipscomb County,TX,"Lipscomb County, TX",397,"23,519",0.02
+Live Oak County,TX,"Live Oak County, TX","2,067","3,355",0.62
+Llano County,TX,"Llano County, TX","2,628","12,166",0.22
+Loving County,TX,"Loving County, TX",5,"21,646",0.00
+Lubbock County,TX,"Lubbock County, TX","52,037",152,342.35
+Lynn County,TX,"Lynn County, TX","1,063","307,412",0.00
+McCulloch County,TX,"McCulloch County, TX","1,449","5,877",0.25
+McLennan County,TX,"McLennan County, TX","46,457","7,987",5.82
+McMullen County,TX,"McMullen County, TX",82,"254,607",0.00
+Madison County,TX,"Madison County, TX","2,122",749,2.83
+Marion County,TX,"Marion County, TX","2,135","14,422",0.15
+Martin County,TX,"Martin County, TX",773,"9,928",0.08
+Mason County,TX,"Mason County, TX",541,"5,753",0.09
+Matagorda County,TX,"Matagorda County, TX","6,639","4,280",1.55
+Maverick County,TX,"Maverick County, TX","14,859","36,552",0.41
+Medina County,TX,"Medina County, TX","5,988","58,485",0.10
+Menard County,TX,"Menard County, TX",452,"50,921",0.01
+Midland County,TX,"Midland County, TX","17,351","2,139",8.11
+Milam County,TX,"Milam County, TX","3,839","172,578",0.02
+Mills County,TX,"Mills County, TX",693,"25,131",0.03
+Mitchell County,TX,"Mitchell County, TX","1,432","4,921",0.29
+Montague County,TX,"Montague County, TX","2,668","8,145",0.33
+Montgomery County,TX,"Montgomery County, TX","54,400","19,596",2.78
+Moore County,TX,"Moore County, TX","2,588","590,925",0.00
+Morris County,TX,"Morris County, TX","2,462","21,485",0.11
+Motley County,TX,"Motley County, TX",219,"12,339",0.02
+Nacogdoches County,TX,"Nacogdoches County, TX","13,110","1,234",10.62
+Navarro County,TX,"Navarro County, TX","9,739","65,711",0.15
+Newton County,TX,"Newton County, TX","2,898","49,565",0.06
+Nolan County,TX,"Nolan County, TX","2,615","13,746",0.19
+Nueces County,TX,"Nueces County, TX","57,694","14,751",3.91
+Ochiltree County,TX,"Ochiltree County, TX","1,040","362,265",0.00
+Oldham County,TX,"Oldham County, TX",245,"9,947",0.02
+Orange County,TX,"Orange County, TX","11,101","2,131",5.21
+Palo Pinto County,TX,"Palo Pinto County, TX","4,529","83,572",0.05
+Panola County,TX,"Panola County, TX","3,578","28,875",0.12
+Parker County,TX,"Parker County, TX","11,289","23,148",0.49
+Parmer County,TX,"Parmer County, TX","1,325","138,371",0.01
+Pecos County,TX,"Pecos County, TX","2,650","9,864",0.27
+Polk County,TX,"Polk County, TX","6,834","15,673",0.44
+Potter County,TX,"Potter County, TX","22,262","50,031",0.44
+Presidio County,TX,"Presidio County, TX","1,557","119,648",0.01
+Rains County,TX,"Rains County, TX","1,752","6,948",0.25
+Randall County,TX,"Randall County, TX","11,343","12,159",0.93
+Reagan County,TX,"Reagan County, TX",371,"136,271",0.00
+Real County,TX,"Real County, TX",616,"3,741",0.16
+Red River County,TX,"Red River County, TX","2,185","3,478",0.63
+Reeves County,TX,"Reeves County, TX","2,693","12,175",0.22
+Refugio County,TX,"Refugio County, TX","1,125","15,695",0.07
+Roberts County,TX,"Roberts County, TX",70,"7,032",0.01
+Robertson County,TX,"Robertson County, TX","2,699",903,2.99
+Rockwall County,TX,"Rockwall County, TX","5,125","17,284",0.30
+Runnels County,TX,"Runnels County, TX","1,692","100,657",0.02
+Rusk County,TX,"Rusk County, TX","7,900","10,234",0.77
+Sabine County,TX,"Sabine County, TX","1,845","54,450",0.03
+San Augustine County,TX,"San Augustine County, TX","1,777","10,589",0.17
+San Jacinto County,TX,"San Jacinto County, TX","4,981","8,232",0.61
+San Patricio County,TX,"San Patricio County, TX","11,425","28,719",0.40
+San Saba County,TX,"San Saba County, TX",896,"66,893",0.01
+Schleicher County,TX,"Schleicher County, TX",476,"6,054",0.08
+Scurry County,TX,"Scurry County, TX","2,408","2,895",0.83
+Shackelford County,TX,"Shackelford County, TX",432,"16,866",0.03
+Shelby County,TX,"Shelby County, TX","5,173","3,253",1.59
+Sherman County,TX,"Sherman County, TX",368,"25,418",0.01
+Smith County,TX,"Smith County, TX","33,744","3,079",10.96
+Somervell County,TX,"Somervell County, TX",854,"230,221",0.00
+Starr County,TX,"Starr County, TX","21,151","9,016",2.35
+Stephens County,TX,"Stephens County, TX","1,696","64,525",0.03
+Sterling County,TX,"Sterling County, TX",161,"9,433",0.02
+Stonewall County,TX,"Stonewall County, TX",194,"1,311",0.15
+Sutton County,TX,"Sutton County, TX",531,"1,362",0.39
+Swisher County,TX,"Swisher County, TX","1,312","3,758",0.35
+Tarrant County,TX,"Tarrant County, TX","248,032","7,462",33.24
+Taylor County,TX,"Taylor County, TX","21,301","2,084,931",0.01
+Terrell County,TX,"Terrell County, TX",155,"137,640",0.00
+Terry County,TX,"Terry County, TX","2,529",823,3.07
+Throckmorton County,TX,"Throckmorton County, TX",217,"12,287",0.02
+Titus County,TX,"Titus County, TX","6,035","1,515",3.98
+Tom Green County,TX,"Tom Green County, TX","17,558","33,033",0.53
+Travis County,TX,"Travis County, TX","146,724","118,189",1.24
+Trinity County,TX,"Trinity County, TX","2,581","1,248,743",0.00
+Tyler County,TX,"Tyler County, TX","3,584","14,740",0.24
+Upshur County,TX,"Upshur County, TX","6,455","21,696",0.30
+Upton County,TX,"Upton County, TX",512,"41,260",0.01
+Uvalde County,TX,"Uvalde County, TX","5,999","3,671",1.63
+Val Verde County,TX,"Val Verde County, TX","8,950","26,846",0.33
+Van Zandt County,TX,"Van Zandt County, TX","8,598","49,208",0.17
+Victoria County,TX,"Victoria County, TX","13,855","56,019",0.25
+Walker County,TX,"Walker County, TX","14,525","92,035",0.16
+Waller County,TX,"Waller County, TX","7,776","72,480",0.11
+Ward County,TX,"Ward County, TX","1,611","53,126",0.03
+Washington County,TX,"Washington County, TX","4,566","11,720",0.39
+Webb County,TX,"Webb County, TX","69,860","35,108",1.99
+Wharton County,TX,"Wharton County, TX","6,909","275,910",0.03
+Wheeler County,TX,"Wheeler County, TX",721,"41,619",0.02
+Wichita County,TX,"Wichita County, TX","21,221","5,191",4.09
+Wilbarger County,TX,"Wilbarger County, TX","1,905","132,064",0.01
+Willacy County,TX,"Willacy County, TX","6,369","12,820",0.50
+Williamson County,TX,"Williamson County, TX","35,829","21,515",1.67
+Wilson County,TX,"Wilson County, TX","5,400","566,719",0.01
+Winkler County,TX,"Winkler County, TX","1,069","50,224",0.02
+Wise County,TX,"Wise County, TX","6,643","7,720",0.86
+Wood County,TX,"Wood County, TX","6,625","68,305",0.10
+Yoakum County,TX,"Yoakum County, TX","1,028","45,129",0.02
+Young County,TX,"Young County, TX","2,468","8,591",0.29
+Zapata County,TX,"Zapata County, TX","4,529","18,045",0.25
+Zavala County,TX,"Zavala County, TX","3,701","14,190",0.26
+Utah,UT,"Utah, UT","283,562","11,983",23.66
+Beaver County,UT,"Beaver County, UT",613,"3,161,105",0.00
+Box Elder County,UT,"Box Elder County, UT","3,986","6,580",0.61
+Cache County,UT,"Cache County, UT","15,830","54,950",0.29
+Carbon County,UT,"Carbon County, UT","2,853","127,068",0.02
+Daggett County,UT,"Daggett County, UT",64,"20,269",0.00
+Davis County,UT,"Davis County, UT","19,798",980,20.20
+Duchesne County,UT,"Duchesne County, UT","2,335","351,713",0.01
+Emery County,UT,"Emery County, UT","1,247","19,964",0.06
+Garfield County,UT,"Garfield County, UT",551,"10,014",0.06
+Grand County,UT,"Grand County, UT","1,092","5,080",0.21
+Iron County,UT,"Iron County, UT","7,444","9,764",0.76
+Juab County,UT,"Juab County, UT",968,"52,775",0.02
+Kane County,UT,"Kane County, UT",779,"11,555",0.07
+Millard County,UT,"Millard County, UT","1,453","7,709",0.19
+Morgan County,UT,"Morgan County, UT",478,"13,006",0.04
+Piute County,UT,"Piute County, UT",262,"12,045",0.02
+Rich County,UT,"Rich County, UT",218,"1,445",0.15
+Salt Lake County,UT,"Salt Lake County, UT","102,660","2,464",41.66
+San Juan County,UT,"San Juan County, UT","3,419","1,152,633",0.00
+Sanpete County,UT,"Sanpete County, UT","4,116","15,449",0.27
+Sevier County,UT,"Sevier County, UT","2,544","30,623",0.08
+Summit County,UT,"Summit County, UT","2,570","21,539",0.12
+Tooele County,UT,"Tooele County, UT","4,744","41,933",0.11
+Uintah County,UT,"Uintah County, UT","4,031","69,907",0.06
+Utah County,UT,"Utah County, UT","57,136","35,438",1.61
+Wasatch County,UT,"Wasatch County, UT","1,750","622,213",0.00
+Washington County,UT,"Washington County, UT","16,435","33,240",0.49
+Wayne County,UT,"Wayne County, UT",347,"171,700",0.00
+Weber County,UT,"Weber County, UT","23,839","2,690",8.86
+Vermont,VT,"Vermont, VT","64,431","256,359",0.25
+Addison County,VT,"Addison County, VT","3,042","626,299",0.00
+Bennington County,VT,"Bennington County, VT","3,905","36,973",0.11
+Caledonia County,VT,"Caledonia County, VT","3,648","35,631",0.10
+Chittenden County,VT,"Chittenden County, VT","16,039","30,302",0.53
+Essex County,VT,"Essex County, VT",964,"164,572",0.01
+Franklin County,VT,"Franklin County, VT","5,398","6,250",0.86
+Grand Isle County,VT,"Grand Isle County, VT",579,"49,421",0.01
+Lamoille County,VT,"Lamoille County, VT","2,696","7,090",0.38
+Orange County,VT,"Orange County, VT","2,901","25,300",0.11
+Orleans County,VT,"Orleans County, VT","3,194","28,999",0.11
+Rutland County,VT,"Rutland County, VT","5,842","26,907",0.22
+Washington County,VT,"Washington County, VT","6,031","58,672",0.10
+Windham County,VT,"Windham County, VT","4,965","58,140",0.09
+Windsor County,VT,"Windsor County, VT","5,227","42,756",0.12
+Virginia,VA,"Virginia, VA","884,898","55,286",16.01
+Accomack County,VA,"Accomack County, VA","5,552","8,517,685",0.00
+Albemarle County,VA,"Albemarle County, VA","8,912","32,412",0.27
+Alleghany County,VA,"Alleghany County, VA","2,164","108,718",0.02
+Amelia County,VA,"Amelia County, VA","1,273","14,910",0.09
+Amherst County,VA,"Amherst County, VA","3,969","13,013",0.31
+Appomattox County,VA,"Appomattox County, VA","2,123","31,666",0.07
+Arlington County,VA,"Arlington County, VA","14,842","15,841",0.94
+Augusta County,VA,"Augusta County, VA","6,531","237,521",0.03
+Bath County,VA,"Bath County, VA",451,"75,457",0.01
+Bedford County,VA,"Bedford County, VA","8,162","4,292",1.90
+Bland County,VA,"Bland County, VA",786,"78,747",0.01
+Botetourt County,VA,"Botetourt County, VA","2,441","6,293",0.39
+Brunswick County,VA,"Brunswick County, VA","3,187","33,277",0.10
+Buchanan County,VA,"Buchanan County, VA","5,568","16,384",0.34
+Buckingham County,VA,"Buckingham County, VA","2,993","21,221",0.14
+Campbell County,VA,"Campbell County, VA","6,132","16,999",0.36
+Caroline County,VA,"Caroline County, VA","2,930","54,973",0.05
+Carroll County,VA,"Carroll County, VA","4,605","30,772",0.15
+Charles City County,VA,"Charles City County, VA",851,"29,636",0.03
+Charlotte County,VA,"Charlotte County, VA","2,264","6,941",0.33
+Chesterfield County,VA,"Chesterfield County, VA","26,093","11,938",2.19
+Clarke County,VA,"Clarke County, VA",934,"348,556",0.00
+Craig County,VA,"Craig County, VA",599,"14,523",0.04
+Culpeper County,VA,"Culpeper County, VA","4,375","5,064",0.86
+Cumberland County,VA,"Cumberland County, VA","1,535","51,859",0.03
+Dickenson County,VA,"Dickenson County, VA","3,520","9,809",0.36
+Dinwiddie County,VA,"Dinwiddie County, VA","3,486","14,523",0.24
+Essex County,VA,"Essex County, VA","1,478","28,529",0.05
+Fairfax County,VA,"Fairfax County, VA","69,377","10,919",6.35
+Fauquier County,VA,"Fauquier County, VA","4,260","1,150,795",0.00
+Floyd County,VA,"Floyd County, VA","1,922","70,675",0.03
+Fluvanna County,VA,"Fluvanna County, VA","1,749","15,795",0.11
+Franklin County,VA,"Franklin County, VA","8,390","26,783",0.31
+Frederick County,VA,"Frederick County, VA","6,107","56,195",0.11
+Giles County,VA,"Giles County, VA","2,064","88,355",0.02
+Gloucester County,VA,"Gloucester County, VA","3,348","16,844",0.20
+Goochland County,VA,"Goochland County, VA","1,498","37,349",0.04
+Grayson County,VA,"Grayson County, VA","2,686","23,244",0.12
+Greene County,VA,"Greene County, VA","1,583","15,631",0.10
+Greensville County,VA,"Greensville County, VA","2,183","19,779",0.11
+Halifax County,VA,"Halifax County, VA","4,825","11,627",0.41
+Hanover County,VA,"Hanover County, VA","5,509","34,120",0.16
+Henrico County,VA,"Henrico County, VA","29,502","107,239",0.28
+Henry County,VA,"Henry County, VA","10,068","329,261",0.03
+Highland County,VA,"Highland County, VA",280,"50,953",0.01
+Isle of Wight County,VA,"Isle of Wight County, VA","3,368","2,210",1.52
+James City County,VA,"James City County, VA","5,288","36,953",0.14
+King and Queen County,VA,"King and Queen County, VA",858,"76,397",0.01
+King George County,VA,"King George County, VA","1,786","7,042",0.25
+King William County,VA,"King William County, VA","1,223","26,575",0.05
+Lancaster County,VA,"Lancaster County, VA","1,306","16,939",0.08
+Lee County,VA,"Lee County, VA","5,461","10,783",0.51
+Loudoun County,VA,"Loudoun County, VA","14,700","23,541",0.62
+Louisa County,VA,"Louisa County, VA","4,140","406,850",0.01
+Lunenburg County,VA,"Lunenburg County, VA","2,008","36,778",0.05
+Madison County,VA,"Madison County, VA","1,330","12,086",0.11
+Mathews County,VA,"Mathews County, VA",812,"13,295",0.06
+Mecklenburg County,VA,"Mecklenburg County, VA","5,565","8,802",0.63
+Middlesex County,VA,"Middlesex County, VA","1,317","30,650",0.04
+Montgomery County,VA,"Montgomery County, VA","21,444","10,769",1.99
+Nelson County,VA,"Nelson County, VA","1,814","98,985",0.02
+New Kent County,VA,"New Kent County, VA","1,132","14,836",0.08
+Northampton County,VA,"Northampton County, VA","2,167","22,391",0.10
+Northumberland County,VA,"Northumberland County, VA","1,790","11,735",0.15
+Nottoway County,VA,"Nottoway County, VA","2,952","12,147",0.24
+Orange County,VA,"Orange County, VA","3,387","15,420",0.22
+Page County,VA,"Page County, VA","3,293","36,644",0.09
+Patrick County,VA,"Patrick County, VA","2,683","23,933",0.11
+Pittsylvania County,VA,"Pittsylvania County, VA","9,815","17,673",0.56
+Powhatan County,VA,"Powhatan County, VA","1,931","60,949",0.03
+Prince Edward County,VA,"Prince Edward County, VA","3,782","29,189",0.13
+Prince George County,VA,"Prince George County, VA","3,019","22,950",0.13
+Prince William County,VA,"Prince William County, VA","29,545","38,082",0.78
+Pulaski County,VA,"Pulaski County, VA","4,791","468,011",0.01
+Rappahannock County,VA,"Rappahannock County, VA",629,"34,066",0.02
+Richmond County,VA,"Richmond County, VA","1,169","7,252",0.16
+Roanoke County,VA,"Roanoke County, VA","6,145","9,038",0.68
+Rockbridge County,VA,"Rockbridge County, VA","2,670","94,073",0.03
+Rockingham County,VA,"Rockingham County, VA","6,909","22,752",0.30
+Russell County,VA,"Russell County, VA","5,683","81,244",0.07
+Scott County,VA,"Scott County, VA","3,834","26,748",0.14
+Shenandoah County,VA,"Shenandoah County, VA","4,479","21,534",0.21
+Smyth County,VA,"Smyth County, VA","6,059","43,497",0.14
+Southampton County,VA,"Southampton County, VA","2,350","30,472",0.08
+Spotsylvania County,VA,"Spotsylvania County, VA","10,061","17,586",0.57
+Stafford County,VA,"Stafford County, VA","7,822","134,238",0.06
+Surry County,VA,"Surry County, VA",831,"149,960",0.01
+Sussex County,VA,"Sussex County, VA","1,980","6,474",0.31
+Tazewell County,VA,"Tazewell County, VA","7,104","11,237",0.63
+Warren County,VA,"Warren County, VA","4,026","40,855",0.10
+Washington County,VA,"Washington County, VA","8,022","40,003",0.20
+Westmoreland County,VA,"Westmoreland County, VA","2,914","54,402",0.05
+Wise County,VA,"Wise County, VA","8,929","17,830",0.50
+Wythe County,VA,"Wythe County, VA","4,391","38,012",0.12
+York County,VA,"York County, VA","3,690","28,754",0.13
+Alexandria city,VA,"Alexandria city, VA","16,093","67,846",0.24
+Bristol city,VA,"Bristol city, VA","3,324","160,530",0.02
+Buena Vista city,VA,"Buena Vista city, VA",872,"16,482",0.05
+Charlottesville city,VA,"Charlottesville city, VA","10,614","6,237",1.70
+Chesapeake city,VA,"Chesapeake city, VA","20,239","48,117",0.42
+Colonial Heights city,VA,"Colonial Heights city, VA","1,756","242,634",0.01
+Covington city,VA,"Covington city, VA",826,"17,833",0.05
+Danville city,VA,"Danville city, VA","10,006","5,460",1.83
+Emporia city,VA,"Emporia city, VA","1,010","40,693",0.02
+Fairfax city,VA,"Fairfax city, VA","1,823","5,121",0.36
+Falls Church city,VA,"Falls Church city, VA",535,"24,574",0.02
+Franklin city,VA,"Franklin city, VA","1,444","14,772",0.10
+Fredericksburg city,VA,"Fredericksburg city, VA","3,851","8,013",0.48
+Galax city,VA,"Galax city, VA","1,326","29,144",0.05
+Hampton city,VA,"Hampton city, VA","19,954","6,423",3.11
+Harrisonburg city,VA,"Harrisonburg city, VA","12,978","134,313",0.10
+Hopewell city,VA,"Hopewell city, VA","4,381","54,033",0.08
+Lexington city,VA,"Lexington city, VA","1,046","22,596",0.05
+Lynchburg city,VA,"Lynchburg city, VA","14,789","7,136",2.07
+Manassas city,VA,"Manassas city, VA","3,451","82,126",0.04
+Manassas Park city,VA,"Manassas Park city, VA","1,203","41,641",0.03
+Martinsville city,VA,"Martinsville city, VA","3,098","17,307",0.18
+Newport News city,VA,"Newport News city, VA","26,007","12,902",2.02
+Norfolk city,VA,"Norfolk city, VA","41,471","178,626",0.23
+Norton city,VA,"Norton city, VA",811,"244,076",0.00
+Petersburg city,VA,"Petersburg city, VA","7,491","3,968",1.89
+Poquoson city,VA,"Poquoson city, VA",618,"31,567",0.02
+Portsmouth city,VA,"Portsmouth city, VA","17,540","12,190",1.44
+Radford city,VA,"Radford city, VA","4,513","94,632",0.05
+Richmond city,VA,"Richmond city, VA","48,424","18,339",2.64
+Roanoke city,VA,"Roanoke city, VA","19,812","228,783",0.09
+Salem city,VA,"Salem city, VA","2,280","99,920",0.02
+Staunton city,VA,"Staunton city, VA","2,937","25,643",0.11
+Suffolk city,VA,"Suffolk city, VA","9,846","24,922",0.40
+Virginia Beach city,VA,"Virginia Beach city, VA","33,084","91,185",0.36
+Waynesboro city,VA,"Waynesboro city, VA","3,370","450,189",0.01
+Williamsburg city,VA,"Williamsburg city, VA","2,437","22,628",0.11
+Winchester city,VA,"Winchester city, VA","4,124","14,896",0.28
+Washington,WA,"Washington, WA","761,941","28,108",27.11
+Adams County,WA,"Adams County, WA","3,046","7,535,591",0.00
+Asotin County,WA,"Asotin County, WA","3,133","19,759",0.16
+Benton County,WA,"Benton County, WA","19,597","22,610",0.87
+Chelan County,WA,"Chelan County, WA","8,283","201,877",0.04
+Clallam County,WA,"Clallam County, WA","9,968","77,036",0.13
+Clark County,WA,"Clark County, WA","41,980","76,737",0.55
+Columbia County,WA,"Columbia County, WA",533,"481,857",0.00
+Cowlitz County,WA,"Cowlitz County, WA","13,165","4,059",3.24
+Douglas County,WA,"Douglas County, WA","4,450","108,987",0.04
+Ferry County,WA,"Ferry County, WA","1,347","42,907",0.03
+Franklin County,WA,"Franklin County, WA","12,250","7,649",1.60
+Garfield County,WA,"Garfield County, WA",306,"94,347",0.00
+Grant County,WA,"Grant County, WA","12,235","2,247",5.45
+Grays Harbor County,WA,"Grays Harbor County, WA","12,295","97,331",0.13
+Island County,WA,"Island County, WA","6,219","73,901",0.08
+Jefferson County,WA,"Jefferson County, WA","3,949","84,460",0.05
+King County,WA,"King County, WA","202,628","31,729",6.39
+Kitsap County,WA,"Kitsap County, WA","23,613","2,233,163",0.01
+Kittitas County,WA,"Kittitas County, WA","7,049","269,805",0.03
+Klickitat County,WA,"Klickitat County, WA","2,799","47,364",0.06
+Lewis County,WA,"Lewis County, WA","9,832","22,107",0.44
+Lincoln County,WA,"Lincoln County, WA","1,330","79,604",0.02
+Mason County,WA,"Mason County, WA","8,578","10,740",0.80
+Okanogan County,WA,"Okanogan County, WA","7,049","65,507",0.11
+Pacific County,WA,"Pacific County, WA","3,354","42,132",0.08
+Pend Oreille County,WA,"Pend Oreille County, WA","2,021","22,036",0.09
+Pierce County,WA,"Pierce County, WA","76,391","13,602",5.62
+San Juan County,WA,"San Juan County, WA","1,732","891,299",0.00
+Skagit County,WA,"Skagit County, WA","12,239","17,128",0.71
+Skamania County,WA,"Skamania County, WA","1,390","128,206",0.01
+Snohomish County,WA,"Snohomish County, WA","60,590","11,924",5.08
+Spokane County,WA,"Spokane County, WA","65,365","814,901",0.08
+Stevens County,WA,"Stevens County, WA","6,045","514,631",0.01
+Thurston County,WA,"Thurston County, WA","24,459","45,260",0.54
+Wahkiakum County,WA,"Wahkiakum County, WA",475,"286,419",0.00
+Walla Walla County,WA,"Walla Walla County, WA","7,483","4,426",1.69
+Whatcom County,WA,"Whatcom County, WA","32,753","60,922",0.54
+Whitman County,WA,"Whitman County, WA","11,053","225,685",0.05
+Yakima County,WA,"Yakima County, WA","40,961","49,791",0.82
+West Virginia,WV,"West Virginia, WV","305,656","251,446",1.22
+Barbour County,WV,"Barbour County, WV","3,110","1,805,832",0.00
+Berkeley County,WV,"Berkeley County, WV","13,275","16,535",0.80
+Boone County,WV,"Boone County, WV","4,890","117,123",0.04
+Braxton County,WV,"Braxton County, WV","2,953","21,951",0.13
+Brooke County,WV,"Brooke County, WV","2,930","14,089",0.21
+Cabell County,WV,"Cabell County, WV","17,242","22,203",0.78
+Calhoun County,WV,"Calhoun County, WV","1,637","93,224",0.02
+Clay County,WV,"Clay County, WV","2,142","7,254",0.30
+Doddridge County,WV,"Doddridge County, WV","1,418","8,632",0.16
+Fayette County,WV,"Fayette County, WV","9,236","8,406",1.10
+Gilmer County,WV,"Gilmer County, WV","1,521","43,018",0.04
+Grant County,WV,"Grant County, WV","1,703","8,026",0.21
+Greenbrier County,WV,"Greenbrier County, WV","5,389","11,626",0.46
+Hampshire County,WV,"Hampshire County, WV","4,568","34,786",0.13
+Hancock County,WV,"Hancock County, WV","3,788","23,347",0.16
+Hardy County,WV,"Hardy County, WV","1,753","29,094",0.06
+Harrison County,WV,"Harrison County, WV","11,089","13,775",0.81
+Jackson County,WV,"Jackson County, WV","4,732","67,554",0.07
+Jefferson County,WV,"Jefferson County, WV","5,403","28,706",0.19
+Kanawha County,WV,"Kanawha County, WV","30,248","56,811",0.53
+Lewis County,WV,"Lewis County, WV","2,718","180,454",0.02
+Lincoln County,WV,"Lincoln County, WV","4,756","16,024",0.30
+Logan County,WV,"Logan County, WV","7,821","20,599",0.38
+McDowell County,WV,"McDowell County, WV","6,386","32,607",0.20
+Marion County,WV,"Marion County, WV","9,084","18,223",0.50
+Marshall County,WV,"Marshall County, WV","4,200","56,097",0.07
+Mason County,WV,"Mason County, WV","4,391","30,785",0.14
+Mercer County,WV,"Mercer County, WV","13,157","26,718",0.49
+Mineral County,WV,"Mineral County, WV","3,793","59,131",0.06
+Mingo County,WV,"Mingo County, WV","6,386","26,940",0.24
+Monongalia County,WV,"Monongalia County, WV","18,156","23,785",0.76
+Monroe County,WV,"Monroe County, WV","1,960","106,420",0.02
+Morgan County,WV,"Morgan County, WV","1,894","13,280",0.14
+Nicholas County,WV,"Nicholas County, WV","4,659","17,787",0.26
+Ohio County,WV,"Ohio County, WV","4,953","24,842",0.20
+Pendleton County,WV,"Pendleton County, WV","1,003","41,755",0.02
+Pleasants County,WV,"Pleasants County, WV",919,"6,997",0.13
+Pocahontas County,WV,"Pocahontas County, WV","1,408","7,507",0.19
+Preston County,WV,"Preston County, WV","5,104","8,414",0.61
+Putnam County,WV,"Putnam County, WV","5,630","33,839",0.17
+Raleigh County,WV,"Raleigh County, WV","14,596","56,682",0.26
+Randolph County,WV,"Randolph County, WV","5,128","74,254",0.07
+Ritchie County,WV,"Ritchie County, WV","1,644","28,823",0.06
+Roane County,WV,"Roane County, WV","3,046","9,721",0.31
+Summers County,WV,"Summers County, WV","3,144","13,932",0.23
+Taylor County,WV,"Taylor County, WV","2,626","12,760",0.21
+Tucker County,WV,"Tucker County, WV",907,"16,862",0.05
+Tyler County,WV,"Tyler County, WV","1,341","6,955",0.19
+Upshur County,WV,"Upshur County, WV","4,377","8,746",0.50
+Wayne County,WV,"Wayne County, WV","8,298","24,415",0.34
+Webster County,WV,"Webster County, WV","1,884","39,944",0.05
+Wetzel County,WV,"Wetzel County, WV","2,756","8,285",0.33
+Wirt County,WV,"Wirt County, WV","1,086","15,270",0.07
+Wood County,WV,"Wood County, WV","12,449","5,830",2.14
+Wyoming County,WV,"Wyoming County, WV","4,969","84,203",0.06
+Wisconsin,WI,"Wisconsin, WI","626,748","20,786",30.15
+Adams County,WI,"Adams County, WI","2,924","5,813,568",0.00
+Ashland County,WI,"Ashland County, WI","2,356","20,348",0.12
+Barron County,WI,"Barron County, WI","5,482","15,600",0.35
+Bayfield County,WI,"Bayfield County, WI","2,103","45,164",0.05
+Brown County,WI,"Brown County, WI","21,944","15,042",1.46
+Buffalo County,WI,"Buffalo County, WI","1,142","263,378",0.00
+Burnett County,WI,"Burnett County, WI","1,628","13,125",0.12
+Calumet County,WI,"Calumet County, WI","2,623","15,392",0.17
+Chippewa County,WI,"Chippewa County, WI","6,925","50,159",0.14
+Clark County,WI,"Clark County, WI","4,052","64,135",0.06
+Columbia County,WI,"Columbia County, WI","4,255","34,709",0.12
+Crawford County,WI,"Crawford County, WI","2,007","57,358",0.03
+Dane County,WI,"Dane County, WI","57,062","16,291",3.50
+Dodge County,WI,"Dodge County, WI","7,283","542,364",0.01
+Door County,WI,"Door County, WI","2,289","87,847",0.03
+Douglas County,WI,"Douglas County, WI","4,902","27,610",0.18
+Dunn County,WI,"Dunn County, WI","5,213","43,208",0.12
+Eau Claire County,WI,"Eau Claire County, WI","12,906","45,131",0.29
+Florence County,WI,"Florence County, WI",506,"104,534",0.00
+Fond du Lac County,WI,"Fond du Lac County, WI","9,513","4,321",2.20
+Forest County,WI,"Forest County, WI","1,294","103,066",0.01
+Grant County,WI,"Grant County, WI","6,595","8,991",0.73
+Green County,WI,"Green County, WI","2,794","51,554",0.05
+Green Lake County,WI,"Green Lake County, WI","2,064","36,929",0.06
+Iowa County,WI,"Iowa County, WI","1,933","18,918",0.10
+Iron County,WI,"Iron County, WI",733,"23,771",0.03
+Jackson County,WI,"Jackson County, WI","2,289","5,676",0.40
+Jefferson County,WI,"Jefferson County, WI","6,701","20,478",0.33
+Juneau County,WI,"Juneau County, WI","3,388","85,129",0.04
+Kenosha County,WI,"Kenosha County, WI","19,819","26,617",0.74
+Kewaunee County,WI,"Kewaunee County, WI","1,472","169,290",0.01
+La Crosse County,WI,"La Crosse County, WI","12,334","20,383",0.61
+Lafayette County,WI,"Lafayette County, WI","1,860","118,230",0.02
+Langlade County,WI,"Langlade County, WI","2,392","16,665",0.14
+Lincoln County,WI,"Lincoln County, WI","2,862","19,268",0.15
+Manitowoc County,WI,"Manitowoc County, WI","8,124","27,689",0.29
+Marathon County,WI,"Marathon County, WI","10,027","79,074",0.13
+Marinette County,WI,"Marinette County, WI","4,777","135,428",0.04
+Marquette County,WI,"Marquette County, WI","1,643","40,434",0.04
+Menominee County,WI,"Menominee County, WI","1,215","15,434",0.08
+Milwaukee County,WI,"Milwaukee County, WI","177,263","4,658",38.06
+Monroe County,WI,"Monroe County, WI","5,972","948,201",0.01
+Oconto County,WI,"Oconto County, WI","3,441","46,051",0.07
+Oneida County,WI,"Oneida County, WI","3,266","37,830",0.09
+Outagamie County,WI,"Outagamie County, WI","13,196","35,470",0.37
+Ozaukee County,WI,"Ozaukee County, WI","3,674","187,365",0.02
+Pepin County,WI,"Pepin County, WI",738,"89,147",0.01
+Pierce County,WI,"Pierce County, WI","3,363","7,289",0.46
+Polk County,WI,"Polk County, WI","4,148","42,555",0.10
+Portage County,WI,"Portage County, WI","7,635","43,598",0.18
+Price County,WI,"Price County, WI","1,638","70,942",0.02
+Racine County,WI,"Racine County, WI","24,084","13,397",1.80
+Richland County,WI,"Richland County, WI","2,438","196,584",0.01
+Rock County,WI,"Rock County, WI","17,477","17,377",1.01
+Rusk County,WI,"Rusk County, WI","2,001","163,129",0.01
+St. Croix County,WI,"St. Croix County, WI","4,179","14,147",0.30
+Sauk County,WI,"Sauk County, WI","5,416","89,694",0.06
+Sawyer County,WI,"Sawyer County, WI","2,338","64,249",0.04
+Shawano County,WI,"Shawano County, WI","3,836","16,489",0.23
+Sheboygan County,WI,"Sheboygan County, WI","8,432","40,796",0.21
+Taylor County,WI,"Taylor County, WI","2,072","115,456",0.02
+Trempealeau County,WI,"Trempealeau County, WI","2,297","20,412",0.11
+Vernon County,WI,"Vernon County, WI","4,126","29,442",0.14
+Vilas County,WI,"Vilas County, WI","2,359","30,785",0.08
+Walworth County,WI,"Walworth County, WI","10,114","21,938",0.46
+Washburn County,WI,"Washburn County, WI","1,954","103,718",0.02
+Washington County,WI,"Washington County, WI","6,059","15,878",0.38
+Waukesha County,WI,"Waukesha County, WI","19,937","135,693",0.15
+Waupaca County,WI,"Waupaca County, WI","5,135","403,072",0.01
+Waushara County,WI,"Waushara County, WI","2,503","51,128",0.05
+Winnebago County,WI,"Winnebago County, WI","16,915","24,263",0.70
+Wood County,WI,"Wood County, WI","7,313","171,020",0.04
+Wyoming,WY,"Wyoming, WY","60,097","73,055",0.82
+Albany County,WY,"Albany County, WY","7,451","577,737",0.01
+Big Horn County,WY,"Big Horn County, WY","1,519","38,601",0.04
+Campbell County,WY,"Campbell County, WY","4,200","11,881",0.35
+Carbon County,WY,"Carbon County, WY","1,894","46,140",0.04
+Converse County,WY,"Converse County, WY","1,287","14,971",0.09
+Crook County,WY,"Crook County, WY",604,"13,640",0.04
+Fremont County,WY,"Fremont County, WY","6,070","7,450",0.81
+Goshen County,WY,"Goshen County, WY","1,567","39,531",0.04
+Hot Springs County,WY,"Hot Springs County, WY",604,"13,376",0.05
+Johnson County,WY,"Johnson County, WY",859,"4,555",0.19
+Laramie County,WY,"Laramie County, WY","8,839","8,460",1.04
+Lincoln County,WY,"Lincoln County, WY","1,518","98,976",0.02
+Natrona County,WY,"Natrona County, WY","7,677","19,434",0.40
+Niobrara County,WY,"Niobrara County, WY",292,"79,115",0.00
+Park County,WY,"Park County, WY","2,921","2,388",1.22
+Platte County,WY,"Platte County, WY",899,"29,324",0.03
+Sheridan County,WY,"Sheridan County, WY","2,551","8,566",0.30
+Sublette County,WY,"Sublette County, WY",658,"30,233",0.02
+Sweetwater County,WY,"Sweetwater County, WY","3,540","9,813",0.36
+Teton County,WY,"Teton County, WY","1,443","43,051",0.03
+Uinta County,WY,"Uinta County, WY","2,010","23,081",0.09
+Washakie County,WY,"Washakie County, WY",918,"20,299",0.05
+Weston County,WY,"Weston County, WY",777,"7,885",0.10
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
